@@ -1,0 +1,1811 @@
+﻿Log file open, 01/01/17 14:52:06
+LogInit:Display: Running engine for game: Rescale
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1645627090) SRandInit(1645627090).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.088406
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin Substance, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Marketplace/Substance/Substance.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3224400
+LogInit: Engine Version: 4.14.1-3224400+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Dec  7 2016 02:14:32
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.01.01-13.52.06:601][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.01-13.52.06:601][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.01.01-13.52.06:612][  0]LogInit: Computer: MANUPC
+[2017.01.01-13.52.06:612][  0]LogInit: User: Manu
+[2017.01.01-13.52.06:612][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.01.01-13.52.06:612][  0]LogInit: High frequency timer resolution =2.533200 MHz
+[2017.01.01-13.52.06:612][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.01.01-13.52.06:612][  0]LogMemory: Platform Memory Stats for Windows
+[2017.01.01-13.52.06:612][  0]LogMemory: Process Physical Memory: 263.06 MB used, 263.06 MB peak
+[2017.01.01-13.52.06:612][  0]LogMemory: Process Virtual Memory: 262.74 MB used, 262.74 MB peak
+[2017.01.01-13.52.06:612][  0]LogMemory: Physical Memory: 3339.58 MB used,  4775.69 MB free, 8115.27 MB total
+[2017.01.01-13.52.06:612][  0]LogMemory: Virtual Memory: 676.55 MB used,  4775.69 MB free, 134217728.00 MB total
+[2017.01.01-13.52.06:972][  0]LogTextLocalizationManager: No translations for ('fr-FR') exist, falling back to 'en' for localization and internationalization data.
+[2017.01.01-13.52.07:670][  0]LogD3D11RHI: D3D11 adapters:
+[2017.01.01-13.52.08:288][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2017.01.01-13.52.08:288][  0]LogD3D11RHI:       2018/0/4057 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.01.01-13.52.08:295][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2017.01.01-13.52.08:295][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.01.01-13.52.08:297][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.01.01-13.52.08:297][  0]LogD3D11RHI:       0/0/4057 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.01.01-13.52.08:297][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.01.01-13.52.08:308][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.01.01-13.52.08:308][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2017.01.01-13.52.08:308][  0]LogWindows: EnumDisplayDevices:
+[2017.01.01-13.52.08:308][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2017.01.01-13.52.08:309][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.01.01-13.52.08:309][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.01.01-13.52.08:309][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.01.01-13.52.08:309][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2017.01.01-13.52.08:309][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.01.01-13.52.08:309][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.01.01-13.52.08:309][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.01.01-13.52.08:914][  0]LogD3D11RHI: Async texture creation enabled
+[2017.01.01-13.52.08:993][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.01.01-13.52.08:994][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Intermediate/Shaders/WorkingDirectory/49320/).
+[2017.01.01-13.52.08:994][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Manu/AppData/Local/Temp/UnrealShaderWorkingDir/8E4FD9D84B23D97BA8DCBEA878BD3C35/'.
+[2017.01.01-13.52.08:994][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.01.01-13.52.10:288][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.01.01-13.52.10:339][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.01.01-13.52.10:389][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.01.01-13.52.10:441][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.01.01-13.52.10:493][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.01.01-13.52.10:547][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.01.01-13.52.10:599][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.01.01-13.52.10:651][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.01.01-13.52.10:693][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.01.01-13.52.10:742][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.01.01-13.52.10:792][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.01.01-13.52.10:871][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.01.01-13.52.10:927][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.01.01-13.52.10:978][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.01.01-13.52.11:066][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.01.01-13.52.11:175][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.01.01-13.52.11:175][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.01.01-13.52.11:211][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.01.01-13.52.11:290][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.01.01-13.52.11:354][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.01.01-13.52.11:457][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.01.01-13.52.11:515][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.01.01-13.52.11:568][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.01.01-13.52.11:620][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.01.01-13.52.11:620][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.01.01-13.52.12:043][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.01.01-13.52.12:104][  0]LogDerivedDataCache: Loaded boot cache 0.06s 50MB C:/Users/Manu/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.01-13.52.12:104][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Manu/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.01.01-13.52.12:104][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.01.01-13.52.12:104][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.01.01-13.52.12:104][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.01.01-13.52.12:104][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.01.01-13.52.12:123][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.01.01-13.52.12:135][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Manu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.01.01-13.52.12:338][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.01-13.52.12:341][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.01.01-13.52.12:543][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.01.01-13.52.12:583][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.01.01-13.52.12:626][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.01.01-13.52.12:626][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.01.01-13.52.12:626][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.01.01-13.52.13:224][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: rescale, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 103703839
+[2017.01.01-13.52.13:281][  0]LogAssetRegistry: FAssetRegistry took 0.0215 seconds to start up
+[2017.01.01-13.52.13:365][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 1 prioritized culture(s) in 0.027496 seconds
+[2017.01.01-13.52.13:378][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.01.01-13.52.13:378][  0]LogUObjectAllocator: 6935840 out of 0 bytes used by permanent object pool.
+[2017.01.01-13.52.13:378][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.01.01-13.52.13:482][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.01.01-13.52.14:321][  0]LogSlate: Using Freetype 2.6.0
+[2017.01.01-13.52.14:321][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.01-13.52.14:321][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.01-13.52.15:283][  0]LogSubstanceCoreModule: Substance CPU Engine Loaded, Max Texture Size 2048
+[2017.01.01-13.52.15:311][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.01.01-13.52.15:387][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.01.01-13.52.15:737][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.01.01-13.52.16:144][  0]SourceControl: Info Source control is disabled
+[2017.01.01-13.52.16:145][  0]SourceControl: Info Source control is disabled
+[2017.01.01-13.52.16:190][  0]SourceControl: Info Source control is disabled
+[2017.01.01-13.52.16:231][  0]SourceControl: Info Source control is disabled
+[2017.01.01-13.52.17:511][  0]LogEngine: Initializing Engine...
+[2017.01.01-13.52.17:511][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.01.01-13.52.17:789][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.01.01-13.52.17:795][  0]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.01-13.52.17:807][  0]LogInit: FAudioDevice initialized.
+[2017.01.01-13.52.17:840][  0]LogDerivedDataCache: Saved boot cache 0.03s 50MB C:/Users/Manu/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.01-13.52.17:854][  0]LogInit: Texture streaming: Enabled
+[2017.01.01-13.52.18:057][  0]LogInit: Transaction tracking system initialized
+[2017.01.01-13.52.18:437][  0]BlueprintLog: New page: Editor Load
+[2017.01.01-13.52.19:579][  0]LocalizationService: Info Localization service is disabled
+[2017.01.01-13.52.20:209][  0]LogConsoleResponse:Display: 
+[2017.01.01-13.52.20:352][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.01.01-13.52.20:352][  0]LogCook:Display: Mobile HDR setting 1
+[2017.01.01-13.52.21:393][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Manu/Documents/Unreal Projects/RescaleE/Content/' took 0.01s
+[2017.01.01-13.52.21:393][  0]SourceControl: Info Source control is disabled
+[2017.01.01-13.52.21:393][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/MapTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.01.01-13.52.21:394][  0]LightingResults: New page: Lighting Build
+[2017.01.01-13.52.21:439][  0]MapCheck: New page: Map Check
+[2017.01.01-13.52.21:439][  0]LightingResults: New page: Lighting Build
+[2017.01.01-13.52.21:880][  0]LogAIModule: Creating AISystem for world MapTest
+[2017.01.01-13.52.21:889][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.01.01-13.52.21:889][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.01.01-13.52.21:932][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 42.727ms to complete.
+[2017.01.01-13.52.21:932][  0]LogFileHelpers: Loading map 'MapTest' took 0.539
+[2017.01.01-13.52.22:010][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.01-13.52.22:141][  0]LogCollectionManager: Loaded 0 collections in 0.001621 seconds
+[2017.01.01-13.52.22:269][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Collections/' took 0.01s
+[2017.01.01-13.52.22:269][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Manu/Documents/Unreal Projects/RescaleE/Content/Developers/Manu/Collections/' took 0.01s
+[2017.01.01-13.52.22:269][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Manu/Documents/Unreal Projects/RescaleE/Content/Collections/' took 0.01s
+[2017.01.01-13.52.22:269][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.01.01-13.52.22:281][  0]LogContentBrowser: Native class hierarchy populated in 0.0115 seconds. Added 2205 classes and 434 folders.
+[2017.01.01-13.52.22:321][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.01.01-13.52.22:321][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.01.01-13.52.22:322][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0006 seconds. Added 13 classes and 0 folders.
+[2017.01.01-13.52.22:381][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.01.01-13.52.22:417][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.01.01-13.52.22:459][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.01.01-13.52.22:542][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.01.01-13.52.24:713][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.01.01-13.52.24:740][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.01.01-13.52.25:186][  0]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Rescale
+
+[2017.01.01-13.52.25:186][  0]LogTemp:Display: CWD: C:\Program Files (x86)\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2017.01.01-13.52.25:186][  0]LogTemp:Display: Initial Dir: C:\Program Files (x86)\Epic Games\4.14
+
+[2017.01.01-13.52.25:186][  0]LogTemp:Display: Env CWD: C:\Program Files (x86)\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2017.01.01-13.52.25:186][  0]LogTemp:Display: BranchPath = MANUPC/C/Program Files (x86)/Epic Games/4.14/Engine/Binaries --- GameBranchPath = MANUPC/C/Program Files (x86)/Epic Games/4.14/Engine/Binaries
+
+[2017.01.01-13.52.25:186][  0]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: Impossible de trouver une partie du chemin d'acc?s 'C:\Users\Manu\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles'.
+
+[2017.01.01-13.52.25:186][  0]LogTemp:Display:    ? System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.01.01-13.52.25:186][  0]LogTemp:Display:    ? System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.01.01-13.52.25:186][  0]LogTemp:Display:    ? System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.01.01-13.52.25:186][  0]LogTemp:Display:    ? iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.01.01-13.52.25:186][  0]LogTemp:Display:    ? iPhonePackager.Program.Main(String[] args)
+
+[2017.01.01-13.52.25:345][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0017 seconds. Added 1 classes and 2 folders.
+[2017.01.01-13.52.25:346][  0]LogLoad: (Engine Initialization) Total time: 20.59 seconds
+[2017.01.01-13.52.25:346][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.16 seconds
+[2017.01.01-13.52.25:346][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.01.01-13.52.25:346][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.01.01-13.52.25:367][  0]LogOcInput: OculusInput pre-init called
+[2017.01.01-13.52.25:397][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.01.01-13.52.25:751][  0]LogRenderer: Reallocating scene render targets to support 1172x600 NumSamples 1 (Frame:2).
+[2017.01.01-13.52.26:021][  3]LogAssetRegistry: Asset discovery search completed in 12.7624 seconds
+[2017.01.01-13.52.26:022][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.01.01-13.52.26:022][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000025 seconds (updated 0 objects)
+[2017.01.01-13.52.38:568][360]LogAIModule: Creating AISystem for world Inside
+[2017.01.01-13.52.38:634][360]Cmd: MAP LOAD FILE="../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.01.01-13.52.38:634][360]LightingResults: New page: Lighting Build
+[2017.01.01-13.52.38:636][360]LoadErrors: New page: Loading map: Inside.umap
+[2017.01.01-13.52.38:637][360]MapCheck: New page: Map Check
+[2017.01.01-13.52.38:637][360]LightingResults: New page: Lighting Build
+[2017.01.01-13.52.38:795][360]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.01.01-13.52.38:870][360]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.01.01-13.52.38:992][360]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 120.606ms to complete.
+[2017.01.01-13.52.38:992][360]LogFileHelpers: Loading map 'Inside' took 0.359
+[2017.01.01-13.53.13:241][ 27]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.01-13.53.13:255][ 27]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.01-13.53.13:255][ 27]PIE: New page: PIE session: Inside (Jan 1, 2017, 3:53:13 PM)
+[2017.01.01-13.53.13:255][ 27]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_Inside
+[2017.01.01-13.53.13:266][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011344s)
+[2017.01.01-13.53.13:267][ 27]LogAIModule: Creating AISystem for world Inside
+[2017.01.01-13.53.13:267][ 27]LogPlayLevel: PIE: World Init took: (0.000551s)
+[2017.01.01-13.53.13:267][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/Inside.Inside to /Game/_Rescale/UEDPIE_0_Inside.Inside (0.012140s)
+[2017.01.01-13.53.13:276][ 27]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.01-13.53.13:284][ 27]LogInit: FAudioDevice initialized.
+[2017.01.01-13.53.13:905][ 27]LogLoad: Game class is 'BP_RescaleGamemode_C'
+[2017.01.01-13.53.13:910][ 27]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_Inside.Inside up for play (max tick rate 0) at 2017.01.01-14.53.13
+[2017.01.01-13.53.13:911][ 27]LogWorld: Bringing up level for play took: 0.004218
+[2017.01.01-13.53.13:949][ 27]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2017.01.01-13.53.13:950][ 27]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+
+[2017.01.01-13.53.13:953][ 27]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_Inside -0.102
+[2017.01.01-13.54.46:174][856]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+
+[2017.01.01-13.54.55:976][929]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+
+[2017.01.01-13.55.15:763][238]LogEditorViewport: Clicking on Actor (LMB): ScalableGeometry_C (ScalableGeometry)
+[2017.01.01-13.55.32:191][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v81)
+[2017.01.01-13.55.33:292][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v82)
+[2017.01.01-13.55.34:250][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v81)
+[2017.01.01-13.55.36:210][474]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v82)
+[2017.01.01-13.55.37:684][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v81)
+[2017.01.01-13.55.42:100][119]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v82)
+[2017.01.01-13.55.46:437][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v81)
+[2017.01.01-13.55.47:247][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v82)
+[2017.01.01-13.56.14:470][372]LogSavePackage: Save=7.02ms
+[2017.01.01-13.56.14:470][372]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/MaxStepHeightB48DD8364AD9B8D6B71305B5BAA00D01.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/_Blueprints/BaseValueCurves/MaxStepHeight.uasset'
+[2017.01.01-13.56.14:475][372]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/_Blueprints/BaseValueCurves/MaxStepHeight.uasset
+[2017.01.01-13.56.16:990][617]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.01-13.56.18:509][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.01-13.56.18:509][617]PIE: New page: PIE session: Inside (Jan 1, 2017, 3:56:18 PM)
+[2017.01.01-13.56.18:510][617]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_Inside
+[2017.01.01-13.56.18:543][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033034s)
+[2017.01.01-13.56.18:544][617]LogAIModule: Creating AISystem for world Inside
+[2017.01.01-13.56.18:544][617]LogPlayLevel: PIE: World Init took: (0.001092s)
+[2017.01.01-13.56.18:544][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/Inside.Inside to /Game/_Rescale/UEDPIE_0_Inside.Inside (0.034524s)
+[2017.01.01-13.56.18:565][617]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.01-13.56.18:574][617]LogInit: FAudioDevice initialized.
+[2017.01.01-13.56.18:609][617]LogLoad: Game class is 'BP_RescaleGamemode_C'
+[2017.01.01-13.56.18:621][617]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_Inside.Inside up for play (max tick rate 0) at 2017.01.01-14.56.18
+[2017.01.01-13.56.18:622][617]LogWorld: Bringing up level for play took: 0.010590
+[2017.01.01-13.56.18:623][617]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+
+[2017.01.01-13.56.18:628][617]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_Inside 0.573
+[2017.01.01-13.58.09:527][447]LogSavePackage: Save=3.84ms
+[2017.01.01-13.58.09:527][447]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/MaxStepHeightB6E9EC264F8F67F6604C9F8673928F74.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/_Blueprints/BaseValueCurves/MaxStepHeight.uasset'
+[2017.01.01-13.58.09:531][447]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/_Blueprints/BaseValueCurves/MaxStepHeight.uasset
+[2017.01.01-13.58.13:706][871]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.01-13.58.13:720][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.01-13.58.13:720][871]PIE: New page: PIE session: Inside (Jan 1, 2017, 3:58:13 PM)
+[2017.01.01-13.58.13:720][871]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_Inside
+[2017.01.01-13.58.13:732][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012455s)
+[2017.01.01-13.58.13:733][871]LogAIModule: Creating AISystem for world Inside
+[2017.01.01-13.58.13:733][871]LogPlayLevel: PIE: World Init took: (0.000503s)
+[2017.01.01-13.58.13:733][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/Inside.Inside to /Game/_Rescale/UEDPIE_0_Inside.Inside (0.013184s)
+[2017.01.01-13.58.13:746][871]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.01-13.58.13:755][871]LogInit: FAudioDevice initialized.
+[2017.01.01-13.58.13:788][871]LogLoad: Game class is 'BP_RescaleGamemode_C'
+[2017.01.01-13.58.13:794][871]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_Inside.Inside up for play (max tick rate 0) at 2017.01.01-14.58.13
+[2017.01.01-13.58.13:794][871]LogWorld: Bringing up level for play took: 0.004691
+[2017.01.01-13.58.13:796][871]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+
+[2017.01.01-13.58.13:797][871]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_Inside -0.257
+[2017.01.01-13.59.55:173][710]MapCheck: New page: Map Check
+[2017.01.01-13.59.55:189][710]Cmd: MAP REBUILD ALLVISIBLE
+[2017.01.01-13.59.55:189][710]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.01.01-13.59.55:320][710]LightingResults: New page: Lighting Build - Jan 1, 2017, 3:59:55 PM
+[2017.01.01-13.59.55:348][710]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.01.01-13.59.55:400][710]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.01.01-13.59.55:408][710]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.01.01-13.59.57:436][710]LogSwarmInterface:Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2017.01.01-13.59.57:442][710]LogSwarmInterface:Error: System.Net.Sockets.SocketException (0x80004005): Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée 127.0.0.1:8008
+
+Server stack trace: 
+   à System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   à System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   à System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   à System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   à System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   à System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   à System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   à System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   à System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   à NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   à NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags)
+[2017.01.01-14.00.02:449][710]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.01.01-14.00.02:449][710]LogSwarmInterface: [TryOpenConnection] Local Process ID is 49320
+[2017.01.01-14.00.07:015][710]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.01.01-14.00.07:015][710]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.01.01-14.00.07:015][710]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.01.01-14.00.07:015][710]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.01.01-14.00.07:015][710]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.01.01-14.00.07:152][710]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.01.01-14.00.07:152][710]MapCheck: New page: Inside - Jan 1, 2017, 4:00:07 PM
+[2017.01.01-14.00.07:153][710]MapCheck:Error: Error WorldSettings Maps need lighting rebuilt 
+[2017.01.01-14.00.07:203][710]MapCheck: Info Map check complete: 1 Error(s), 0 Warning(s), took 51.221ms to complete.
+[2017.01.01-14.00.07:225][710]LogEditorBuildUtils: Build time 0:12
+[2017.01.01-14.01.22:122][ 46]Job is a success!
+[2017.01.01-14.01.23:610][ 47]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2017.01.01-14.01.23:610][ 47]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2017.01.01-14.01.23:610][ 47]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2017.01.01-14.01.23:610][ 47]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2017.01.01-14.01.23:610][ 47]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT)
+[2017.01.01-14.01.23:610][ 47]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1)
+[2017.01.01-14.01.24:173][ 47]LogTexture:Display: Building textures: ShadowMapTexture2D_1 (BGRA8)
+[2017.01.01-14.01.24:254][ 47]Lightmass on MANUPC: 1:16 min total, 127 ms importing, 294 ms setup, 10.4 sec photons, 1:05 min processing, 0 ms extra exporting [180/180 mappings]. Threads: 7:37 min total, 6:13 min processing.
+[2017.01.01-14.01.24:302][ 47]LogStaticLightingSystem: Illumination: 1:28 min (1.23 sec encoding lightmaps, 557 ms encoding shadowmaps)
+[2017.01.01-14.01.24:302][ 47]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (4.0 MB streaming, 2.0 MB non-streaming), 6 textures
+[2017.01.01-14.01.24:302][ 47]LogStaticLightingSystem: Shadowmap texture memory: 10.7 MB (10.7 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.01.01-14.01.25:037][ 47]DumpUnbuiltLightIteractions
+[2017.01.01-14.01.25:037][ 47]Lights with unbuilt interactions: 0
+[2017.01.01-14.01.25:037][ 47]
+[2017.01.01-14.01.25:037][ 47]Primitives with unbuilt interactions: 0
+[2017.01.01-14.01.25:059][ 48]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.01.01-14.01.25:060][ 48]MapCheck: New page: Inside - Jan 1, 2017, 4:01:25 PM
+[2017.01.01-14.01.25:151][ 48]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 91.376ms to complete.
+[2017.01.01-14.01.28:510][310]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.01-14.01.28:524][310]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.01-14.01.28:525][310]PIE: New page: PIE session: Inside (Jan 1, 2017, 4:01:28 PM)
+[2017.01.01-14.01.28:525][310]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_Inside
+[2017.01.01-14.01.28:538][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012943s)
+[2017.01.01-14.01.28:538][310]LogAIModule: Creating AISystem for world Inside
+[2017.01.01-14.01.28:538][310]LogPlayLevel: PIE: World Init took: (0.000535s)
+[2017.01.01-14.01.28:538][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/Inside.Inside to /Game/_Rescale/UEDPIE_0_Inside.Inside (0.013697s)
+[2017.01.01-14.01.28:549][310]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.01-14.01.28:558][310]LogInit: FAudioDevice initialized.
+[2017.01.01-14.01.28:589][310]LogLoad: Game class is 'BP_RescaleGamemode_C'
+[2017.01.01-14.01.28:594][310]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_Inside.Inside up for play (max tick rate 0) at 2017.01.01-15.01.28
+[2017.01.01-14.01.28:594][310]LogWorld: Bringing up level for play took: 0.003706
+[2017.01.01-14.01.28:595][310]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+
+[2017.01.01-14.01.28:597][310]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_Inside 0.542
+[2017.01.01-14.01.33:329][781]Cmd: LevelEditor.ToggleImmersive
+[2017.01.01-14.01.33:527][782]LogRenderer: Reallocating scene render targets to support 1504x816 NumSamples 1 (Frame:47663).
+[2017.01.01-14.01.33:596][783]LogRenderer: Reallocating scene render targets to support 1920x1080 NumSamples 1 (Frame:47665).
+[2017.01.01-14.03.00:163][ 13]LogBlueprintUserMessages: [BP_Character_C_0] Dead
+[2017.01.01-14.03.05:149][258]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+
+[2017.01.01-14.03.39:232][894]LogBlueprintUserMessages: [BP_Character_C_1] Dead
+[2017.01.01-14.03.44:219][136]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+
+[2017.01.01-14.04.29:285][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v195)
+[2017.01.01-14.04.31:155][318]Cmd: DELETE
+[2017.01.01-14.04.31:155][318]Cmd: ACTOR DELETE
+[2017.01.01-14.04.31:157][318]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.01.01-14.04.31:178][318]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2017.01.01-14.04.32:353][402]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube3x3x3_Archi_v156)
+[2017.01.01-14.04.33:387][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v194)
+[2017.01.01-14.04.33:520][450]Cmd: DELETE
+[2017.01.01-14.04.33:521][450]Cmd: ACTOR DELETE
+[2017.01.01-14.04.33:522][450]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.01.01-14.04.33:543][450]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2017.01.01-14.04.38:855][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v61)
+[2017.01.01-14.04.49:017][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v61)
+[2017.01.01-14.04.50:212][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v147)
+[2017.01.01-14.04.51:443][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v61)
+[2017.01.01-14.05.28:092][207]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v189)
+[2017.01.01-14.05.29:127][276]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v62)
+[2017.01.01-14.06.06:568][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v71)
+[2017.01.01-14.06.48:998][750]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v123)
+[2017.01.01-14.06.56:011][231]MapCheck: New page: Map Check
+[2017.01.01-14.06.56:027][231]Cmd: MAP REBUILD ALLVISIBLE
+[2017.01.01-14.06.56:027][231]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.01.01-14.06.56:191][231]LightingResults: New page: Lighting Build - Jan 1, 2017, 4:06:56 PM
+[2017.01.01-14.06.56:208][231]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.01.01-14.06.56:212][231]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.01.01-14.06.56:212][231]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.01.01-14.06.56:213][231]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.01.01-14.06.56:213][231]LogSwarmInterface: [TryOpenConnection] Local Process ID is 49320
+[2017.01.01-14.07.00:729][231]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.01.01-14.07.00:729][231]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.01.01-14.07.00:729][231]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.01.01-14.07.00:729][231]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.01.01-14.07.00:729][231]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.01.01-14.07.00:875][231]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.01.01-14.07.00:875][231]MapCheck: New page: Inside - Jan 1, 2017, 4:07:00 PM
+[2017.01.01-14.07.00:876][231]MapCheck:Error: Error WorldSettings Maps need lighting rebuilt 
+[2017.01.01-14.07.00:925][231]MapCheck: Info Map check complete: 1 Error(s), 0 Warning(s), took 49.936ms to complete.
+[2017.01.01-14.07.00:947][231]LogEditorBuildUtils: Build time 0:04
+[2017.01.01-14.08.34:143][557]Job is a success!
+[2017.01.01-14.08.35:737][558]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2017.01.01-14.08.35:737][558]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2017.01.01-14.08.35:737][558]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2017.01.01-14.08.35:737][558]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2017.01.01-14.08.35:737][558]LogTexture:Display: Building textures: HQ_Lightmap1_3 (AutoDXT)
+[2017.01.01-14.08.35:737][558]LogTexture:Display: Building textures: LQ_Lightmap_1_3 (DXT1)
+[2017.01.01-14.08.36:291][558]LogTexture:Display: Building textures: ShadowMapTexture2D_2 (BGRA8)
+[2017.01.01-14.08.36:321][558]Lightmass on MANUPC: 1:34 min total, 144 ms importing, 301 ms setup, 11.3 sec photons, 1:22 min processing, 0 ms extra exporting [180/180 mappings]. Threads: 9:39 min total, 7:57 min processing.
+[2017.01.01-14.08.36:334][558]LogStaticLightingSystem: Illumination: 1:40 min (1.36 sec encoding lightmaps, 551 ms encoding shadowmaps)
+[2017.01.01-14.08.36:334][558]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (4.0 MB streaming, 2.0 MB non-streaming), 6 textures
+[2017.01.01-14.08.36:334][558]LogStaticLightingSystem: Shadowmap texture memory: 10.7 MB (10.7 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.01.01-14.08.36:781][558]DumpUnbuiltLightIteractions
+[2017.01.01-14.08.36:781][558]Lights with unbuilt interactions: 0
+[2017.01.01-14.08.36:781][558]
+[2017.01.01-14.08.36:781][558]Primitives with unbuilt interactions: 0
+[2017.01.01-14.08.36:792][559]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.01.01-14.08.36:792][559]MapCheck: New page: Inside - Jan 1, 2017, 4:08:36 PM
+[2017.01.01-14.08.36:874][559]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 82.246ms to complete.
+[2017.01.01-14.08.40:565][867]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.01-14.08.40:579][867]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.01-14.08.40:579][867]PIE: New page: PIE session: Inside (Jan 1, 2017, 4:08:40 PM)
+[2017.01.01-14.08.40:579][867]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_Inside
+[2017.01.01-14.08.40:592][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012691s)
+[2017.01.01-14.08.40:592][867]LogAIModule: Creating AISystem for world Inside
+[2017.01.01-14.08.40:592][867]LogPlayLevel: PIE: World Init took: (0.000529s)
+[2017.01.01-14.08.40:593][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/Inside.Inside to /Game/_Rescale/UEDPIE_0_Inside.Inside (0.013485s)
+[2017.01.01-14.08.40:604][867]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.01-14.08.40:612][867]LogInit: FAudioDevice initialized.
+[2017.01.01-14.08.40:647][867]LogLoad: Game class is 'BP_RescaleGamemode_C'
+[2017.01.01-14.08.40:657][867]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_Inside.Inside up for play (max tick rate 0) at 2017.01.01-15.08.40
+[2017.01.01-14.08.40:658][867]LogWorld: Bringing up level for play took: 0.008716
+[2017.01.01-14.08.40:659][867]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+
+[2017.01.01-14.08.40:664][867]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_Inside 0.609
+[2017.01.01-14.08.44:046][194]Cmd: LevelEditor.ToggleImmersive
+[2017.01.01-14.08.56:000][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v94)
+[2017.01.01-14.08.56:105][721]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.01.01-14.08.59:237][862]LogMaterial: Missing cached shader map for material light, compiling. 
+[2017.01.01-14.09.00:053][862]LogMaterial: Missing cached shader map for material light, compiling. 
+[2017.01.01-14.09.00:092][862]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.09.00:119][862]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.01.01-14.09.00:123][862]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.01.01-14.09.03:563][990]MaterialEditorStats: Info Base pass shader with static lighting: 50 instructions
+[2017.01.01-14.09.03:563][990]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 27 instructions
+[2017.01.01-14.09.03:563][990]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 64 instructions
+[2017.01.01-14.09.03:563][990]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.01-14.09.03:563][990]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.01-14.09.25:430][426]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.09.31:276][690]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.09.31:377][690]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.09.31:408][690]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.09.31:455][690]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.01.01-14.09.31:465][690]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.01.01-14.09.34:295][776]MaterialEditorStats: Info Base pass shader with static lighting: 50 instructions
+[2017.01.01-14.09.34:295][776]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 27 instructions
+[2017.01.01-14.09.34:295][776]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 64 instructions
+[2017.01.01-14.09.34:295][776]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.01-14.09.34:295][776]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.01-14.09.36:404][913]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.09.36:418][913]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.09.38:643][995]MaterialEditorStats: Info Base pass shader with static lighting: 50 instructions
+[2017.01.01-14.09.38:643][995]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 27 instructions
+[2017.01.01-14.09.38:643][995]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 64 instructions
+[2017.01.01-14.09.38:643][995]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.01-14.09.38:643][995]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.01-14.09.39:288][ 39]LogMaterialEditor: Saving and Compiling material light2
+[2017.01.01-14.09.39:712][ 39]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.09.39:739][ 39]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.09.39:762][ 39]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.09.39:818][ 39]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.09.39:869][ 39]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.09.44:351][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Rescale/Materials/light2" FILE="../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset" SILENT=true
+[2017.01.01-14.09.44:366][ 39]LogSavePackage: Save=13.77ms
+[2017.01.01-14.09.44:366][ 39]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/light2E886778B460D43838052D2900AEF7B5D.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset'
+[2017.01.01-14.09.44:370][ 39]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset
+[2017.01.01-14.09.44:376][ 39]MaterialEditorStats: Info Base pass shader with static lighting: 83 instructions
+[2017.01.01-14.09.44:376][ 39]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 51 instructions
+[2017.01.01-14.09.44:376][ 39]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 87 instructions
+[2017.01.01-14.09.44:376][ 39]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.01-14.09.44:377][ 39]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.01-14.09.46:430][168]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Column3x3x9_WIP15)
+[2017.01.01-14.09.51:457][610]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v94)
+[2017.01.01-14.09.57:915][184]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v94)
+[2017.01.01-14.09.58:002][188]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.01.01-14.09.59:525][300]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.01-14.09.59:601][300]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.01-14.09.59:615][300]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.09.59:646][300]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.01.01-14.09.59:650][300]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.01.01-14.10.02:016][375]MaterialEditorStats: Info Base pass shader with static lighting: 50 instructions
+[2017.01.01-14.10.02:016][375]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 27 instructions
+[2017.01.01-14.10.02:016][375]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 64 instructions
+[2017.01.01-14.10.02:016][375]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.01-14.10.02:016][375]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.01-14.10.09:088][838]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.01-14.10.09:101][838]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.10.11:350][922]MaterialEditorStats: Info Base pass shader with static lighting: 50 instructions
+[2017.01.01-14.10.11:350][922]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 27 instructions
+[2017.01.01-14.10.11:350][922]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 64 instructions
+[2017.01.01-14.10.11:350][922]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.01-14.10.11:350][922]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.01-14.10.24:073][742]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.01-14.10.24:087][742]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.10.24:112][742]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.01.01-14.10.26:491][823]MaterialEditorStats: Info Base pass shader with static lighting: 50 instructions
+[2017.01.01-14.10.26:491][823]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 27 instructions
+[2017.01.01-14.10.26:491][823]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 64 instructions
+[2017.01.01-14.10.26:491][823]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.01-14.10.26:491][823]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.01-14.10.29:785][ 41]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.01-14.10.29:799][ 41]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.10.32:098][126]MaterialEditorStats: Info Base pass shader with static lighting: 50 instructions
+[2017.01.01-14.10.32:098][126]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 27 instructions
+[2017.01.01-14.10.32:098][126]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 64 instructions
+[2017.01.01-14.10.32:098][126]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.01-14.10.32:098][126]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.01-14.10.34:351][267]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.01-14.10.34:365][267]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.10.34:395][267]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.01.01-14.10.36:809][346]MaterialEditorStats: Info Base pass shader with static lighting: 50 instructions
+[2017.01.01-14.10.36:809][346]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 27 instructions
+[2017.01.01-14.10.36:809][346]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 64 instructions
+[2017.01.01-14.10.36:809][346]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.01-14.10.36:809][346]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.01-14.10.37:181][371]LogMaterialEditor: Saving and Compiling material light2
+[2017.01.01-14.10.37:619][371]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.01.01-14.10.37:648][371]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.10.37:665][371]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.10.37:718][371]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.10.37:763][371]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.10.42:379][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Rescale/Materials/light2" FILE="../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset" SILENT=true
+[2017.01.01-14.10.42:420][371]LogSavePackage: Save=25.34ms
+[2017.01.01-14.10.42:420][371]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/light26A8D02A2489337B6DA28E79D66766B36.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset'
+[2017.01.01-14.10.42:423][371]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset
+[2017.01.01-14.10.42:430][371]MaterialEditorStats: Info Base pass shader with static lighting: 83 instructions
+[2017.01.01-14.10.42:430][371]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 51 instructions
+[2017.01.01-14.10.42:430][371]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 87 instructions
+[2017.01.01-14.10.42:430][371]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.01-14.10.42:430][371]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.01-14.10.45:211][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v93)
+[2017.01.01-14.10.50:442][  0]MapCheck: New page: Map Check
+[2017.01.01-14.10.50:458][  0]Cmd: MAP REBUILD ALLVISIBLE
+[2017.01.01-14.10.50:458][  0]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.01.01-14.10.50:561][  0]LightingResults: New page: Lighting Build - Jan 1, 2017, 4:10:50 PM
+[2017.01.01-14.10.50:567][  0]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.01.01-14.10.50:570][  0]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.01.01-14.10.50:570][  0]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.01.01-14.10.50:571][  0]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.01.01-14.10.50:571][  0]LogSwarmInterface: [TryOpenConnection] Local Process ID is 49320
+[2017.01.01-14.10.55:089][  0]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.01.01-14.10.55:089][  0]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.01.01-14.10.55:089][  0]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.01.01-14.10.55:089][  0]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.01.01-14.10.55:089][  0]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.01.01-14.10.55:373][  0]LogEditorBuildUtils: Build time 0:04
+[2017.01.01-14.10.55:396][  0]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer light2, compiling. 
+[2017.01.01-14.10.55:419][  0]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer light2, compiling. 
+[2017.01.01-14.11.14:937][868]LogSavePackage: Save=240.87ms
+[2017.01.01-14.11.14:937][868]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Inside_Auto1B3EA2A314B4857E912907D9078001D6A.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Autosaves/Game/_Rescale/Inside_Auto1.umap'
+[2017.01.01-14.11.14:939][868]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Autosaves/Game/_Rescale/Inside_Auto1.umap
+[2017.01.01-14.11.14:943][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Rescale/Inside_BuiltData" FILE="../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside_BuiltData.uasset" SILENT=true
+[2017.01.01-14.11.15:069][868]LogSavePackage: Save=64.25ms
+[2017.01.01-14.11.15:071][868]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Inside_BuiltData0115A5FA4D6167896AFAE2AFEC099955.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside_BuiltData.uasset'
+[2017.01.01-14.11.15:081][868]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside_BuiltData.uasset
+[2017.01.01-14.11.15:082][868]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/_Rescale/Inside' took 0.418
+[2017.01.01-14.11.15:082][868]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.418
+[2017.01.01-14.12.26:995][223]Job is a success!
+[2017.01.01-14.12.28:511][224]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2017.01.01-14.12.28:511][224]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2017.01.01-14.12.28:511][224]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2017.01.01-14.12.28:511][224]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2017.01.01-14.12.28:511][224]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT)
+[2017.01.01-14.12.28:511][224]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1)
+[2017.01.01-14.12.29:081][224]LogTexture:Display: Building textures: ShadowMapTexture2D_3 (BGRA8)
+[2017.01.01-14.12.29:099][224]Lightmass on MANUPC: 1:32 min total, 137 ms importing, 316 ms setup, 11.7 sec photons, 1:20 min processing, 0 ms extra exporting [180/180 mappings]. Threads: 9:21 min total, 7:42 min processing.
+[2017.01.01-14.12.29:115][224]LogStaticLightingSystem: Illumination: 1:38 min (1.28 sec encoding lightmaps, 567 ms encoding shadowmaps)
+[2017.01.01-14.12.29:115][224]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (4.0 MB streaming, 2.0 MB non-streaming), 6 textures
+[2017.01.01-14.12.29:115][224]LogStaticLightingSystem: Shadowmap texture memory: 10.7 MB (10.7 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.01.01-14.12.30:132][224]DumpUnbuiltLightIteractions
+[2017.01.01-14.12.30:132][224]Lights with unbuilt interactions: 0
+[2017.01.01-14.12.30:132][224]
+[2017.01.01-14.12.30:132][224]Primitives with unbuilt interactions: 0
+[2017.01.01-14.12.30:152][225]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.01.01-14.12.30:152][225]MapCheck: New page: Inside - Jan 1, 2017, 4:12:30 PM
+[2017.01.01-14.12.30:253][225]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 100.529ms to complete.
+[2017.01.01-14.14.02:458][486]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v94)
+[2017.01.01-14.14.03:873][568]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.14.03:953][568]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.14.03:966][568]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.14.04:000][568]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.01.01-14.14.04:006][568]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.01.01-14.14.06:779][660]MaterialEditorStats: Info Base pass shader with static lighting: 50 instructions
+[2017.01.01-14.14.06:779][660]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 27 instructions
+[2017.01.01-14.14.06:779][660]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 64 instructions
+[2017.01.01-14.14.06:779][660]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.01-14.14.06:779][660]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.01-14.14.13:062][ 52]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.14.13:077][ 52]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.14.13:102][ 52]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.01.01-14.14.15:489][134]MaterialEditorStats: Info Base pass shader with static lighting: 50 instructions
+[2017.01.01-14.14.15:489][134]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 27 instructions
+[2017.01.01-14.14.15:489][134]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 64 instructions
+[2017.01.01-14.14.15:489][134]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.01-14.14.15:489][134]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.01-14.14.26:342][655]LogMaterialEditor: Saving and Compiling material light2
+[2017.01.01-14.14.26:760][655]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.14.26:785][655]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.14.26:800][655]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.14.26:846][655]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.14.26:890][655]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.14.31:628][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Rescale/Materials/light2" FILE="../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset" SILENT=true
+[2017.01.01-14.14.31:662][655]LogSavePackage: Save=25.82ms
+[2017.01.01-14.14.31:662][655]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/light2DEAAB5514EEDC8CB1535A68CD3833720.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset'
+[2017.01.01-14.14.31:668][655]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset
+[2017.01.01-14.14.31:674][655]MaterialEditorStats: Info Base pass shader with static lighting: 83 instructions
+[2017.01.01-14.14.31:674][655]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 51 instructions
+[2017.01.01-14.14.31:675][655]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 87 instructions
+[2017.01.01-14.14.31:675][655]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.01-14.14.31:675][655]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.01-14.14.55:315][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v94)
+[2017.01.01-14.14.55:381][981]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.01.01-14.15.04:426][513]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.15.04:441][513]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.15.04:469][513]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.01.01-14.15.07:132][606]MaterialEditorStats: Info Base pass shader with static lighting: 50 instructions
+[2017.01.01-14.15.07:132][606]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 27 instructions
+[2017.01.01-14.15.07:132][606]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 64 instructions
+[2017.01.01-14.15.07:132][606]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.01-14.15.07:132][606]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.01-14.15.07:892][651]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.15.07:905][651]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.15.07:932][651]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.01.01-14.15.10:315][733]MaterialEditorStats: Info Base pass shader with static lighting: 50 instructions
+[2017.01.01-14.15.10:315][733]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 27 instructions
+[2017.01.01-14.15.10:315][733]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 64 instructions
+[2017.01.01-14.15.10:315][733]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.01-14.15.10:315][733]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.01-14.15.10:970][777]LogMaterialEditor: Saving and Compiling material light2
+[2017.01.01-14.15.11:403][777]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.15.11:430][777]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.15.11:446][777]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.15.11:487][777]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.15.11:523][777]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.15.16:187][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Rescale/Materials/light2" FILE="../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset" SILENT=true
+[2017.01.01-14.15.16:220][777]LogSavePackage: Save=30.54ms
+[2017.01.01-14.15.16:220][777]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/light2EE2DD46547D57EA9BFDC45A8CBB3ECFA.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset'
+[2017.01.01-14.15.16:226][777]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset
+[2017.01.01-14.15.16:232][777]MaterialEditorStats: Info Base pass shader with static lighting: 83 instructions
+[2017.01.01-14.15.16:232][777]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 51 instructions
+[2017.01.01-14.15.16:232][777]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 87 instructions
+[2017.01.01-14.15.16:232][777]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.01-14.15.16:232][777]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.01-14.15.26:336][455]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.15.26:350][455]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.15.28:190][518]LogMaterialEditor: Saving and Compiling material light2
+[2017.01.01-14.15.28:755][518]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.15.28:782][518]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.15.28:799][518]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.15.28:843][518]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.15.28:879][518]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.15.33:521][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Rescale/Materials/light2" FILE="../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset" SILENT=true
+[2017.01.01-14.15.33:554][518]LogSavePackage: Save=27.18ms
+[2017.01.01-14.15.33:554][518]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/light2EF5FF6CB40ACF1377132249B29B1F60B.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset'
+[2017.01.01-14.15.33:558][518]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset
+[2017.01.01-14.15.33:564][518]MaterialEditorStats: Info Base pass shader with static lighting: 83 instructions
+[2017.01.01-14.15.33:564][518]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 51 instructions
+[2017.01.01-14.15.33:564][518]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 87 instructions
+[2017.01.01-14.15.33:564][518]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.01-14.15.33:565][518]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.01-14.15.39:050][941]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.01-14.15.39:065][941]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.01-14.15.39:065][941]PIE: New page: PIE session: Inside (Jan 1, 2017, 4:15:39 PM)
+[2017.01.01-14.15.39:065][941]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_Inside
+[2017.01.01-14.15.39:077][941]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012392s)
+[2017.01.01-14.15.39:078][941]LogAIModule: Creating AISystem for world Inside
+[2017.01.01-14.15.39:078][941]LogPlayLevel: PIE: World Init took: (0.000489s)
+[2017.01.01-14.15.39:078][941]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/Inside.Inside to /Game/_Rescale/UEDPIE_0_Inside.Inside (0.013114s)
+[2017.01.01-14.15.39:088][941]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.01-14.15.39:096][941]LogInit: FAudioDevice initialized.
+[2017.01.01-14.15.39:127][941]LogLoad: Game class is 'BP_RescaleGamemode_C'
+[2017.01.01-14.15.39:132][941]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_Inside.Inside up for play (max tick rate 0) at 2017.01.01-15.15.39
+[2017.01.01-14.15.39:132][941]LogWorld: Bringing up level for play took: 0.003820
+[2017.01.01-14.15.39:133][941]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+
+[2017.01.01-14.15.39:135][941]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_Inside -0.92
+[2017.01.01-14.15.42:986][310]Cmd: LevelEditor.ToggleImmersive
+[2017.01.01-14.16.34:686][703]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight33)
+[2017.01.01-14.16.50:355][676]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2017.01.01-14.17.56:912][405]LogEditorViewport: Clicking Background
+[2017.01.01-14.18.01:406][845]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.01.01-14.18.01:518][855]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.01.01-14.18.07:623][369]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight9)
+[2017.01.01-14.18.11:465][689]Cmd: DELETE
+[2017.01.01-14.18.11:465][689]Cmd: ACTOR DELETE
+[2017.01.01-14.18.11:466][689]LogEditorActor: Deleted Actor: PointLight
+[2017.01.01-14.18.11:486][689]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2017.01.01-14.18.13:391][902]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight8)
+[2017.01.01-14.18.40:962][171]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2017.01.01-14.19.33:940][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v94)
+[2017.01.01-14.19.34:200][367]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.01.01-14.19.35:394][459]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.01.01-14.19.35:482][463]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Cube3x3x3_Archi_v94)
+[2017.01.01-14.19.37:397][583]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.01.01-14.19.37:526][583]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.01.01-14.19.37:552][583]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.19.37:585][583]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.01.01-14.19.37:591][583]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.01.01-14.19.40:467][674]MaterialEditorStats: Info Base pass shader with static lighting: 50 instructions
+[2017.01.01-14.19.40:467][674]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 27 instructions
+[2017.01.01-14.19.40:467][674]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 64 instructions
+[2017.01.01-14.19.40:467][674]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.01-14.19.40:467][674]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.01-14.19.44:230][917]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.01.01-14.19.44:244][917]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.19.45:678][966]LogMaterialEditor: Saving and Compiling material light2
+[2017.01.01-14.19.46:383][966]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.01.01-14.19.46:416][966]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.19.46:432][966]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.19.46:474][966]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.19.46:510][966]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.19.51:201][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Rescale/Materials/light2" FILE="../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset" SILENT=true
+[2017.01.01-14.19.51:223][966]LogSavePackage: Save=13.87ms
+[2017.01.01-14.19.51:223][966]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/light2E990D34143874D3B2BF81F95EC340B79.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset'
+[2017.01.01-14.19.51:226][966]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset
+[2017.01.01-14.19.51:231][966]MaterialEditorStats: Info Base pass shader with static lighting: 83 instructions
+[2017.01.01-14.19.51:231][966]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 51 instructions
+[2017.01.01-14.19.51:231][966]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 87 instructions
+[2017.01.01-14.19.51:231][966]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.01-14.19.51:231][966]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.01-14.20.27:529][983]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.01.01-14.20.27:546][983]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.20.29:531][ 56]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.01.01-14.20.29:564][ 56]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.20.32:086][145]MaterialEditorStats: Info Base pass shader with static lighting: 50 instructions
+[2017.01.01-14.20.32:086][145]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 27 instructions
+[2017.01.01-14.20.32:086][145]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 64 instructions
+[2017.01.01-14.20.32:086][145]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.01-14.20.32:086][145]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.01-14.20.32:186][152]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.01.01-14.20.32:201][152]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.20.34:280][211]MaterialEditorStats: Info Base pass shader with static lighting: 49 instructions
+[2017.01.01-14.20.34:280][211]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 26 instructions
+[2017.01.01-14.20.34:280][211]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 63 instructions
+[2017.01.01-14.20.34:280][211]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2017.01.01-14.20.34:280][211]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.01-14.20.39:411][562]LogMaterialEditor: Saving and Compiling material light2
+[2017.01.01-14.20.39:832][562]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.01.01-14.20.39:859][562]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.20.39:875][562]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.20.39:916][562]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.20.39:954][562]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.20.44:350][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Rescale/Materials/light2" FILE="../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset" SILENT=true
+[2017.01.01-14.20.44:377][562]LogSavePackage: Save=23.88ms
+[2017.01.01-14.20.44:377][562]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/light2DA2A37F9461A596080E71E94F2E38D42.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset'
+[2017.01.01-14.20.44:385][562]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset
+[2017.01.01-14.20.44:400][562]MaterialEditorStats: Info Base pass shader with static lighting: 82 instructions
+[2017.01.01-14.20.44:400][562]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 50 instructions
+[2017.01.01-14.20.44:400][562]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 86 instructions
+[2017.01.01-14.20.44:400][562]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2017.01.01-14.20.44:400][562]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.01-14.20.48:956][828]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.01.01-14.20.48:973][828]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.20.50:276][874]LogMaterialEditor: Saving and Compiling material light2
+[2017.01.01-14.20.50:971][874]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.01.01-14.20.51:001][874]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.20.51:021][874]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.20.51:069][874]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.20.51:106][874]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.20.55:532][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Rescale/Materials/light2" FILE="../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset" SILENT=true
+[2017.01.01-14.20.55:548][874]LogSavePackage: Save=12.61ms
+[2017.01.01-14.20.55:548][874]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/light20F5B13894CF03C10249C958C2E14F8F8.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset'
+[2017.01.01-14.20.55:550][874]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset
+[2017.01.01-14.20.55:560][874]MaterialEditorStats: Info Base pass shader with static lighting: 82 instructions
+[2017.01.01-14.20.55:560][874]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 50 instructions
+[2017.01.01-14.20.55:560][874]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 86 instructions
+[2017.01.01-14.20.55:560][874]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2017.01.01-14.20.55:560][874]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.01-14.21.08:617][714]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.01.01-14.21.08:632][714]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.21.09:940][760]LogMaterialEditor: Saving and Compiling material light2
+[2017.01.01-14.21.10:634][760]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.01.01-14.21.10:664][760]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.21.10:682][760]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.21.10:727][760]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.21.10:773][760]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.21.15:207][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Rescale/Materials/light2" FILE="../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset" SILENT=true
+[2017.01.01-14.21.15:223][760]LogSavePackage: Save=12.47ms
+[2017.01.01-14.21.15:223][760]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/light25146B38143F73890F2EC22977AF30A7F.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset'
+[2017.01.01-14.21.15:226][760]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset
+[2017.01.01-14.21.15:231][760]MaterialEditorStats: Info Base pass shader with static lighting: 82 instructions
+[2017.01.01-14.21.15:231][760]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 50 instructions
+[2017.01.01-14.21.15:231][760]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 86 instructions
+[2017.01.01-14.21.15:231][760]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2017.01.01-14.21.15:231][760]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.01-14.21.49:144][957]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.01.01-14.21.49:158][957]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.21.51:275][ 35]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.01.01-14.21.51:299][ 35]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.21.52:342][ 70]LogMaterialEditor: Saving and Compiling material light2
+[2017.01.01-14.21.53:133][ 70]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.01.01-14.21.53:175][ 70]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.21.53:204][ 70]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.21.53:269][ 70]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.21.53:321][ 70]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.21.58:042][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Rescale/Materials/light2" FILE="../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset" SILENT=true
+[2017.01.01-14.21.58:070][ 70]LogSavePackage: Save=21.71ms
+[2017.01.01-14.21.58:070][ 70]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/light2B82ADB34478D41EAD95D31A9E6AE846E.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset'
+[2017.01.01-14.21.58:073][ 70]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset
+[2017.01.01-14.21.58:078][ 70]MaterialEditorStats: Info Base pass shader with static lighting: 82 instructions
+[2017.01.01-14.21.58:078][ 70]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 50 instructions
+[2017.01.01-14.21.58:078][ 70]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 86 instructions
+[2017.01.01-14.21.58:078][ 70]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2017.01.01-14.21.58:078][ 70]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.01-14.22.11:715][908]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.01.01-14.22.11:729][908]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.22.11:758][908]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.01.01-14.22.13:759][974]LogMaterialEditor: Saving and Compiling material light2
+[2017.01.01-14.22.14:538][974]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.01.01-14.22.14:601][974]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.22.14:616][974]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.22.14:653][974]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.22.14:694][974]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.22.19:177][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Rescale/Materials/light2" FILE="../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset" SILENT=true
+[2017.01.01-14.22.19:198][974]LogSavePackage: Save=17.11ms
+[2017.01.01-14.22.19:198][974]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/light2EB42CA274DB8DB34C5BA64987CB0BF02.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset'
+[2017.01.01-14.22.19:205][974]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset
+[2017.01.01-14.22.19:218][974]MaterialEditorStats: Info Base pass shader with static lighting: 82 instructions
+[2017.01.01-14.22.19:218][974]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 50 instructions
+[2017.01.01-14.22.19:219][974]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 86 instructions
+[2017.01.01-14.22.19:219][974]MaterialEditorStats: Info Vertex shader: 64 instructions
+[2017.01.01-14.22.19:219][974]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.01.01-14.22.38:515][152]LogSavePackage: Save=112.20ms
+[2017.01.01-14.22.38:515][152]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Inside_Auto2E2E8955C49EFED3D247CB982319AA27A.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Autosaves/Game/_Rescale/Inside_Auto2.umap'
+[2017.01.01-14.22.38:516][152]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Autosaves/Game/_Rescale/Inside_Auto2.umap
+[2017.01.01-14.22.38:521][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Rescale/Inside_BuiltData" FILE="../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside_BuiltData.uasset" SILENT=true
+[2017.01.01-14.22.38:587][152]LogSavePackage: Save=31.09ms
+[2017.01.01-14.22.38:587][152]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Inside_BuiltData958C17644CFAE848AB06C5A60F27ABC2.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside_BuiltData.uasset'
+[2017.01.01-14.22.38:592][152]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside_BuiltData.uasset
+[2017.01.01-14.22.38:593][152]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/_Rescale/Inside' took 0.209
+[2017.01.01-14.22.38:593][152]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.209
+[2017.01.01-14.22.40:405][259]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.01.01-14.22.40:420][259]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.22.43:082][359]MaterialEditorStats: Info Base pass shader with static lighting: 50 instructions
+[2017.01.01-14.22.43:082][359]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 27 instructions
+[2017.01.01-14.22.43:082][359]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 64 instructions
+[2017.01.01-14.22.43:082][359]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.01-14.22.43:082][359]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.01-14.22.43:552][390]LogMaterialEditor: Saving and Compiling material light2
+[2017.01.01-14.22.43:980][390]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.01.01-14.22.44:008][390]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.22.44:023][390]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.22.44:073][390]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.22.44:114][390]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.22.49:187][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Rescale/Materials/light2" FILE="../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset" SILENT=true
+[2017.01.01-14.22.49:205][390]LogSavePackage: Save=13.99ms
+[2017.01.01-14.22.49:205][390]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/light241175B02408C204E3BDD2D8F62DF29F5.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset'
+[2017.01.01-14.22.49:207][390]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset
+[2017.01.01-14.22.49:214][390]MaterialEditorStats: Info Base pass shader with static lighting: 83 instructions
+[2017.01.01-14.22.49:214][390]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 51 instructions
+[2017.01.01-14.22.49:214][390]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 87 instructions
+[2017.01.01-14.22.49:214][390]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.01-14.22.49:214][390]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.01-14.22.57:564][905]LogMaterialEditor: Saving and Compiling material light2
+[2017.01.01-14.22.57:598][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Rescale/Materials/light2" FILE="../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset" SILENT=true
+[2017.01.01-14.22.57:607][905]LogSavePackage: Save=5.52ms
+[2017.01.01-14.22.57:607][905]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/light2D6417DE1477ECC3EC5CD748D2C6027A0.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset'
+[2017.01.01-14.22.57:608][905]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset
+[2017.01.01-14.23.07:631][525]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.01.01-14.23.07:645][525]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.23.10:086][612]MaterialEditorStats: Info Base pass shader with static lighting: 50 instructions
+[2017.01.01-14.23.10:086][612]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 27 instructions
+[2017.01.01-14.23.10:086][612]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 64 instructions
+[2017.01.01-14.23.10:086][612]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.01-14.23.10:086][612]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.01-14.23.10:845][657]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.01.01-14.23.10:858][657]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.23.10:886][657]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.01.01-14.23.11:365][672]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.01.01-14.23.11:391][672]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.23.11:420][672]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.01.01-14.23.12:147][696]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.01.01-14.23.12:168][696]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.23.12:199][696]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.01.01-14.23.15:023][785]MaterialEditorStats: Info Base pass shader with static lighting: 50 instructions
+[2017.01.01-14.23.15:023][785]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 27 instructions
+[2017.01.01-14.23.15:023][785]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 64 instructions
+[2017.01.01-14.23.15:023][785]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.01-14.23.15:023][785]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.01-14.23.15:396][808]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.01.01-14.23.15:411][808]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.23.15:436][808]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.01.01-14.23.17:816][886]MaterialEditorStats: Info Base pass shader with static lighting: 50 instructions
+[2017.01.01-14.23.17:816][886]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 27 instructions
+[2017.01.01-14.23.17:816][886]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 64 instructions
+[2017.01.01-14.23.17:816][886]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.01-14.23.17:816][886]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.01-14.23.18:424][925]LogMaterialEditor: Saving and Compiling material light2
+[2017.01.01-14.23.18:859][925]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.01.01-14.23.18:886][925]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.23.18:904][925]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.23.18:948][925]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.23.18:986][925]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.23.23:687][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Rescale/Materials/light2" FILE="../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset" SILENT=true
+[2017.01.01-14.23.23:705][925]LogSavePackage: Save=14.25ms
+[2017.01.01-14.23.23:705][925]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/light2A7A05C594ADEFD019FC0238771878FD5.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset'
+[2017.01.01-14.23.23:708][925]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset
+[2017.01.01-14.23.23:713][925]MaterialEditorStats: Info Base pass shader with static lighting: 83 instructions
+[2017.01.01-14.23.23:713][925]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 51 instructions
+[2017.01.01-14.23.23:713][925]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 87 instructions
+[2017.01.01-14.23.23:713][925]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.01-14.23.23:713][925]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.01-14.24.14:697][149]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.01.01-14.24.14:725][149]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.24.17:321][247]MaterialEditorStats: Info Base pass shader with static lighting: 50 instructions
+[2017.01.01-14.24.17:322][247]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 27 instructions
+[2017.01.01-14.24.17:322][247]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 64 instructions
+[2017.01.01-14.24.17:322][247]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.01-14.24.17:322][247]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.01-14.24.20:472][442]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.01.01-14.24.20:486][442]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.24.22:636][515]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.01.01-14.24.22:658][515]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.24.25:004][595]MaterialEditorStats: Info Base pass shader with static lighting: 50 instructions
+[2017.01.01-14.24.25:004][595]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 27 instructions
+[2017.01.01-14.24.25:004][595]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 64 instructions
+[2017.01.01-14.24.25:004][595]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.01-14.24.25:004][595]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.01-14.24.28:519][812]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.01.01-14.24.28:534][812]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.24.29:825][855]LogMaterialEditor: Saving and Compiling material light2
+[2017.01.01-14.24.30:550][855]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.01.01-14.24.30:586][855]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.24.30:610][855]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.24.30:674][855]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.24.30:720][855]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.24.35:402][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Rescale/Materials/light2" FILE="../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset" SILENT=true
+[2017.01.01-14.24.35:452][855]LogSavePackage: Save=41.09ms
+[2017.01.01-14.24.35:452][855]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/light29084950241C5EA78272C548AF993FC55.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset'
+[2017.01.01-14.24.35:460][855]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset
+[2017.01.01-14.24.35:475][855]MaterialEditorStats: Info Base pass shader with static lighting: 83 instructions
+[2017.01.01-14.24.35:475][855]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 51 instructions
+[2017.01.01-14.24.35:475][855]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 87 instructions
+[2017.01.01-14.24.35:475][855]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.01-14.24.35:475][855]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.01-14.24.43:450][333]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.01.01-14.24.43:464][333]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.24.44:878][381]LogMaterialEditor: Saving and Compiling material light2
+[2017.01.01-14.24.45:595][381]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.01.01-14.24.45:626][381]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.24.45:642][381]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.24.45:700][381]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.01-14.24.45:752][381]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.01.01-14.24.50:442][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Rescale/Materials/light2" FILE="../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset" SILENT=true
+[2017.01.01-14.24.50:477][381]LogSavePackage: Save=28.27ms
+[2017.01.01-14.24.50:477][381]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/light2031841F24139E0683335F9A9D63A5BA2.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset'
+[2017.01.01-14.24.50:481][381]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Materials/light2.uasset
+[2017.01.01-14.24.50:490][381]MaterialEditorStats: Info Base pass shader with static lighting: 83 instructions
+[2017.01.01-14.24.50:490][381]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 51 instructions
+[2017.01.01-14.24.50:490][381]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 87 instructions
+[2017.01.01-14.24.50:490][381]MaterialEditorStats: Info Vertex shader: 66 instructions
+[2017.01.01-14.24.50:490][381]MaterialEditorStats: Info Texture samplers: 5/16
+[2017.01.01-14.25.42:328][386]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2017.01.01-14.25.43:790][508]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight2)
+[2017.01.01-14.25.53:305][345]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight7)
+[2017.01.01-14.26.06:987][285]MapCheck: New page: Map Check
+[2017.01.01-14.26.07:020][285]Cmd: MAP REBUILD ALLVISIBLE
+[2017.01.01-14.26.07:020][285]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.01.01-14.26.07:190][285]LightingResults: New page: Lighting Build - Jan 1, 2017, 4:26:07 PM
+[2017.01.01-14.26.07:199][285]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.01.01-14.26.07:202][285]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.01.01-14.26.07:202][285]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.01.01-14.26.07:203][285]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.01.01-14.26.07:203][285]LogSwarmInterface: [TryOpenConnection] Local Process ID is 49320
+[2017.01.01-14.26.11:718][285]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.01.01-14.26.11:718][285]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.01.01-14.26.11:718][285]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.01.01-14.26.11:719][285]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.01.01-14.26.11:719][285]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.01.01-14.26.11:879][285]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.01.01-14.26.11:880][285]MapCheck: New page: Inside - Jan 1, 2017, 4:26:11 PM
+[2017.01.01-14.26.11:881][285]MapCheck:Error: Error WorldSettings Maps need lighting rebuilt 
+[2017.01.01-14.26.11:930][285]MapCheck: Info Map check complete: 1 Error(s), 0 Warning(s), took 49.479ms to complete.
+[2017.01.01-14.26.11:951][285]LogEditorBuildUtils: Build time 0:04
+[2017.01.01-14.26.11:975][285]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer light2, compiling. 
+[2017.01.01-14.26.11:988][285]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer light2, compiling. 
+[2017.01.01-14.27.56:435][824]Job is a success!
+[2017.01.01-14.27.58:209][825]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2017.01.01-14.27.58:209][825]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2017.01.01-14.27.58:209][825]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2017.01.01-14.27.58:209][825]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2017.01.01-14.27.58:209][825]LogTexture:Display: Building textures: HQ_Lightmap1_3 (AutoDXT)
+[2017.01.01-14.27.58:209][825]LogTexture:Display: Building textures: LQ_Lightmap_1_3 (DXT1)
+[2017.01.01-14.27.58:797][825]LogTexture:Display: Building textures: ShadowMapTexture2D_4 (BGRA8)
+[2017.01.01-14.27.58:823][825]Lightmass on MANUPC: 1:45 min total, 202 ms importing, 311 ms setup, 12.9 sec photons, 1:31 min processing, 0 ms extra exporting [180/180 mappings]. Threads: 10:42 min total, 8:49 min processing.
+[2017.01.01-14.27.58:837][825]LogStaticLightingSystem: Illumination: 1:51 min (1.51 sec encoding lightmaps, 584 ms encoding shadowmaps)
+[2017.01.01-14.27.58:837][825]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (4.0 MB streaming, 2.0 MB non-streaming), 6 textures
+[2017.01.01-14.27.58:837][825]LogStaticLightingSystem: Shadowmap texture memory: 10.7 MB (10.7 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.01.01-14.27.59:759][825]DumpUnbuiltLightIteractions
+[2017.01.01-14.27.59:759][825]Lights with unbuilt interactions: 0
+[2017.01.01-14.27.59:759][825]
+[2017.01.01-14.27.59:759][825]Primitives with unbuilt interactions: 0
+[2017.01.01-14.27.59:781][826]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.01.01-14.27.59:781][826]MapCheck: New page: Inside - Jan 1, 2017, 4:27:59 PM
+[2017.01.01-14.27.59:891][826]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 109.938ms to complete.
+[2017.01.01-14.28.57:430][871]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.01-14.28.57:445][871]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.01-14.28.57:445][871]PIE: New page: PIE session: Inside (Jan 1, 2017, 4:28:57 PM)
+[2017.01.01-14.28.57:445][871]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_Inside
+[2017.01.01-14.28.57:458][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012687s)
+[2017.01.01-14.28.57:458][871]LogAIModule: Creating AISystem for world Inside
+[2017.01.01-14.28.57:459][871]LogPlayLevel: PIE: World Init took: (0.000640s)
+[2017.01.01-14.28.57:459][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/Inside.Inside to /Game/_Rescale/UEDPIE_0_Inside.Inside (0.013641s)
+[2017.01.01-14.28.57:470][871]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.01-14.28.57:478][871]LogInit: FAudioDevice initialized.
+[2017.01.01-14.28.57:510][871]LogLoad: Game class is 'BP_RescaleGamemode_C'
+[2017.01.01-14.28.57:521][871]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_Inside.Inside up for play (max tick rate 0) at 2017.01.01-15.28.57
+[2017.01.01-14.28.57:522][871]LogWorld: Bringing up level for play took: 0.009437
+[2017.01.01-14.28.57:524][871]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+
+[2017.01.01-14.28.57:528][871]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_Inside -0.527
+[2017.01.01-14.29.00:172][122]Cmd: LevelEditor.ToggleImmersive
+[2017.01.01-14.31.40:110][894]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2017.01.01-14.34.15:099][564]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight8)
+[2017.01.01-14.35.26:272][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v175)
+[2017.01.01-14.35.27:471][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v174)
+[2017.01.01-14.36.01:830][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v175)
+[2017.01.01-14.36.02:630][849]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube3x3x3_Archi_v173)
+[2017.01.01-14.36.03:309][885]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube3x3x3_Archi_v174)
+[2017.01.01-14.36.47:097][384]LogEditorViewport: Clicking on Actor (LMB): ScalableGeometry_C (ScalableGeometry7)
+[2017.01.01-14.37.31:360][  2]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v185)
+[2017.01.01-14.37.33:815][145]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2017.01.01-14.38.25:634][209]LogEditorViewport: Clicking on Actor (LMB): ScalableGeometry_C (ScalableGeometry8)
+[2017.01.01-14.38.48:402][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v175)
+[2017.01.01-14.39.14:759][122]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.01-14.39.14:772][122]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.01-14.39.14:772][122]PIE: New page: PIE session: Inside (Jan 1, 2017, 4:39:14 PM)
+[2017.01.01-14.39.14:772][122]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_Inside
+[2017.01.01-14.39.14:785][122]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012955s)
+[2017.01.01-14.39.14:786][122]LogAIModule: Creating AISystem for world Inside
+[2017.01.01-14.39.14:786][122]LogPlayLevel: PIE: World Init took: (0.000538s)
+[2017.01.01-14.39.14:786][122]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/Inside.Inside to /Game/_Rescale/UEDPIE_0_Inside.Inside (0.013772s)
+[2017.01.01-14.39.14:796][122]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.01-14.39.14:805][122]LogInit: FAudioDevice initialized.
+[2017.01.01-14.39.14:835][122]LogLoad: Game class is 'BP_RescaleGamemode_C'
+[2017.01.01-14.39.14:840][122]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_Inside.Inside up for play (max tick rate 60) at 2017.01.01-15.39.14
+[2017.01.01-14.39.14:840][122]LogWorld: Bringing up level for play took: 0.004224
+[2017.01.01-14.39.14:841][122]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+
+[2017.01.01-14.39.14:843][122]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_Inside 0.788
+[2017.01.01-14.39.16:799][239]Cmd: LevelEditor.ToggleImmersive
+[2017.01.01-14.40.09:510][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v175)
+[2017.01.01-14.40.15:448][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v197)
+[2017.01.01-14.40.18:234][559]LogEditorViewport: Clicking on Actor (LMB): ScalableGeometry_C (ScalableGeometry8)
+[2017.01.01-14.40.30:606][  7]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2017.01.01-14.40.39:639][466]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight8)
+[2017.01.01-14.41.09:580][138]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight9)
+[2017.01.01-14.41.37:538][805]Cmd: DELETE
+[2017.01.01-14.41.37:538][805]Cmd: ACTOR DELETE
+[2017.01.01-14.41.37:539][805]LogEditorActor: Deleted Actor: PointLight
+[2017.01.01-14.41.37:550][805]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2017.01.01-14.41.39:028][894]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2017.01.01-14.42.01:094][204]MapCheck: New page: Map Check
+[2017.01.01-14.42.01:105][204]Cmd: MAP REBUILD ALLVISIBLE
+[2017.01.01-14.42.01:106][204]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.01.01-14.42.01:271][204]LightingResults: New page: Lighting Build - Jan 1, 2017, 4:42:01 PM
+[2017.01.01-14.42.01:278][204]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.01.01-14.42.01:281][204]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.01.01-14.42.01:281][204]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.01.01-14.42.01:282][204]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.01.01-14.42.01:282][204]LogSwarmInterface: [TryOpenConnection] Local Process ID is 49320
+[2017.01.01-14.42.05:801][204]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.01.01-14.42.05:801][204]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.01.01-14.42.05:801][204]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.01.01-14.42.05:801][204]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.01.01-14.42.05:801][204]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.01.01-14.42.06:079][204]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.01.01-14.42.06:079][204]MapCheck: New page: Inside - Jan 1, 2017, 4:42:06 PM
+[2017.01.01-14.42.06:082][204]MapCheck:Error: Error WorldSettings Maps need lighting rebuilt 
+[2017.01.01-14.42.06:147][204]MapCheck: Info Map check complete: 1 Error(s), 0 Warning(s), took 67.382ms to complete.
+[2017.01.01-14.42.06:168][204]LogEditorBuildUtils: Build time 0:05
+[2017.01.01-14.42.25:617][ 64]LogSavePackage: Save=231.53ms
+[2017.01.01-14.42.25:618][ 64]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Inside_Auto3DFAD3AC04580924601521694EE657D77.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Autosaves/Game/_Rescale/Inside_Auto3.umap'
+[2017.01.01-14.42.25:622][ 64]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Autosaves/Game/_Rescale/Inside_Auto3.umap
+[2017.01.01-14.42.25:627][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Rescale/Inside_BuiltData" FILE="../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside_BuiltData.uasset" SILENT=true
+[2017.01.01-14.42.25:729][ 64]LogSavePackage: Save=45.52ms
+[2017.01.01-14.42.25:729][ 64]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Inside_BuiltData1DF362A5416564CFD274C795AD3E9A98.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside_BuiltData.uasset'
+[2017.01.01-14.42.25:736][ 64]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside_BuiltData.uasset
+[2017.01.01-14.42.25:737][ 64]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/_Rescale/Inside' took 0.385
+[2017.01.01-14.42.25:737][ 64]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.385
+[2017.01.01-14.43.38:684][291]Job is a success!
+[2017.01.01-14.43.40:374][292]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2017.01.01-14.43.40:374][292]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2017.01.01-14.43.40:374][292]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2017.01.01-14.43.40:374][292]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2017.01.01-14.43.40:374][292]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT)
+[2017.01.01-14.43.40:374][292]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1)
+[2017.01.01-14.43.40:944][292]LogTexture:Display: Building textures: ShadowMapTexture2D_5 (BGRA8)
+[2017.01.01-14.43.40:980][292]Lightmass on MANUPC: 1:34 min total, 143 ms importing, 314 ms setup, 12.2 sec photons, 1:21 min processing, 0 ms extra exporting [184/184 mappings]. Threads: 9:29 min total, 7:49 min processing.
+[2017.01.01-14.43.40:994][292]LogStaticLightingSystem: Illumination: 1:39 min (1.45 sec encoding lightmaps, 567 ms encoding shadowmaps)
+[2017.01.01-14.43.40:994][292]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (4.0 MB streaming, 2.0 MB non-streaming), 6 textures
+[2017.01.01-14.43.40:994][292]LogStaticLightingSystem: Shadowmap texture memory: 10.7 MB (10.7 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.01.01-14.43.41:853][292]DumpUnbuiltLightIteractions
+[2017.01.01-14.43.41:853][292]Lights with unbuilt interactions: 0
+[2017.01.01-14.43.41:853][292]
+[2017.01.01-14.43.41:853][292]Primitives with unbuilt interactions: 0
+[2017.01.01-14.43.41:873][293]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.01.01-14.43.41:873][293]MapCheck: New page: Inside - Jan 1, 2017, 4:43:41 PM
+[2017.01.01-14.43.41:967][293]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 93.877ms to complete.
+[2017.01.01-14.44.23:190][746]MapCheck: New page: Map Check
+[2017.01.01-14.44.23:203][746]Cmd: MAP REBUILD ALLVISIBLE
+[2017.01.01-14.44.23:203][746]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.01.01-14.44.23:347][746]LightingResults: New page: Lighting Build - Jan 1, 2017, 4:44:23 PM
+[2017.01.01-14.44.23:354][746]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.01.01-14.44.23:359][746]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.01.01-14.44.23:359][746]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.01.01-14.44.23:360][746]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.01.01-14.44.23:360][746]LogSwarmInterface: [TryOpenConnection] Local Process ID is 49320
+[2017.01.01-14.44.27:876][746]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.01.01-14.44.27:876][746]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.01.01-14.44.27:876][746]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.01.01-14.44.27:876][746]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.01.01-14.44.27:876][746]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.01.01-14.44.28:171][746]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.01.01-14.44.28:172][746]MapCheck: New page: Inside - Jan 1, 2017, 4:44:28 PM
+[2017.01.01-14.44.28:174][746]MapCheck:Error: Error WorldSettings Maps need lighting rebuilt 
+[2017.01.01-14.44.28:230][746]MapCheck: Info Map check complete: 1 Error(s), 0 Warning(s), took 58.833ms to complete.
+[2017.01.01-14.44.28:253][746]LogEditorBuildUtils: Build time 0:05
+[2017.01.01-14.46.01:738][ 58]Job is a success!
+[2017.01.01-14.46.03:504][ 59]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2017.01.01-14.46.03:504][ 59]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2017.01.01-14.46.03:504][ 59]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2017.01.01-14.46.03:504][ 59]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2017.01.01-14.46.03:504][ 59]LogTexture:Display: Building textures: HQ_Lightmap1_3 (AutoDXT)
+[2017.01.01-14.46.03:504][ 59]LogTexture:Display: Building textures: LQ_Lightmap_1_3 (DXT1)
+[2017.01.01-14.46.04:087][ 59]LogTexture:Display: Building textures: ShadowMapTexture2D_6 (BGRA8)
+[2017.01.01-14.46.04:116][ 59]Lightmass on MANUPC: 1:35 min total, 175 ms importing, 318 ms setup, 12.1 sec photons, 1:22 min processing, 0 ms extra exporting [184/184 mappings]. Threads: 9:36 min total, 7:54 min processing.
+[2017.01.01-14.46.04:129][ 59]LogStaticLightingSystem: Illumination: 1:40 min (1.53 sec encoding lightmaps, 578 ms encoding shadowmaps)
+[2017.01.01-14.46.04:129][ 59]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (4.0 MB streaming, 2.0 MB non-streaming), 6 textures
+[2017.01.01-14.46.04:129][ 59]LogStaticLightingSystem: Shadowmap texture memory: 10.7 MB (10.7 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.01.01-14.46.04:920][ 59]DumpUnbuiltLightIteractions
+[2017.01.01-14.46.04:920][ 59]Lights with unbuilt interactions: 0
+[2017.01.01-14.46.04:920][ 59]
+[2017.01.01-14.46.04:920][ 59]Primitives with unbuilt interactions: 0
+[2017.01.01-14.46.04:941][ 60]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.01.01-14.46.04:942][ 60]MapCheck: New page: Inside - Jan 1, 2017, 4:46:04 PM
+[2017.01.01-14.46.05:035][ 60]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 93.623ms to complete.
+[2017.01.01-14.46.18:492][848]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.01-14.46.18:507][848]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.01-14.46.18:507][848]PIE: New page: PIE session: Inside (Jan 1, 2017, 4:46:18 PM)
+[2017.01.01-14.46.18:507][848]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_Inside
+[2017.01.01-14.46.18:518][848]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010678s)
+[2017.01.01-14.46.18:518][848]LogAIModule: Creating AISystem for world Inside
+[2017.01.01-14.46.18:518][848]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2017.01.01-14.46.18:518][848]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/Inside.Inside to /Game/_Rescale/UEDPIE_0_Inside.Inside (0.011556s)
+[2017.01.01-14.46.18:527][848]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.01-14.46.18:537][848]LogInit: FAudioDevice initialized.
+[2017.01.01-14.46.18:574][848]LogLoad: Game class is 'BP_RescaleGamemode_C'
+[2017.01.01-14.46.18:585][848]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_Inside.Inside up for play (max tick rate 60) at 2017.01.01-15.46.18
+[2017.01.01-14.46.18:586][848]LogWorld: Bringing up level for play took: 0.009177
+[2017.01.01-14.46.18:588][848]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+
+[2017.01.01-14.46.18:592][848]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_Inside 0.537
+[2017.01.01-14.46.20:737][976]Cmd: LevelEditor.ToggleImmersive
+[2017.01.01-14.47.32:287][563]LogCharacterMovement: BP_Character_C_0 is stuck and failed to move! Velocity: X=-39.27 Y=-21.48 Z=0.00 Location: X=32894.54 Y=5140.56 Z=-1363.69 Normal: X=-0.00 Y=0.00 Z=-1.00 PenetrationDepth:72.826 Actor:ScalableGeometry8 Component:NODE_AddStaticMeshComponent-0_97 BoneName:None (0 other events since notify)
+[2017.01.01-14.48.07:558][320]LogEditorViewport: Clicking on Actor (LMB): ScalableGeometry_C (ScalableGeometry8)
+[2017.01.01-14.48.24:540][157]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 111 classes and 0 folders.
+[2017.01.01-14.49.17:641][132]LogSavePackage: Save=98.91ms
+[2017.01.01-14.49.17:641][132]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/ScalableGeometry05658A2842C1794EDA122B962369ADB3.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/_Blueprints/ScalableGeometry.uasset'
+[2017.01.01-14.49.17:644][132]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/_Blueprints/ScalableGeometry.uasset
+[2017.01.01-14.49.27:246][702]LogEditorViewport: Clicking on Actor (CTRL LMB): ScalableGeometry_C (ScalableGeometry6)
+[2017.01.01-14.49.28:800][793]LogEditorViewport: Clicking on Actor (CTRL LMB): ScalableGeometry_C (ScalableGeometry7)
+[2017.01.01-14.49.32:338][  3]LogEditorViewport: Clicking on Actor (CTRL LMB): ScalableGeometry_C (ScalableGeometry)
+[2017.01.01-14.49.39:067][405]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.01-14.49.39:088][405]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.01.01-14.49.39:089][405]LogPlayLevel: [PlayLevel] Compiling ScalableGeometry before play...
+[2017.01.01-14.49.39:691][405]LogPlayLevel: PlayLevel: Blueprint regeneration took 603 ms (1 blueprints)
+[2017.01.01-14.49.39:691][405]PIE: New page: PIE session: Inside (Jan 1, 2017, 4:49:39 PM)
+[2017.01.01-14.49.39:692][405]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_Inside
+[2017.01.01-14.49.39:702][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010713s)
+[2017.01.01-14.49.39:703][405]LogAIModule: Creating AISystem for world Inside
+[2017.01.01-14.49.39:704][405]LogPlayLevel: PIE: World Init took: (0.001051s)
+[2017.01.01-14.49.39:704][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/Inside.Inside to /Game/_Rescale/UEDPIE_0_Inside.Inside (0.012036s)
+[2017.01.01-14.49.39:719][405]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.01-14.49.39:728][405]LogInit: FAudioDevice initialized.
+[2017.01.01-14.49.39:762][405]LogLoad: Game class is 'BP_RescaleGamemode_C'
+[2017.01.01-14.49.39:766][405]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_Inside.Inside up for play (max tick rate 60) at 2017.01.01-15.49.39
+[2017.01.01-14.49.39:766][405]LogWorld: Bringing up level for play took: 0.003965
+[2017.01.01-14.49.39:767][405]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+
+[2017.01.01-14.49.39:769][405]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_Inside -0.285
+[2017.01.01-14.49.41:973][525]Cmd: LevelEditor.ToggleImmersive
+[2017.01.01-14.50.36:474][ 96]LogHttp:Warning: 00000163BC3D8100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.01.01-14.50.36:475][ 96]LogHttp:Warning: 00000163BC3D8100: libcurl info message cache 0 (Connection 23 seems to be dead!)
+[2017.01.01-14.50.36:475][ 96]LogHttp:Warning: 00000163BC3D8100: libcurl info message cache 1 (Closing connection 23)
+[2017.01.01-14.50.36:475][ 96]LogHttp:Warning: 00000163BC3D8100: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2017.01.01-14.50.36:475][ 96]LogHttp:Warning: 00000163BC3D8100: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.01.01-14.50.36:475][ 96]LogHttp:Warning: 00000163BC3D8100: libcurl info message cache 4 (Closing connection 24)
+[2017.01.01-14.52.12:639][118]LogEditorViewport: Clicking on Actor (LMB): ScalableGeometry_C (ScalableGeometry8)
+[2017.01.01-14.52.29:840][144]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.01-14.52.29:863][144]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.01-14.52.29:863][144]PIE: New page: PIE session: Inside (Jan 1, 2017, 4:52:29 PM)
+[2017.01.01-14.52.29:863][144]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_Inside
+[2017.01.01-14.52.29:881][144]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017655s)
+[2017.01.01-14.52.29:881][144]LogAIModule: Creating AISystem for world Inside
+[2017.01.01-14.52.29:882][144]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2017.01.01-14.52.29:882][144]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/Inside.Inside to /Game/_Rescale/UEDPIE_0_Inside.Inside (0.019075s)
+[2017.01.01-14.52.29:909][144]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.01-14.52.29:921][144]LogInit: FAudioDevice initialized.
+[2017.01.01-14.52.29:956][144]LogLoad: Game class is 'BP_RescaleGamemode_C'
+[2017.01.01-14.52.29:965][144]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_Inside.Inside up for play (max tick rate 60) at 2017.01.01-15.52.29
+[2017.01.01-14.52.29:966][144]LogWorld: Bringing up level for play took: 0.008747
+[2017.01.01-14.52.29:968][144]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+
+[2017.01.01-14.52.29:975][144]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_Inside -0.08
+[2017.01.01-14.52.32:361][286]Cmd: LevelEditor.ToggleImmersive
+[2017.01.01-14.53.27:831][ 69]LogEditorViewport: Clicking on Actor (LMB): ScalableGeometry_C (ScalableGeometry8)
+[2017.01.01-14.57.18:467][931]LogSavePackage: Save=193.14ms
+[2017.01.01-14.57.18:467][931]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Inside_Auto40F2F1B2F4B606BF56B8A9388487F1879.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Autosaves/Game/_Rescale/Inside_Auto4.umap'
+[2017.01.01-14.57.18:469][931]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Autosaves/Game/_Rescale/Inside_Auto4.umap
+[2017.01.01-14.57.18:473][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Rescale/Inside_BuiltData" FILE="../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside_BuiltData.uasset" SILENT=true
+[2017.01.01-14.57.19:098][931]LogSavePackage: Save=179.27ms
+[2017.01.01-14.57.19:098][931]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Inside_BuiltData2F58D2EF4C6141CF332AF3BDE9761350.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside_BuiltData.uasset'
+[2017.01.01-14.57.19:107][931]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside_BuiltData.uasset
+[2017.01.01-14.57.19:333][931]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/_Rescale/Inside' took 1.353
+[2017.01.01-14.57.19:333][931]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.353
+[2017.01.01-15.02.14:355][725]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.01-15.02.14:622][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.01-15.02.14:622][725]PIE: New page: PIE session: Inside (Jan 1, 2017, 5:02:14 PM)
+[2017.01.01-15.02.14:623][725]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_Inside
+[2017.01.01-15.02.14:712][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.089409s)
+[2017.01.01-15.02.14:713][725]LogAIModule: Creating AISystem for world Inside
+[2017.01.01-15.02.14:713][725]LogPlayLevel: PIE: World Init took: (0.001210s)
+[2017.01.01-15.02.14:744][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/Inside.Inside to /Game/_Rescale/UEDPIE_0_Inside.Inside (0.121989s)
+[2017.01.01-15.02.14:782][725]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.01-15.02.14:794][725]LogInit: FAudioDevice initialized.
+[2017.01.01-15.02.14:867][725]LogLoad: Game class is 'BP_RescaleGamemode_C'
+[2017.01.01-15.02.14:874][725]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_Inside.Inside up for play (max tick rate 60) at 2017.01.01-16.02.14
+[2017.01.01-15.02.14:875][725]LogWorld: Bringing up level for play took: 0.006690
+[2017.01.01-15.02.14:877][725]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+
+[2017.01.01-15.02.14:899][725]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_Inside 0.844
+[2017.01.01-15.02.21:464][ 74]LogEditorViewport: Clicking on Actor (LMB): ScalableGeometry_C (ScalableGeometry8)
+[2017.01.01-15.02.26:400][366]LogEditorViewport: Clicking on Actor (LMB): ScalableGeometry_C (ScalableGeometry)
+[2017.01.01-15.02.30:645][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Rescale/Inside" FILE="../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.01-15.02.30:841][611]LogSavePackage: Save=114.91ms
+[2017.01.01-15.02.30:841][611]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Inside85F670334BC9D3AB998EE9AD28E3A7B4.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside.umap'
+[2017.01.01-15.02.30:847][611]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside.umap
+[2017.01.01-15.02.30:873][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Rescale/Inside_BuiltData" FILE="../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside_BuiltData.uasset" SILENT=true
+[2017.01.01-15.02.31:374][611]LogSavePackage: Save=466.13ms
+[2017.01.01-15.02.31:374][611]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Inside_BuiltDataF6661DA64580D04DA8DBDB80437387B8.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside_BuiltData.uasset'
+[2017.01.01-15.02.31:382][611]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside_BuiltData.uasset
+[2017.01.01-15.02.32:988][698]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v160)
+[2017.01.01-15.02.33:928][745]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.01-15.02.33:941][745]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.01-15.02.33:941][745]PIE: New page: PIE session: Inside (Jan 1, 2017, 5:02:33 PM)
+[2017.01.01-15.02.33:941][745]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_Inside
+[2017.01.01-15.02.33:953][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011533s)
+[2017.01.01-15.02.33:953][745]LogAIModule: Creating AISystem for world Inside
+[2017.01.01-15.02.33:954][745]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2017.01.01-15.02.33:954][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/Inside.Inside to /Game/_Rescale/UEDPIE_0_Inside.Inside (0.012653s)
+[2017.01.01-15.02.33:971][745]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.01-15.02.33:980][745]LogInit: FAudioDevice initialized.
+[2017.01.01-15.02.34:016][745]LogLoad: Game class is 'BP_RescaleGamemode_C'
+[2017.01.01-15.02.34:034][745]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_Inside.Inside up for play (max tick rate 60) at 2017.01.01-16.02.34
+[2017.01.01-15.02.34:035][745]LogWorld: Bringing up level for play took: 0.014473
+[2017.01.01-15.02.34:037][745]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+
+[2017.01.01-15.02.34:042][745]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_Inside -0.012
+[2017.01.01-15.02.36:955][919]Cmd: LevelEditor.ToggleImmersive
+[2017.01.01-15.03.53:598][227]LogEditorViewport: Clicking on Actor (LMB): ScalableGeometry_C (ScalableGeometry8)
+[2017.01.01-15.03.57:222][441]LogEditorViewport: Clicking on Actor (CTRL LMB): ScalableGeometry_C (ScalableGeometry6)
+[2017.01.01-15.03.57:982][485]LogEditorViewport: Clicking on Actor (CTRL LMB): ScalableGeometry_C (ScalableGeometry7)
+[2017.01.01-15.04.09:912][166]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.01-15.04.09:928][166]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.01-15.04.09:928][166]PIE: New page: PIE session: Inside (Jan 1, 2017, 5:04:09 PM)
+[2017.01.01-15.04.09:928][166]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_Inside
+[2017.01.01-15.04.09:940][166]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012112s)
+[2017.01.01-15.04.09:941][166]LogAIModule: Creating AISystem for world Inside
+[2017.01.01-15.04.09:941][166]LogPlayLevel: PIE: World Init took: (0.000660s)
+[2017.01.01-15.04.09:941][166]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/Inside.Inside to /Game/_Rescale/UEDPIE_0_Inside.Inside (0.013072s)
+[2017.01.01-15.04.09:960][166]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.01-15.04.10:020][166]LogInit: FAudioDevice initialized.
+[2017.01.01-15.04.10:065][166]LogLoad: Game class is 'BP_RescaleGamemode_C'
+[2017.01.01-15.04.10:079][166]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_Inside.Inside up for play (max tick rate 60) at 2017.01.01-16.04.10
+[2017.01.01-15.04.10:080][166]LogWorld: Bringing up level for play took: 0.010496
+[2017.01.01-15.04.10:082][166]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+
+[2017.01.01-15.04.10:087][166]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_Inside 0.032
+[2017.01.01-15.05.35:086][216]LogEditorViewport: Clicking on Actor (LMB): ScalableGeometry_C (ScalableGeometry)
+[2017.01.01-15.06.20:437][914]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight8)
+[2017.01.01-15.09.40:426][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v166)
+[2017.01.01-15.09.46:005][102]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume2)
+[2017.01.01-15.12.38:159][242]Cmd: EDIT COPY
+[2017.01.01-15.12.38:322][247]Cmd: EDIT PASTE
+[2017.01.01-15.12.42:874][494]LogEditorActor: Deleted Actor: PostProcessVolume
+[2017.01.01-15.12.42:892][494]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2017.01.01-15.14.23:405][457]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.01-15.14.23:557][457]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.01-15.14.23:557][457]PIE: New page: PIE session: Inside (Jan 1, 2017, 5:14:23 PM)
+[2017.01.01-15.14.23:557][457]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_Inside
+[2017.01.01-15.14.23:608][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035368s)
+[2017.01.01-15.14.23:608][457]LogAIModule: Creating AISystem for world Inside
+[2017.01.01-15.14.23:608][457]LogPlayLevel: PIE: World Init took: (0.000881s)
+[2017.01.01-15.14.23:609][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/Inside.Inside to /Game/_Rescale/UEDPIE_0_Inside.Inside (0.051500s)
+[2017.01.01-15.14.23:632][457]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.01-15.14.23:640][457]LogInit: FAudioDevice initialized.
+[2017.01.01-15.14.23:676][457]LogLoad: Game class is 'BP_RescaleGamemode_C'
+[2017.01.01-15.14.23:686][457]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_Inside.Inside up for play (max tick rate 60) at 2017.01.01-16.14.23
+[2017.01.01-15.14.23:687][457]LogWorld: Bringing up level for play took: 0.008636
+[2017.01.01-15.14.23:689][457]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+
+[2017.01.01-15.14.23:692][457]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_Inside -0.363
+[2017.01.01-15.14.26:122][598]Cmd: LevelEditor.ToggleImmersive
+[2017.01.01-15.14.41:332][265]LogEditorViewport: Clicking on Actor (LMB): ScalableGeometry_C (ScalableGeometry6)
+[2017.01.01-15.14.43:881][387]LogEditorViewport: Clicking on Actor (CTRL LMB): ScalableGeometry_C (ScalableGeometry7)
+[2017.01.01-15.14.44:704][434]LogEditorViewport: Clicking on Actor (CTRL LMB): ScalableGeometry_C (ScalableGeometry8)
+[2017.01.01-15.14.51:018][809]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.01-15.14.51:035][809]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.01-15.14.51:035][809]PIE: New page: PIE session: Inside (Jan 1, 2017, 5:14:51 PM)
+[2017.01.01-15.14.51:035][809]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_Inside
+[2017.01.01-15.14.51:060][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025001s)
+[2017.01.01-15.14.51:061][809]LogAIModule: Creating AISystem for world Inside
+[2017.01.01-15.14.51:061][809]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2017.01.01-15.14.51:061][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/Inside.Inside to /Game/_Rescale/UEDPIE_0_Inside.Inside (0.026202s)
+[2017.01.01-15.14.51:084][809]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.01-15.14.51:288][809]LogInit: FAudioDevice initialized.
+[2017.01.01-15.14.51:334][809]LogLoad: Game class is 'BP_RescaleGamemode_C'
+[2017.01.01-15.14.51:351][809]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_Inside.Inside up for play (max tick rate 60) at 2017.01.01-16.14.51
+[2017.01.01-15.14.51:351][809]LogWorld: Bringing up level for play took: 0.013779
+[2017.01.01-15.14.51:353][809]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+
+[2017.01.01-15.14.51:357][809]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_Inside 1.302
+[2017.01.01-15.15.02:364][461]Cmd: LevelEditor.ToggleImmersive
+[2017.01.01-15.16.03:257][368]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume3)
+[2017.01.01-15.17.13:769][371]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube3x3x3_Archi_v172)
+[2017.01.01-15.17.21:553][799]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume3)
+[2017.01.01-15.17.46:623][288]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.01-15.17.46:687][288]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.01-15.17.46:688][288]PIE: New page: PIE session: Inside (Jan 1, 2017, 5:17:46 PM)
+[2017.01.01-15.17.46:688][288]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_Inside
+[2017.01.01-15.17.46:739][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050610s)
+[2017.01.01-15.17.46:740][288]LogAIModule: Creating AISystem for world Inside
+[2017.01.01-15.17.46:740][288]LogPlayLevel: PIE: World Init took: (0.001129s)
+[2017.01.01-15.17.46:740][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/Inside.Inside to /Game/_Rescale/UEDPIE_0_Inside.Inside (0.052181s)
+[2017.01.01-15.17.46:772][288]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.01-15.17.46:798][288]LogInit: FAudioDevice initialized.
+[2017.01.01-15.17.46:838][288]LogLoad: Game class is 'BP_RescaleGamemode_C'
+[2017.01.01-15.17.46:856][288]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_Inside.Inside up for play (max tick rate 60) at 2017.01.01-16.17.46
+[2017.01.01-15.17.46:857][288]LogWorld: Bringing up level for play took: 0.015176
+[2017.01.01-15.17.46:860][288]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
+	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+
+[2017.01.01-15.17.46:868][288]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_Inside 0.813
+[2017.01.01-15.17.50:332][491]Cmd: LevelEditor.ToggleImmersive
+[2017.01.01-15.19.14:910][651]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume3)
+[2017.01.01-15.20.38:718][521]LogSavePackage: Save=225.51ms
+[2017.01.01-15.20.38:720][521]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Inside_Auto538EDE0D54CD180C55E020689DA950EB2.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Autosaves/Game/_Rescale/Inside_Auto5.umap'
+[2017.01.01-15.20.38:751][521]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Autosaves/Game/_Rescale/Inside_Auto5.umap
+[2017.01.01-15.20.38:778][521]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/_Rescale/Inside' took 0.519
+[2017.01.01-15.20.38:778][521]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.519
+[2017.01.01-15.22.21:806][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Rescale/Inside" FILE="../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.01.01-15.22.22:005][123]LogSavePackage: Save=155.41ms
+[2017.01.01-15.22.22:006][123]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/InsideEE792DEE44635FCC046EB8B61EDDC4EB.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside.umap'
+[2017.01.01-15.22.22:033][123]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside.umap
+[2017.01.01-15.22.22:152][123]LogFileHelpers: Saving map 'Inside' took 9.485
+[2017.01.01-15.22.26:122][320]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.01-15.22.37:168][321]Cmd: QUIT_EDITOR
+[2017.01.01-15.22.39:599][321]LogExit: Preparing to exit.
+[2017.01.01-15.22.48:906][321]LogDirectoryWatcher: A directory notification for 'C:/Users/Manu/Documents/Unreal Projects/RescaleE/Content/' was aborted.
+[2017.01.01-15.22.54:753][321]LogExit: Editor shut down
+[2017.01.01-15.22.54:780][321]LogExit: Transaction tracking system shut down
+[2017.01.01-15.23.04:045][321]LogObj: Freed 0b from 0 cluster array pools.
+[2017.01.01-15.23.04:045][321]LogExit: Object subsystem successfully closed.
+[2017.01.01-15.23.05:807][321]LogD3D11RHI: Shutdown
+[2017.01.01-15.23.05:808][321]LogD3D11RHI: CleanupD3DDevice
+[2017.01.01-15.23.20:686][321]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.01.01-15.23.23:316][321]LogHttp:Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2017.01.01-15.23.23:316][321]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8FC95821-4363-1792-1F7C-659D9F0D9B35%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.1-3224400%2B%2B%2BUE4%2BRelease-4.14&UserID=bfaa3a4f404181b542fa71861563d13b%7C2f077aada51d4e47af0f7dc5927b56f4%7Cb3c26870-df9c-4f47-93ba-0b2c15a5d9e7&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.01.01-15.23.23:316][321]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8FC95821-4363-1792-1F7C-659D9F0D9B35%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.1-3224400%2B%2B%2BUE4%2BRelease-4.14&UserID=bfaa3a4f404181b542fa71861563d13b%7C2f077aada51d4e47af0f7dc5927b56f4%7Cb3c26870-df9c-4f47-93ba-0b2c15a5d9e7&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.01.01-15.23.23:442][321]LogModuleManager: Shutting down and abandoning module BlueprintGraph (250)
+[2017.01.01-15.23.23:442][321]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (249)
+[2017.01.01-15.23.23:445][321]LogModuleManager: Shutting down and abandoning module MaterialEditor (248)
+[2017.01.01-15.23.23:445][321]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (247)
+[2017.01.01-15.23.23:446][321]LogModuleManager: Shutting down and abandoning module CurveAssetEditor (246)
+[2017.01.01-15.23.23:446][321]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (245)
+[2017.01.01-15.23.23:446][321]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (244)
+[2017.01.01-15.23.23:447][321]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (243)
+[2017.01.01-15.23.23:447][321]LogModuleManager: Shutting down and abandoning module CrashTracker (242)
+[2017.01.01-15.23.23:483][321]LogModuleManager: Shutting down and abandoning module SceneOutliner (241)
+[2017.01.01-15.23.23:483][321]LogModuleManager: Shutting down and abandoning module WidgetCarousel (240)
+[2017.01.01-15.23.23:484][321]LogModuleManager: Shutting down and abandoning module AddContentDialog (239)
+[2017.01.01-15.23.23:519][321]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.14/FeaturePacks/' was aborted.
+[2017.01.01-15.23.23:965][321]LogModuleManager: Shutting down and abandoning module GameplayTags (238)
+[2017.01.01-15.23.23:965][321]LogModuleManager: Shutting down and abandoning module EditorWidgets (237)
+[2017.01.01-15.23.23:965][321]LogModuleManager: Shutting down and abandoning module CollectionManager (236)
+[2017.01.01-15.23.23:966][321]LogDirectoryWatcher: A directory notification for 'C:/Users/Manu/Documents/Unreal Projects/RescaleE/Content/Collections/' was aborted.
+[2017.01.01-15.23.23:967][321]LogDirectoryWatcher: A directory notification for 'C:/Users/Manu/Documents/Unreal Projects/RescaleE/Content/Developers/Manu/Collections/' was aborted.
+[2017.01.01-15.23.23:967][321]LogDirectoryWatcher: A directory notification for 'C:/Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Collections/' was aborted.
+[2017.01.01-15.23.23:967][321]LogModuleManager: Shutting down and abandoning module StatsViewer (235)
+[2017.01.01-15.23.23:969][321]LogModuleManager: Shutting down and abandoning module FoliageEdit (234)
+[2017.01.01-15.23.23:969][321]LogModuleManager: Shutting down and abandoning module LandscapeEditor (233)
+[2017.01.01-15.23.24:011][321]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (232)
+[2017.01.01-15.23.24:011][321]LogModuleManager: Shutting down and abandoning module ActorPickerMode (231)
+[2017.01.01-15.23.24:011][321]LogModuleManager: Shutting down and abandoning module GeometryMode (230)
+[2017.01.01-15.23.24:030][321]LogModuleManager: Shutting down and abandoning module TextureAlignMode (229)
+[2017.01.01-15.23.24:030][321]LogModuleManager: Shutting down and abandoning module BspMode (228)
+[2017.01.01-15.23.24:030][321]LogModuleManager: Shutting down and abandoning module HardwareSurvey (227)
+[2017.01.01-15.23.24:052][321]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (226)
+[2017.01.01-15.23.24:072][321]LogModuleManager: Shutting down and abandoning module AutomationWorker (225)
+[2017.01.01-15.23.24:074][321]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (224)
+[2017.01.01-15.23.24:076][321]LogModuleManager: Shutting down and abandoning module PlacementMode (223)
+[2017.01.01-15.23.24:079][321]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (222)
+[2017.01.01-15.23.24:094][321]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (221)
+[2017.01.01-15.23.24:094][321]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (220)
+[2017.01.01-15.23.24:094][321]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (219)
+[2017.01.01-15.23.24:094][321]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (218)
+[2017.01.01-15.23.24:094][321]LogModuleManager: Shutting down and abandoning module Media (217)
+[2017.01.01-15.23.24:094][321]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (216)
+[2017.01.01-15.23.24:095][321]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (215)
+[2017.01.01-15.23.24:095][321]LogModuleManager: Shutting down and abandoning module CharacterAI (214)
+[2017.01.01-15.23.24:230][321]LogModuleManager: Shutting down and abandoning module SequenceRecorder (213)
+[2017.01.01-15.23.24:234][321]LogModuleManager: Shutting down and abandoning module AudioCapture (212)
+[2017.01.01-15.23.24:234][321]LogModuleManager: Shutting down and abandoning module SmartSnapping (211)
+[2017.01.01-15.23.24:235][321]LogModuleManager: Shutting down and abandoning module SessionServices (210)
+[2017.01.01-15.23.24:235][321]LogModuleManager: Shutting down and abandoning module ViewportSnapping (209)
+[2017.01.01-15.23.24:261][321]LogModuleManager: Shutting down and abandoning module ViewportInteraction (208)
+[2017.01.01-15.23.24:262][321]LogModuleManager: Shutting down and abandoning module LogVisualizer (207)
+[2017.01.01-15.23.24:267][321]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (206)
+[2017.01.01-15.23.24:271][321]LogModuleManager: Shutting down and abandoning module IntroTutorials (205)
+[2017.01.01-15.23.24:272][321]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (204)
+[2017.01.01-15.23.24:273][321]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (203)
+[2017.01.01-15.23.24:274][321]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (202)
+[2017.01.01-15.23.24:274][321]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (201)
+[2017.01.01-15.23.24:834][321]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (200)
+[2017.01.01-15.23.24:834][321]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (199)
+[2017.01.01-15.23.24:834][321]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (198)
+[2017.01.01-15.23.24:834][321]LogModuleManager: Shutting down and abandoning module InputBindingEditor (197)
+[2017.01.01-15.23.24:835][321]LogModuleManager: Shutting down and abandoning module NiagaraEditor (196)
+[2017.01.01-15.23.24:837][321]LogModuleManager: Shutting down and abandoning module MergeActors (195)
+[2017.01.01-15.23.24:838][321]LogModuleManager: Shutting down and abandoning module SizeMap (194)
+[2017.01.01-15.23.24:860][321]LogModuleManager: Shutting down and abandoning module TreeMap (193)
+[2017.01.01-15.23.24:862][321]LogModuleManager: Shutting down and abandoning module ReferenceViewer (192)
+[2017.01.01-15.23.24:863][321]LogModuleManager: Shutting down and abandoning module LocalizationService (191)
+[2017.01.01-15.23.24:864][321]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (190)
+[2017.01.01-15.23.24:867][321]LogModuleManager: Shutting down and abandoning module HardwareTargeting (189)
+[2017.01.01-15.23.24:867][321]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (188)
+[2017.01.01-15.23.24:891][321]LogModuleManager: Shutting down and abandoning module UndoHistory (187)
+[2017.01.01-15.23.24:892][321]LogModuleManager: Shutting down and abandoning module UserFeedback (186)
+[2017.01.01-15.23.24:892][321]LogModuleManager: Shutting down and abandoning module XmlParser (185)
+[2017.01.01-15.23.24:893][321]LogModuleManager: Shutting down and abandoning module Blutility (184)
+[2017.01.01-15.23.24:893][321]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (183)
+[2017.01.01-15.23.24:917][321]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (182)
+[2017.01.01-15.23.24:939][321]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (181)
+[2017.01.01-15.23.24:960][321]LogModuleManager: Shutting down and abandoning module SettingsEditor (180)
+[2017.01.01-15.23.24:961][321]LogModuleManager: Shutting down and abandoning module ProjectLauncher (179)
+[2017.01.01-15.23.25:004][321]LogModuleManager: Shutting down and abandoning module SessionFrontend (178)
+[2017.01.01-15.23.25:014][321]LogModuleManager: Shutting down and abandoning module ProfilerClient (177)
+[2017.01.01-15.23.25:015][321]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (176)
+[2017.01.01-15.23.25:015][321]LogModuleManager: Shutting down and abandoning module DeviceManager (175)
+[2017.01.01-15.23.25:158][321]LogModuleManager: Shutting down and abandoning module AutomationController (174)
+[2017.01.01-15.23.25:162][321]LogModuleManager: Shutting down and abandoning module AutomationWindow (173)
+[2017.01.01-15.23.25:164][321]LogModuleManager: Shutting down and abandoning module Layers (172)
+[2017.01.01-15.23.25:175][321]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (171)
+[2017.01.01-15.23.25:175][321]LogModuleManager: Shutting down and abandoning module DetailCustomizations (170)
+[2017.01.01-15.23.25:176][321]LogModuleManager: Shutting down and abandoning module PackagesDialog (169)
+[2017.01.01-15.23.25:177][321]LogModuleManager: Shutting down and abandoning module AnimGraph (168)
+[2017.01.01-15.23.25:177][321]LogModuleManager: Shutting down and abandoning module Persona (167)
+[2017.01.01-15.23.25:202][321]LogModuleManager: Shutting down and abandoning module Kismet (166)
+[2017.01.01-15.23.25:223][321]LogModuleManager: Shutting down and abandoning module GraphEditor (165)
+[2017.01.01-15.23.25:223][321]LogModuleManager: Shutting down and abandoning module ClassViewer (164)
+[2017.01.01-15.23.25:225][321]LogModuleManager: Shutting down and abandoning module Toolbox (163)
+[2017.01.01-15.23.25:226][321]LogModuleManager: Shutting down and abandoning module ModuleUI (162)
+[2017.01.01-15.23.25:227][321]LogModuleManager: Shutting down and abandoning module MovieSceneTools (161)
+[2017.01.01-15.23.25:246][321]LogModuleManager: Shutting down and abandoning module OutputLog (160)
+[2017.01.01-15.23.25:247][321]LogModuleManager: Shutting down and abandoning module GammaUI (159)
+[2017.01.01-15.23.25:248][321]LogModuleManager: Shutting down and abandoning module Documentation (158)
+[2017.01.01-15.23.25:249][321]LogModuleManager: Shutting down and abandoning module Niagara (157)
+[2017.01.01-15.23.25:249][321]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (156)
+[2017.01.01-15.23.25:260][321]LogModuleManager: Shutting down and abandoning module AnalyticsET (155)
+[2017.01.01-15.23.25:260][321]LogModuleManager: Shutting down and abandoning module PortalServices (154)
+[2017.01.01-15.23.25:260][321]LogModuleManager: Shutting down and abandoning module PortalRpc (153)
+[2017.01.01-15.23.25:260][321]LogModuleManager: Shutting down and abandoning module MessagingRpc (152)
+[2017.01.01-15.23.25:260][321]LogModuleManager: Shutting down and abandoning module GameplayDebugger (151)
+[2017.01.01-15.23.25:260][321]LogModuleManager: Shutting down and abandoning module AITestSuite (150)
+[2017.01.01-15.23.25:260][321]LogModuleManager: Shutting down and abandoning module AIModule (149)
+[2017.01.01-15.23.25:260][321]LogModuleManager: Shutting down and abandoning module ProfilerService (148)
+[2017.01.01-15.23.25:436][321]LogModuleManager: Shutting down and abandoning module TaskGraph (147)
+[2017.01.01-15.23.25:439][321]LogModuleManager: Shutting down and abandoning module SubstanceEditor (146)
+[2017.01.01-15.23.25:441][321]LogModuleManager: Shutting down and abandoning module SlateRemote (145)
+[2017.01.01-15.23.25:441][321]LogModuleManager: Shutting down and abandoning module SteamVRController (144)
+[2017.01.01-15.23.25:441][321]LogModuleManager: Shutting down and abandoning module SteamVR (143)
+[2017.01.01-15.23.25:441][321]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (142)
+[2017.01.01-15.23.25:442][321]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (141)
+[2017.01.01-15.23.25:443][321]LogModuleManager: Shutting down and abandoning module OculusLibrary (140)
+[2017.01.01-15.23.25:443][321]LogModuleManager: Shutting down and abandoning module OculusInput (139)
+[2017.01.01-15.23.25:443][321]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (138)
+[2017.01.01-15.23.25:443][321]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (137)
+[2017.01.01-15.23.25:443][321]LogModuleManager: Shutting down and abandoning module CableComponent (136)
+[2017.01.01-15.23.25:443][321]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (135)
+[2017.01.01-15.23.25:443][321]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (133)
+[2017.01.01-15.23.25:447][321]LogModuleManager: Shutting down and abandoning module HTML5Networking (132)
+[2017.01.01-15.23.25:447][321]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (131)
+[2017.01.01-15.23.25:447][321]LogModuleManager: Shutting down and abandoning module GeometryCache (130)
+[2017.01.01-15.23.25:447][321]LogModuleManager: Shutting down and abandoning module AlembicLibrary (129)
+[2017.01.01-15.23.25:448][321]LogModuleManager: Shutting down and abandoning module AlembicImporter (128)
+[2017.01.01-15.23.25:448][321]LogModuleManager: Shutting down and abandoning module SuperSearch (127)
+[2017.01.01-15.23.25:448][321]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (126)
+[2017.01.01-15.23.25:448][321]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (125)
+[2017.01.01-15.23.25:448][321]LogModuleManager: Shutting down and abandoning module PluginBrowser (124)
+[2017.01.01-15.23.25:450][321]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (123)
+[2017.01.01-15.23.25:451][321]LogModuleManager: Shutting down and abandoning module EpicSurvey (122)
+[2017.01.01-15.23.25:452][321]LogModuleManager: Shutting down and abandoning module DesktopPlatform (121)
+[2017.01.01-15.23.25:454][321]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (120)
+[2017.01.01-15.23.25:454][321]LogModuleManager: Shutting down and abandoning module UObjectPlugin (119)
+[2017.01.01-15.23.25:454][321]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (118)
+[2017.01.01-15.23.25:456][321]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (117)
+[2017.01.01-15.23.25:457][321]LogModuleManager: Shutting down and abandoning module SourceControl (116)
+[2017.01.01-15.23.25:457][321]LogModuleManager: Shutting down and abandoning module GitSourceControl (115)
+[2017.01.01-15.23.25:458][321]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (114)
+[2017.01.01-15.23.25:458][321]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (113)
+[2017.01.01-15.23.25:459][321]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (112)
+[2017.01.01-15.23.25:459][321]LogModuleManager: Shutting down and abandoning module MeshPaint (111)
+[2017.01.01-15.23.25:459][321]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (110)
+[2017.01.01-15.23.25:459][321]LogModuleManager: Shutting down and abandoning module HotReload (109)
+[2017.01.01-15.23.25:462][321]LogModuleManager: Shutting down and abandoning module MainFrame (108)
+[2017.01.01-15.23.25:462][321]LogModuleManager: Shutting down and abandoning module LevelEditor (107)
+[2017.01.01-15.23.25:512][321]LogModuleManager: Shutting down and abandoning module ContentBrowser (106)
+[2017.01.01-15.23.25:513][321]LogModuleManager: Shutting down and abandoning module Paper2DEditor (105)
+[2017.01.01-15.23.25:514][321]LogModuleManager: Shutting down and abandoning module UdpMessaging (104)
+[2017.01.01-15.23.25:615][321]LogModuleManager: Shutting down and abandoning module TcpMessaging (103)
+[2017.01.01-15.23.25:716][321]LogModuleManager: Shutting down and abandoning module SubstanceCore (102)
+[2017.01.01-15.23.25:718][321]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2017.01.01-15.23.25:718][321]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2017.01.01-15.23.25:719][321]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2017.01.01-15.23.25:719][321]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2017.01.01-15.23.25:722][321]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2017.01.01-15.23.25:722][321]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2017.01.01-15.23.25:723][321]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2017.01.01-15.23.25:723][321]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2017.01.01-15.23.25:723][321]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2017.01.01-15.23.25:723][321]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2017.01.01-15.23.25:725][321]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2017.01.01-15.23.25:726][321]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2017.01.01-15.23.25:728][321]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2017.01.01-15.23.25:739][321]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2017.01.01-15.23.25:741][321]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2017.01.01-15.23.25:741][321]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2017.01.01-15.23.25:746][321]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2017.01.01-15.23.25:749][321]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2017.01.01-15.23.25:750][321]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2017.01.01-15.23.25:755][321]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2017.01.01-15.23.25:755][321]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2017.01.01-15.23.25:861][321]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2017.01.01-15.23.25:862][321]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2017.01.01-15.23.25:862][321]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2017.01.01-15.23.25:862][321]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2017.01.01-15.23.25:862][321]LogModuleManager: Shutting down and abandoning module Core (75)
+[2017.01.01-15.23.25:862][321]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2017.01.01-15.23.25:862][321]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.01.01-15.23.25:896][321]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/' was aborted.
+[2017.01.01-15.23.25:897][321]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.01.01-15.23.26:109][321]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2017.01.01-15.23.27:088][321]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2017.01.01-15.23.27:088][321]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2017.01.01-15.23.27:123][321]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2017.01.01-15.23.27:141][321]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2017.01.01-15.23.27:153][321]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2017.01.01-15.23.27:162][321]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2017.01.01-15.23.27:162][321]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2017.01.01-15.23.27:176][321]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2017.01.01-15.23.27:223][321]LogDerivedDataCache: Shutdown
+[2017.01.01-15.23.27:223][321]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2017.01.01-15.23.27:224][321]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2017.01.01-15.23.27:242][321]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2017.01.01-15.23.27:259][321]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2017.01.01-15.23.27:304][321]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2017.01.01-15.23.27:304][321]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2017.01.01-15.23.27:304][321]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2017.01.01-15.23.27:304][321]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2017.01.01-15.23.27:443][321]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2017.01.01-15.23.27:443][321]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2017.01.01-15.23.27:443][321]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2017.01.01-15.23.27:443][321]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2017.01.01-15.23.27:505][321]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2017.01.01-15.23.27:506][321]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2017.01.01-15.23.27:507][321]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2017.01.01-15.23.27:525][321]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2017.01.01-15.23.27:526][321]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2017.01.01-15.23.27:527][321]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2017.01.01-15.23.27:527][321]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2017.01.01-15.23.27:528][321]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2017.01.01-15.23.27:549][321]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2017.01.01-15.23.27:551][321]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2017.01.01-15.23.27:551][321]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2017.01.01-15.23.27:552][321]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2017.01.01-15.23.27:553][321]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2017.01.01-15.23.27:569][321]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2017.01.01-15.23.27:570][321]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2017.01.01-15.23.27:570][321]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2017.01.01-15.23.27:571][321]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2017.01.01-15.23.27:571][321]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2017.01.01-15.23.27:572][321]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2017.01.01-15.23.27:572][321]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2017.01.01-15.23.27:612][321]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2017.01.01-15.23.27:613][321]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2017.01.01-15.23.27:615][321]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2017.01.01-15.23.27:615][321]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2017.01.01-15.23.27:616][321]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2017.01.01-15.23.27:636][321]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2017.01.01-15.23.27:637][321]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.01.01-15.23.27:637][321]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.01.01-15.23.27:702][321]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.01.01-15.23.27:702][321]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.01.01-15.23.27:702][321]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.01.01-15.23.27:703][321]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2017.01.01-15.23.27:703][321]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2017.01.01-15.23.27:703][321]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.01.01-15.23.27:704][321]LogOnline:Display: Unloading online subsystem: NULL
+[2017.01.01-15.23.27:706][321]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.01.01-15.23.27:778][321]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.01.01-15.23.27:778][321]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.01.01-15.23.27:781][321]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.01.01-15.23.27:806][321]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.01.01-15.23.27:806][321]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.01.01-15.23.27:806][321]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.01.01-15.23.27:940][321]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.01.01-15.23.27:942][321]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.01.01-15.23.27:942][321]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.01.01-15.23.27:942][321]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.01.01-15.23.27:943][321]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.01.01-15.23.27:943][321]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.01.01-15.23.27:943][321]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.01.01-15.23.27:943][321]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.01.01-15.23.27:944][321]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.01.01-15.23.27:944][321]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.01.01-15.23.28:120][321]LogExit: Exiting.
+[2017.01.01-15.23.28:703][321]Log file closed, 01/01/17 16:23:28
