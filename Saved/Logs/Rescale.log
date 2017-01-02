@@ -1,106 +1,106 @@
-﻿Log file open, 01/01/17 20:47:51
+﻿Log file open, 01/02/17 11:26:50
 LogInit:Display: Running engine for game: Rescale
 LogPlatformFile: Not using cached read wrapper
-LogInit:Display: RandInit(467219261) SRandInit(467219262).
-LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
-LogStats: Stats thread started at 0.675650
-LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
-LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
-LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
-LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
-LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
-LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
-LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
-LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
-LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
-LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
-LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
-LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
-LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
-LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
-LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
-LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
-LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
-LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
-LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
-LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
-LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
-LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
-LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
-LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
-LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
-LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
-LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
-LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
-LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
-LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
-LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
-LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
-LogPluginManager: Loaded Plugin Substance, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Marketplace/Substance/Substance.uplugin
-LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
-LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
-LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
-LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
-LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
-LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
-LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
-LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
-LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
-LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
-LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
-LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
-LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
-LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
-LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
-LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
-LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
-LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
-LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
-LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
-LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
-LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
-LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
-LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
-LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
-LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
-LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
-LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
-LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
-LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
-LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
-LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
-LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
-LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
-LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
-LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
-LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
-LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
-LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
-LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
-LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
-LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
-LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
-LogPluginManager: Loaded Plugin Ansel, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
-LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
-LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
-LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
-LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
-LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
-LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
-LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
-LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
-LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
-LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
-LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
-LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
-LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
-LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
-LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
-LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
-LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
-LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
-LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
-LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit:Display: RandInit(-325325801) SRandInit(-325325801).
+LogTaskGraph: Started task graph with 5 named threads and 6 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.054426
+LogPluginManager: Loaded Plugin Paper2D, From D:/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From D:/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From D:/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From D:/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From D:/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From D:/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From D:/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From D:/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From D:/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From D:/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From D:/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From D:/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From D:/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From D:/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From D:/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From D:/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From D:/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From D:/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From D:/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From D:/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From D:/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From D:/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From D:/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From D:/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From D:/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From D:/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From D:/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From D:/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From D:/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From D:/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From D:/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From D:/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin Substance, From D:/Epic Games/4.14/Engine/Plugins/Marketplace/Substance/Substance.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From D:/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From D:/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From D:/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From D:/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From D:/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From D:/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From D:/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From D:/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From D:/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From D:/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From D:/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From D:/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From D:/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From D:/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From D:/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From D:/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From D:/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From D:/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From D:/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From D:/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From D:/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From D:/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From D:/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From D:/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From D:/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From D:/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From D:/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From D:/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From D:/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From D:/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From D:/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From D:/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From D:/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From D:/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From D:/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From D:/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From D:/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From D:/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From D:/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From D:/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From D:/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From D:/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From D:/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From D:/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From D:/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From D:/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From D:/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From D:/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From D:/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From D:/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From D:/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From D:/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From D:/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From D:/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From D:/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From D:/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From D:/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From D:/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From D:/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From D:/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From D:/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From D:/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From D:/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From D:/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
 LogInit: Using libcurl 7.47.1
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2g
@@ -139,1162 +139,360 @@ LogInit: Compiled (64-bit): Dec  7 2016 02:14:32
 LogInit: Compiled with Visual C++: 19.00.23026.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.14
-LogInit: Command line:  
-LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: D:/Epic Games/4.14/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2017.01.01-19.47.51:670][  0]LogInit: Selected Device Profile: [Windows]
-[2017.01.01-19.47.51:670][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2017.01.01-19.47.51:702][  0]LogInit: Computer: MANUPC
-[2017.01.01-19.47.51:702][  0]LogInit: User: Manu
-[2017.01.01-19.47.51:702][  0]LogInit: CPU Page size=65536, Cores=4
-[2017.01.01-19.47.51:702][  0]LogInit: High frequency timer resolution =2.533207 MHz
-[2017.01.01-19.47.51:702][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
-[2017.01.01-19.47.51:702][  0]LogMemory: Platform Memory Stats for Windows
-[2017.01.01-19.47.51:702][  0]LogMemory: Process Physical Memory: 265.94 MB used, 265.94 MB peak
-[2017.01.01-19.47.51:702][  0]LogMemory: Process Virtual Memory: 262.67 MB used, 262.67 MB peak
-[2017.01.01-19.47.51:702][  0]LogMemory: Physical Memory: 2731.95 MB used,  5383.32 MB free, 8115.27 MB total
-[2017.01.01-19.47.51:702][  0]LogMemory: Virtual Memory: 677.03 MB used,  5383.32 MB free, 134217728.00 MB total
-[2017.01.01-19.47.52:345][  0]LogTextLocalizationManager: No translations for ('fr-FR') exist, falling back to 'en' for localization and internationalization data.
-[2017.01.01-19.47.54:818][  0]LogD3D11RHI: D3D11 adapters:
-[2017.01.01-19.47.55:730][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
-[2017.01.01-19.47.55:730][  0]LogD3D11RHI:       2018/0/4057 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2017.01.01-19.47.55:736][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
-[2017.01.01-19.47.55:736][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2017.01.01-19.47.55:743][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2017.01.01-19.47.55:743][  0]LogD3D11RHI:       0/0/4057 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2017.01.01-19.47.55:743][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2017.01.01-19.47.55:748][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2017.01.01-19.47.55:748][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
-[2017.01.01-19.47.55:748][  0]LogWindows: EnumDisplayDevices:
-[2017.01.01-19.47.55:748][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
-[2017.01.01-19.47.55:748][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
-[2017.01.01-19.47.55:749][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
-[2017.01.01-19.47.55:749][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2017.01.01-19.47.55:749][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
-[2017.01.01-19.47.55:749][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2017.01.01-19.47.55:749][  0]LogD3D11RHI:      Driver Date: Unknown
-[2017.01.01-19.47.55:749][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
-[2017.01.01-19.47.56:243][  0]LogD3D11RHI: Async texture creation enabled
-[2017.01.01-19.47.56:338][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2017.01.01-19.47.56:347][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Intermediate/Shaders/WorkingDirectory/10016/).
-[2017.01.01-19.47.56:347][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Manu/AppData/Local/Temp/UnrealShaderWorkingDir/89C6799F45E187534928FAAC0BC1A5B1/'.
-[2017.01.01-19.47.56:347][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
-[2017.01.01-19.47.58:761][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
-[2017.01.01-19.47.58:814][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
-[2017.01.01-19.47.58:868][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
-[2017.01.01-19.47.58:922][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
-[2017.01.01-19.47.58:981][  0]LogTemp:Display: Loaded TP MacTargetPlatform
-[2017.01.01-19.47.59:036][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
-[2017.01.01-19.47.59:090][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
-[2017.01.01-19.47.59:143][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
-[2017.01.01-19.47.59:187][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
-[2017.01.01-19.47.59:241][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
-[2017.01.01-19.47.59:290][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
-[2017.01.01-19.47.59:340][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
-[2017.01.01-19.47.59:391][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
-[2017.01.01-19.47.59:440][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
-[2017.01.01-19.47.59:489][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
-[2017.01.01-19.47.59:588][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
-[2017.01.01-19.47.59:588][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
-[2017.01.01-19.47.59:621][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
-[2017.01.01-19.47.59:731][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
-[2017.01.01-19.47.59:781][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
-[2017.01.01-19.47.59:829][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
-[2017.01.01-19.47.59:878][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
-[2017.01.01-19.47.59:928][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
-[2017.01.01-19.47.59:980][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
-[2017.01.01-19.47.59:980][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2017.01.01-19.48.00:682][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
-[2017.01.01-19.48.00:935][  0]LogDerivedDataCache: Loaded boot cache 0.25s 50MB C:/Users/Manu/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
-[2017.01.01-19.48.00:935][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Manu/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
-[2017.01.01-19.48.00:935][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2017.01.01-19.48.00:935][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2017.01.01-19.48.00:936][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2017.01.01-19.48.00:936][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2017.01.01-19.48.00:963][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2017.01.01-19.48.00:975][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Manu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2017.01.01-19.48.04:261][  0]LogInit: Selected Device Profile: [Windows]
-[2017.01.01-19.48.04:274][  0]LogContentStreaming: Texture pool size is 0.00 MB
-[2017.01.01-19.48.04:635][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
-[2017.01.01-19.48.04:685][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2017.01.01-19.48.04:731][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
-[2017.01.01-19.48.04:731][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
-[2017.01.01-19.48.04:731][  0]LogMeshUtilities: No automatic mesh merging module available
-[2017.01.01-19.48.06:208][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: rescale, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 103703839
-[2017.01.01-19.48.06:286][  0]LogAssetRegistry: FAssetRegistry took 0.0251 seconds to start up
-[2017.01.01-19.48.06:326][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 1 prioritized culture(s) in 0.017592 seconds
-[2017.01.01-19.48.06:332][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
-[2017.01.01-19.48.06:332][  0]LogUObjectAllocator: 6935840 out of 0 bytes used by permanent object pool.
-[2017.01.01-19.48.06:332][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2017.01.01-19.48.06:387][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2017.01.01-19.48.07:208][  0]LogSlate: Using Freetype 2.6.0
-[2017.01.01-19.48.07:221][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2017.01.01-19.48.07:221][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2017.01.01-19.48.09:589][  0]LogSubstanceCoreModule: Substance CPU Engine Loaded, Max Texture Size 2048
-[2017.01.01-19.48.09:623][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2017.01.01-19.48.09:662][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2017.01.01-19.48.10:079][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2017.01.01-19.48.10:613][  0]SourceControl: Info Source control is disabled
-[2017.01.01-19.48.10:615][  0]SourceControl: Info Source control is disabled
-[2017.01.01-19.48.10:661][  0]SourceControl: Info Source control is disabled
-[2017.01.01-19.48.10:706][  0]SourceControl: Info Source control is disabled
-[2017.01.01-19.48.12:071][  0]LogEngine: Initializing Engine...
-[2017.01.01-19.48.12:072][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2017.01.01-19.48.12:476][  0]LogAIModule: Creating AISystem for world Untitled
-[2017.01.01-19.48.12:493][  0]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.01.01-19.48.12:507][  0]LogInit: FAudioDevice initialized.
-[2017.01.01-19.48.12:542][  0]LogDerivedDataCache: Saved boot cache 0.03s 50MB C:/Users/Manu/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
-[2017.01.01-19.48.12:553][  0]LogInit: Texture streaming: Enabled
-[2017.01.01-19.48.12:726][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
-[2017.01.01-19.48.12:764][  0]LogInit: Transaction tracking system initialized
-[2017.01.01-19.48.13:125][  0]BlueprintLog: New page: Editor Load
-[2017.01.01-19.48.14:081][  0]LocalizationService: Info Localization service is disabled
-[2017.01.01-19.48.14:752][  0]LogConsoleResponse:Display: 
-[2017.01.01-19.48.15:252][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Manu/Documents/Unreal Projects/RescaleE/Content/' took 0.02s
-[2017.01.01-19.48.15:252][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2017.01.01-19.48.15:252][  0]LogCook:Display: Mobile HDR setting 1
-[2017.01.01-19.48.16:345][  0]SourceControl: Info Source control is disabled
-[2017.01.01-19.48.16:347][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/MapTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2017.01.01-19.48.16:348][  0]LightingResults: New page: Lighting Build
-[2017.01.01-19.48.16:396][  0]MapCheck: New page: Map Check
-[2017.01.01-19.48.16:396][  0]LightingResults: New page: Lighting Build
-[2017.01.01-19.48.17:072][  0]LogAIModule: Creating AISystem for world MapTest
-[2017.01.01-19.48.17:233][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2017.01.01-19.48.17:235][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2017.01.01-19.48.17:277][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 41.642ms to complete.
-[2017.01.01-19.48.17:277][  0]LogFileHelpers: Loading map 'MapTest' took 0.931
-[2017.01.01-19.48.17:491][  0]LogCollectionManager: Loaded 0 collections in 0.002457 seconds
-[2017.01.01-19.48.17:585][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Collections/' took 0.01s
-[2017.01.01-19.48.17:585][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Manu/Documents/Unreal Projects/RescaleE/Content/Developers/Manu/Collections/' took 0.01s
-[2017.01.01-19.48.17:585][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Manu/Documents/Unreal Projects/RescaleE/Content/Collections/' took 0.01s
-[2017.01.01-19.48.17:585][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
-[2017.01.01-19.48.17:598][  0]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2205 classes and 434 folders.
-[2017.01.01-19.48.17:639][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2017.01.01-19.48.17:639][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2017.01.01-19.48.17:640][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0007 seconds. Added 13 classes and 0 folders.
-[2017.01.01-19.48.17:696][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
-[2017.01.01-19.48.18:107][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
-[2017.01.01-19.48.18:154][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
-[2017.01.01-19.48.18:349][  0]LogCrashTracker: Crashtracker disabled due to settings.
-[2017.01.01-19.48.19:679][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
-[2017.01.01-19.48.19:713][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
-[2017.01.01-19.48.19:974][  0]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Rescale
-
-[2017.01.01-19.48.19:974][  0]LogTemp:Display: CWD: C:\Program Files (x86)\Epic Games\4.14\Engine\Binaries\DotNet\IOS
-
-[2017.01.01-19.48.19:974][  0]LogTemp:Display: Initial Dir: C:\Program Files (x86)\Epic Games\4.14
-
-[2017.01.01-19.48.19:974][  0]LogTemp:Display: Env CWD: C:\Program Files (x86)\Epic Games\4.14\Engine\Binaries\DotNet\IOS
-
-[2017.01.01-19.48.19:974][  0]LogTemp:Display: BranchPath = MANUPC/C/Program Files (x86)/Epic Games/4.14/Engine/Binaries --- GameBranchPath = MANUPC/C/Program Files (x86)/Epic Games/4.14/Engine/Binaries
-
-[2017.01.01-19.48.19:974][  0]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: Impossible de trouver une partie du chemin d'acc?s 'C:\Users\Manu\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles'.
-
-[2017.01.01-19.48.19:974][  0]LogTemp:Display:    ? System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
-
-[2017.01.01-19.48.19:974][  0]LogTemp:Display:    ? System.IO.FileSystemEnumerableIterator`1.CommonInit()
-
-[2017.01.01-19.48.19:974][  0]LogTemp:Display:    ? System.IO.Directory.EnumerateFiles(String path, String searchPattern)
-
-[2017.01.01-19.48.19:974][  0]LogTemp:Display:    ? iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
-
-[2017.01.01-19.48.19:974][  0]LogTemp:Display:    ? iPhonePackager.Program.Main(String[] args)
-
-[2017.01.01-19.48.20:032][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
-[2017.01.01-19.48.20:032][  0]LogLoad: (Engine Initialization) Total time: 32.09 seconds
-[2017.01.01-19.48.20:032][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.21 seconds
-[2017.01.01-19.48.20:032][  0]LogExternalProfiler: Found external profiler: VSPerf
-[2017.01.01-19.48.20:032][  0]LogExternalProfiler: Using external profiler: VSPerf
-[2017.01.01-19.48.20:051][  0]LogOcInput: OculusInput pre-init called
-[2017.01.01-19.48.20:079][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2017.01.01-19.48.20:301][  1]LogAssetRegistry: Asset discovery search completed in 14.0375 seconds
-[2017.01.01-19.48.20:301][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2017.01.01-19.48.20:301][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000280 seconds (updated 0 objects)
-[2017.01.01-19.48.20:327][  2]LogRenderer: Reallocating scene render targets to support 884x452 NumSamples 1 (Frame:2).
-[2017.01.01-19.52.52:529][145]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
-[2017.01.01-19.52.57:087][308]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 111 classes and 0 folders.
-[2017.01.01-19.58.20:315][136]LogSavePackage: Save=103.34ms
-[2017.01.01-19.58.20:315][136]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/MapTest_Auto143B8A9E745C0C165CC9E1D9F1DA72548.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Autosaves/Game/_Rescale/MapTest_Auto1.umap'
-[2017.01.01-19.58.20:316][136]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Autosaves/Game/_Rescale/MapTest_Auto1.umap
-[2017.01.01-19.58.20:321][136]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/_Rescale/MapTest' took 0.159
-[2017.01.01-19.58.20:321][136]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.159
-[2017.01.01-19.58.20:323][136]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Rescale/_Blueprints/ScalableGeometry] ([1] browsable assets)...
-[2017.01.01-19.58.20:323][136]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Rescale/_Blueprints/ScalableGeometry]
-[2017.01.01-19.58.20:432][136]LogSavePackage: Save=102.15ms
-[2017.01.01-19.58.20:432][136]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/ScalableGeometry_Auto195228FFB46B43FBCA9AE89AB5997DB80.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Autosaves/Game/_Rescale/_Blueprints/ScalableGeometry_Auto1.uasset'
-[2017.01.01-19.58.20:435][136]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Autosaves/Game/_Rescale/_Blueprints/ScalableGeometry_Auto1.uasset
-[2017.01.01-19.58.20:435][136]LogFileHelpers: Auto-saving content packages took 0.113
-[2017.01.01-19.59.51:076][547]BlueprintLog: New page: Compile ScalableGeometry
-[2017.01.01-19.59.54:117][667]LogEditorViewport: Clicking Background
-[2017.01.01-19.59.54:904][714]LogEditorViewport: Clicking on Actor (LMB): ScalableGeometry_C (ScalableGeometry6)
-[2017.01.01-19.59.58:960][956]LogEditorViewport: Clicking on Actor (LMB): ScalableGeometry_C (ScalableGeometry4)
-[2017.01.01-20.00.09:611][594]LogEditorViewport: Clicking on Actor (LMB): ScalableGeometry_C (ScalableGeometry5)
-[2017.01.01-20.00.13:667][836]LogEditorViewport: Clicking on Actor (LMB): ScalableGeometry_C (ScalableGeometry6)
-[2017.01.01-20.01.37:161][557]LogEditorTransaction: Undo Create Pin Link
-[2017.01.01-20.10.24:508][254]LogSavePackage: Save=94.56ms
-[2017.01.01-20.10.24:508][254]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/MapTest_Auto2C919AF6647E804F80BB6AEB04BB4C5BA.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Autosaves/Game/_Rescale/MapTest_Auto2.umap'
-[2017.01.01-20.10.24:510][254]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Autosaves/Game/_Rescale/MapTest_Auto2.umap
-[2017.01.01-20.10.24:511][254]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/_Rescale/MapTest' took 0.132
-[2017.01.01-20.10.24:511][254]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.132
-[2017.01.01-20.10.24:514][254]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Rescale/_Blueprints/ScalableGeometry] ([1] browsable assets)...
-[2017.01.01-20.10.24:514][254]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Rescale/_Blueprints/ScalableGeometry]
-[2017.01.01-20.10.24:622][254]LogSavePackage: Save=101.11ms
-[2017.01.01-20.10.24:622][254]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/ScalableGeometry_Auto2118C0F1A44614234696F48A821CEA797.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Autosaves/Game/_Rescale/_Blueprints/ScalableGeometry_Auto2.uasset'
-[2017.01.01-20.10.24:624][254]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Autosaves/Game/_Rescale/_Blueprints/ScalableGeometry_Auto2.uasset
-[2017.01.01-20.10.24:624][254]LogFileHelpers: Auto-saving content packages took 0.112
-[2017.01.01-20.16.31:806][160]BlueprintLog: New page: Compile ScalableGeometry
-[2017.01.01-20.16.38:591][526]LogEditorViewport: Clicking on Actor (LMB): ScalableGeometry_C (ScalableGeometry5)
-[2017.01.01-20.16.40:567][642]LogTemp: Repeting last play command: Selected Viewport
-[2017.01.01-20.16.40:582][642]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.16.40:583][642]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.01.01-20.16.40:584][642]PIE: New page: PIE session: MapTest (Jan 1, 2017, 10:16:40 PM)
-[2017.01.01-20.16.40:584][642]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_MapTest
-[2017.01.01-20.16.40:587][642]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003261s)
-[2017.01.01-20.16.40:588][642]LogAIModule: Creating AISystem for world MapTest
-[2017.01.01-20.16.40:588][642]LogPlayLevel: PIE: World Init took: (0.000825s)
-[2017.01.01-20.16.40:588][642]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/MapTest.MapTest to /Game/_Rescale/UEDPIE_0_MapTest.MapTest (0.004287s)
-[2017.01.01-20.16.40:605][642]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.01.01-20.16.40:614][642]LogInit: FAudioDevice initialized.
-[2017.01.01-20.16.41:687][642]LogLoad: Game class is 'BP_RescaleGamemode_C'
-[2017.01.01-20.16.41:691][642]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_MapTest.MapTest up for play (max tick rate 60) at 2017.01.01-21.16.41
-[2017.01.01-20.16.41:691][642]LogWorld: Bringing up level for play took: 0.001360
-[2017.01.01-20.16.42:806][642]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
-[2017.01.01-20.16.42:809][642]LogScriptCore:Warning: Script Msg: Divide by zero
+[2017.01.02-10.26.51:012][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.02-10.26.51:012][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.01.02-10.26.51:022][  0]LogInit: Computer: DESKTOP-FMK961L
+[2017.01.02-10.26.51:022][  0]LogInit: User: Gingi
+[2017.01.02-10.26.51:022][  0]LogInit: CPU Page size=65536, Cores=2
+[2017.01.02-10.26.51:022][  0]LogInit: High frequency timer resolution =2.728073 MHz
+[2017.01.02-10.26.51:022][  0]LogMemory: Memory total: Physical=5.9GB (6GB approx)
+[2017.01.02-10.26.51:022][  0]LogMemory: Platform Memory Stats for Windows
+[2017.01.02-10.26.51:022][  0]LogMemory: Process Physical Memory: 263.15 MB used, 263.15 MB peak
+[2017.01.02-10.26.51:022][  0]LogMemory: Process Virtual Memory: 262.39 MB used, 262.39 MB peak
+[2017.01.02-10.26.51:022][  0]LogMemory: Physical Memory: 5284.20 MB used,  748.79 MB free, 6033.00 MB total
+[2017.01.02-10.26.51:022][  0]LogMemory: Virtual Memory: 674.68 MB used,  748.79 MB free, 134217728.00 MB total
+[2017.01.02-10.26.51:055][  0]LogTextLocalizationManager: No translations for ('fr-FR') exist, falling back to 'en' for localization and internationalization data.
+[2017.01.02-10.26.51:823][  0]LogD3D11RHI: D3D11 adapters:
+[2017.01.02-10.26.51:871][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 950M' (Feature Level 11_0)
+[2017.01.02-10.26.51:871][  0]LogD3D11RHI:       2018/0/3016 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.01.02-10.26.51:880][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2017.01.02-10.26.51:880][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.01.02-10.26.51:882][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.01.02-10.26.51:882][  0]LogD3D11RHI:       0/0/3016 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.01.02-10.26.51:882][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.01.02-10.26.51:887][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.01.02-10.26.51:887][  0]LogD3D11RHI:     GPU DeviceId: 0x139a (for the marketing name, search the web for "GPU Device Id")
+[2017.01.02-10.26.51:887][  0]LogWindows: EnumDisplayDevices:
+[2017.01.02-10.26.51:887][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2017.01.02-10.26.51:887][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.01.02-10.26.51:887][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.01.02-10.26.51:888][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.01.02-10.26.51:888][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 950M
+[2017.01.02-10.26.51:888][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.01.02-10.26.51:888][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.01.02-10.26.51:888][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.01.02-10.26.51:905][  0]LogD3D11RHI: Async texture creation enabled
+[2017.01.02-10.26.51:921][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.01.02-10.26.51:922][  0]LogShaderCompilers: Guid format shader working directory is 20 characters bigger than the processId version (E:/ProjetGit/RescaleUnreal/Intermediate/Shaders/WorkingDirectory/8812/).
+[2017.01.02-10.26.51:922][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Gingi/AppData/Local/Temp/UnrealShaderWorkingDir/DD30E8B34D9147E31A75A6B72100E6A0/'.
+[2017.01.02-10.26.51:922][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.01.02-10.26.53:482][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.01.02-10.26.53:531][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.01.02-10.26.53:586][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.01.02-10.26.53:649][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.01.02-10.26.53:705][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.01.02-10.26.53:753][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.01.02-10.26.53:804][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.01.02-10.26.53:850][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.01.02-10.26.53:888][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.01.02-10.26.53:934][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.01.02-10.26.53:978][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.01.02-10.26.54:023][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.01.02-10.26.54:069][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.01.02-10.26.54:121][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.01.02-10.26.54:177][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.01.02-10.26.54:329][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.01.02-10.26.54:329][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.01.02-10.26.54:371][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.01.02-10.26.54:472][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.01.02-10.26.54:512][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.01.02-10.26.54:565][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.01.02-10.26.54:616][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.01.02-10.26.54:668][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.01.02-10.26.54:727][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.01.02-10.26.54:727][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.01.02-10.26.55:122][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.01.02-10.26.55:197][  0]LogDerivedDataCache: Loaded boot cache 0.08s 50MB C:/Users/Gingi/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.02-10.26.55:197][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Gingi/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.01.02-10.26.55:197][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/ProjetGit/RescaleUnreal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.01.02-10.26.55:197][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.01.02-10.26.55:197][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/ProjetGit/RescaleUnreal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.01.02-10.26.55:197][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.01.02-10.26.55:235][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.01.02-10.26.55:248][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Gingi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.01.02-10.26.55:556][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.02-10.26.55:563][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.01.02-10.26.55:803][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.01.02-10.26.55:837][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.01.02-10.26.55:875][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.01.02-10.26.55:875][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.01.02-10.26.55:875][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.01.02-10.26.56:586][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: rescale, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 103703839
+[2017.01.02-10.26.56:639][  0]LogAssetRegistry: FAssetRegistry took 0.0220 seconds to start up
+[2017.01.02-10.26.56:678][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 1 prioritized culture(s) in 0.016387 seconds
+[2017.01.02-10.26.56:686][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.01.02-10.26.56:686][  0]LogUObjectAllocator: 6935840 out of 0 bytes used by permanent object pool.
+[2017.01.02-10.26.56:686][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.01.02-10.26.56:736][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.01.02-10.26.57:349][  0]LogSlate: Using Freetype 2.6.0
+[2017.01.02-10.26.57:350][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.02-10.26.57:350][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.02-10.26.58:268][  0]LogSubstanceCoreModule: Substance CPU Engine Loaded, Max Texture Size 2048
+[2017.01.02-10.26.58:295][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.01.02-10.26.58:330][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.01.02-10.26.58:657][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.01.02-10.26.59:031][  0]SourceControl: Info Source control is disabled
+[2017.01.02-10.26.59:200][  0]SourceControl: Info Source control is disabled
+[2017.01.02-10.26.59:240][  0]SourceControl: Info Source control is disabled
+[2017.01.02-10.26.59:279][  0]SourceControl: Info Source control is disabled
+[2017.01.02-10.27.00:488][  0]LogEngine: Initializing Engine...
+[2017.01.02-10.27.00:489][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.01.02-10.27.00:752][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.01.02-10.27.00:760][  0]LogInit: XAudio2 using 'Haut-parleurs (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.02-10.27.00:812][  0]LogInit: FAudioDevice initialized.
+[2017.01.02-10.27.00:848][  0]LogDerivedDataCache: Saved boot cache 0.04s 50MB C:/Users/Gingi/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.02-10.27.00:853][  0]LogInit: Texture streaming: Enabled
+[2017.01.02-10.27.01:005][  0]LogInit: Transaction tracking system initialized
+[2017.01.02-10.27.01:296][  0]BlueprintLog: New page: Editor Load
+[2017.01.02-10.27.02:036][  0]LocalizationService: Info Localization service is disabled
+[2017.01.02-10.27.02:594][  0]LogConsoleResponse:Display: 
+[2017.01.02-10.27.02:777][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.01.02-10.27.02:777][  0]LogCook:Display: Mobile HDR setting 1
+[2017.01.02-10.27.03:649][  0]LogFileCache: Scanning file cache for directory 'E:/ProjetGit/RescaleUnreal/Content/' took 0.01s
+[2017.01.02-10.27.03:689][  0]SourceControl: Info Source control is disabled
+[2017.01.02-10.27.03:689][  0]Cmd: MAP LOAD FILE="E:/ProjetGit/RescaleUnreal/Content/_Rescale/MapTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.01.02-10.27.03:724][  0]LightingResults: New page: Lighting Build
+[2017.01.02-10.27.03:760][  0]MapCheck: New page: Map Check
+[2017.01.02-10.27.03:760][  0]LightingResults: New page: Lighting Build
+[2017.01.02-10.27.06:978][  0]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2017.01.02-10.27.07:196][  0]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2017.01.02-10.27.07:255][  0]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2017.01.02-10.27.07:314][  0]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2017.01.02-10.27.07:316][  0]LogTexture:Display: Building textures: ShadowMapTexture2D_2 (BGRA8)
+[2017.01.02-10.27.07:324][  0]LogTexture:Display: Building textures: ShadowMapTexture2D_3 (G8)
+[2017.01.02-10.27.07:685][  0]LogAIModule: Creating AISystem for world MapTest
+[2017.01.02-10.27.08:088][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.01.02-10.27.08:121][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.01.02-10.27.08:150][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 29.209ms to complete.
+[2017.01.02-10.27.08:150][  0]LogFileHelpers: Loading map 'MapTest' took 4.461
+[2017.01.02-10.27.08:204][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.02-10.27.08:783][  0]LogCollectionManager: Loaded 0 collections in 0.001150 seconds
+[2017.01.02-10.27.09:575][  0]LogFileCache: Scanning file cache for directory 'E:/ProjetGit/RescaleUnreal/Saved/Collections/' took 0.01s
+[2017.01.02-10.27.09:575][  0]LogFileCache: Scanning file cache for directory 'E:/ProjetGit/RescaleUnreal/Content/Developers/Gingi/Collections/' took 0.01s
+[2017.01.02-10.27.09:575][  0]LogFileCache: Scanning file cache for directory 'E:/ProjetGit/RescaleUnreal/Content/Collections/' took 0.01s
+[2017.01.02-10.27.09:575][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.01.02-10.27.09:729][  0]LogContentBrowser: Native class hierarchy populated in 0.0981 seconds. Added 2205 classes and 434 folders.
+[2017.01.02-10.27.10:037][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.01.02-10.27.10:037][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.01.02-10.27.10:038][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0008 seconds. Added 13 classes and 0 folders.
+[2017.01.02-10.27.10:151][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.01.02-10.27.13:310][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.01.02-10.27.13:507][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.01.02-10.27.13:795][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.01.02-10.27.14:110][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.01.02-10.27.14:237][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.01.02-10.27.14:237][  0]LogLoad: (Engine Initialization) Total time: 24.61 seconds
+[2017.01.02-10.27.14:237][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.31 seconds
+[2017.01.02-10.27.14:237][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.01.02-10.27.14:237][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.01.02-10.27.14:255][  0]LogOcInput: OculusInput pre-init called
+[2017.01.02-10.27.14:520][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.01.02-10.27.15:939][  0]LogRenderer: Reallocating scene render targets to support 1208x576 NumSamples 1 (Frame:2).
+[2017.01.02-10.27.20:234][214]LogAssetRegistry: Asset discovery search completed in 23.6169 seconds
+[2017.01.02-10.27.20:234][214]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.01.02-10.27.20:234][214]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000015 seconds (updated 0 objects)
+[2017.01.02-10.27.31:154][726]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2017.01.02-10.27.31:694][726]LogTexture:Display: Building textures: HQ_Lightmap0_10 (AutoDXT)
+[2017.01.02-10.27.31:720][726]LogTexture:Display: Building textures: HQ_Lightmap0_11 (AutoDXT)
+[2017.01.02-10.27.31:762][726]LogTexture:Display: Building textures: HQ_Lightmap0_12 (AutoDXT)
+[2017.01.02-10.27.31:810][726]LogTexture:Display: Building textures: HQ_Lightmap0_13 (AutoDXT)
+[2017.01.02-10.27.31:856][726]LogTexture:Display: Building textures: HQ_Lightmap0_14 (AutoDXT)
+[2017.01.02-10.27.31:912][726]LogTexture:Display: Building textures: HQ_Lightmap0_15 (AutoDXT)
+[2017.01.02-10.27.32:166][726]LogTexture:Display: Building textures: HQ_Lightmap0_16 (AutoDXT)
+[2017.01.02-10.27.32:212][726]LogTexture:Display: Building textures: HQ_Lightmap0_17 (AutoDXT)
+[2017.01.02-10.27.32:287][726]LogTexture:Display: Building textures: HQ_Lightmap0_18 (AutoDXT)
+[2017.01.02-10.27.32:321][726]LogTexture:Display: Building textures: HQ_Lightmap0_19 (AutoDXT)
+[2017.01.02-10.27.32:368][726]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2017.01.02-10.27.32:487][726]LogTexture:Display: Building textures: HQ_Lightmap0_20 (AutoDXT)
+[2017.01.02-10.27.32:525][726]LogTexture:Display: Building textures: HQ_Lightmap0_21 (AutoDXT)
+[2017.01.02-10.27.32:601][726]LogTexture:Display: Building textures: HQ_Lightmap0_22 (AutoDXT)
+[2017.01.02-10.27.33:175][726]LogTexture:Display: Building textures: HQ_Lightmap0_23 (AutoDXT)
+[2017.01.02-10.27.33:260][726]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT)
+[2017.01.02-10.27.34:516][726]LogTexture:Display: Building textures: HQ_Lightmap0_4 (AutoDXT)
+[2017.01.02-10.27.34:563][726]LogTexture:Display: Building textures: HQ_Lightmap0_5 (AutoDXT)
+[2017.01.02-10.27.34:605][726]LogTexture:Display: Building textures: HQ_Lightmap0_6 (AutoDXT)
+[2017.01.02-10.27.34:648][726]LogTexture:Display: Building textures: HQ_Lightmap0_7 (AutoDXT)
+[2017.01.02-10.27.34:691][726]LogTexture:Display: Building textures: HQ_Lightmap0_8 (AutoDXT)
+[2017.01.02-10.27.34:742][726]LogTexture:Display: Building textures: HQ_Lightmap0_9 (AutoDXT)
+[2017.01.02-10.27.34:785][726]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2017.01.02-10.27.35:048][726]LogTexture:Display: Building textures: LQ_Lightmap_0_10 (DXT1)
+[2017.01.02-10.27.35:076][726]LogTexture:Display: Building textures: LQ_Lightmap_0_11 (DXT1)
+[2017.01.02-10.27.35:120][726]LogTexture:Display: Building textures: LQ_Lightmap_0_12 (DXT1)
+[2017.01.02-10.27.35:166][726]LogTexture:Display: Building textures: LQ_Lightmap_0_13 (DXT1)
+[2017.01.02-10.27.35:213][726]LogTexture:Display: Building textures: LQ_Lightmap_0_14 (DXT1)
+[2017.01.02-10.27.35:286][726]LogTexture:Display: Building textures: LQ_Lightmap_0_15 (DXT1)
+[2017.01.02-10.27.35:472][726]LogTexture:Display: Building textures: LQ_Lightmap_0_16 (DXT1)
+[2017.01.02-10.27.35:519][726]LogTexture:Display: Building textures: LQ_Lightmap_0_17 (DXT1)
+[2017.01.02-10.27.35:576][726]LogTexture:Display: Building textures: LQ_Lightmap_0_18 (DXT1)
+[2017.01.02-10.27.35:617][726]LogTexture:Display: Building textures: LQ_Lightmap_0_19 (DXT1)
+[2017.01.02-10.27.35:656][726]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2017.01.02-10.27.35:786][726]LogTexture:Display: Building textures: LQ_Lightmap_0_20 (DXT1)
+[2017.01.02-10.27.35:821][726]LogTexture:Display: Building textures: LQ_Lightmap_0_21 (DXT1)
+[2017.01.02-10.27.35:866][726]LogTexture:Display: Building textures: LQ_Lightmap_0_22 (DXT1)
+[2017.01.02-10.27.36:267][726]LogTexture:Display: Building textures: LQ_Lightmap_0_23 (DXT1)
+[2017.01.02-10.27.36:366][726]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1)
+[2017.01.02-10.27.37:290][726]LogTexture:Display: Building textures: LQ_Lightmap_0_4 (DXT1)
+[2017.01.02-10.27.37:337][726]LogTexture:Display: Building textures: LQ_Lightmap_0_5 (DXT1)
+[2017.01.02-10.27.37:381][726]LogTexture:Display: Building textures: LQ_Lightmap_0_6 (DXT1)
+[2017.01.02-10.27.37:425][726]LogTexture:Display: Building textures: LQ_Lightmap_0_7 (DXT1)
+[2017.01.02-10.27.37:472][726]LogTexture:Display: Building textures: LQ_Lightmap_0_8 (DXT1)
+[2017.01.02-10.27.37:512][726]LogTexture:Display: Building textures: LQ_Lightmap_0_9 (DXT1)
+[2017.01.02-10.27.37:579][726]LogTexture:Display: Building textures: SkyOcclusion0_1 (AutoDXT)
+[2017.01.02-10.27.37:902][726]LogTexture:Display: Building textures: SkyOcclusion0_10 (AutoDXT)
+[2017.01.02-10.27.37:920][726]LogTexture:Display: Building textures: SkyOcclusion0_11 (AutoDXT)
+[2017.01.02-10.27.37:947][726]LogTexture:Display: Building textures: SkyOcclusion0_12 (AutoDXT)
+[2017.01.02-10.27.37:974][726]LogTexture:Display: Building textures: SkyOcclusion0_13 (AutoDXT)
+[2017.01.02-10.27.38:001][726]LogTexture:Display: Building textures: SkyOcclusion0_14 (AutoDXT)
+[2017.01.02-10.27.38:032][726]LogTexture:Display: Building textures: SkyOcclusion0_15 (AutoDXT)
+[2017.01.02-10.27.38:116][726]LogTexture:Display: Building textures: SkyOcclusion0_16 (AutoDXT)
+[2017.01.02-10.27.38:144][726]LogTexture:Display: Building textures: SkyOcclusion0_17 (AutoDXT)
+[2017.01.02-10.27.38:170][726]LogTexture:Display: Building textures: SkyOcclusion0_18 (AutoDXT)
+[2017.01.02-10.27.38:191][726]LogTexture:Display: Building textures: SkyOcclusion0_19 (AutoDXT)
+[2017.01.02-10.27.38:218][726]LogTexture:Display: Building textures: SkyOcclusion0_2 (AutoDXT)
+[2017.01.02-10.27.38:355][726]LogTexture:Display: Building textures: SkyOcclusion0_20 (AutoDXT)
+[2017.01.02-10.27.38:376][726]LogTexture:Display: Building textures: SkyOcclusion0_21 (AutoDXT)
+[2017.01.02-10.27.38:401][726]LogTexture:Display: Building textures: SkyOcclusion0_22 (AutoDXT)
+[2017.01.02-10.27.38:614][726]LogTexture:Display: Building textures: SkyOcclusion0_23 (AutoDXT)
+[2017.01.02-10.27.38:662][726]LogTexture:Display: Building textures: SkyOcclusion0_3 (AutoDXT)
+[2017.01.02-10.27.39:203][726]LogTexture:Display: Building textures: SkyOcclusion0_4 (AutoDXT)
+[2017.01.02-10.27.39:233][726]LogTexture:Display: Building textures: SkyOcclusion0_5 (AutoDXT)
+[2017.01.02-10.27.39:265][726]LogTexture:Display: Building textures: SkyOcclusion0_6 (AutoDXT)
+[2017.01.02-10.27.39:294][726]LogTexture:Display: Building textures: SkyOcclusion0_7 (AutoDXT)
+[2017.01.02-10.27.39:322][726]LogTexture:Display: Building textures: SkyOcclusion0_8 (AutoDXT)
+[2017.01.02-10.27.39:349][726]LogTexture:Display: Building textures: SkyOcclusion0_9 (AutoDXT)
+[2017.01.02-10.27.39:365][726]LogTexture:Display: Building textures: ShadowMapTexture2D_0 (G8)
+[2017.01.02-10.27.39:419][726]LogTexture:Display: Building textures: ShadowMapTexture2D_1 (BGRA8)
+[2017.01.02-10.27.39:544][726]LogTexture:Display: Building textures: ShadowMapTexture2D_10 (G8)
+[2017.01.02-10.27.39:546][726]LogTexture:Display: Building textures: ShadowMapTexture2D_11 (G8)
+[2017.01.02-10.27.39:548][726]LogTexture:Display: Building textures: ShadowMapTexture2D_12 (G8)
+[2017.01.02-10.27.39:549][726]LogTexture:Display: Building textures: ShadowMapTexture2D_13 (G8)
+[2017.01.02-10.27.39:551][726]LogTexture:Display: Building textures: ShadowMapTexture2D_14 (G8)
+[2017.01.02-10.27.39:552][726]LogTexture:Display: Building textures: ShadowMapTexture2D_15 (G8)
+[2017.01.02-10.27.39:554][726]LogTexture:Display: Building textures: ShadowMapTexture2D_16 (G8)
+[2017.01.02-10.27.39:557][726]LogTexture:Display: Building textures: ShadowMapTexture2D_17 (G8)
+[2017.01.02-10.27.39:559][726]LogTexture:Display: Building textures: ShadowMapTexture2D_18 (G8)
+[2017.01.02-10.27.39:560][726]LogTexture:Display: Building textures: ShadowMapTexture2D_19 (G8)
+[2017.01.02-10.27.39:560][726]LogTexture:Display: Building textures: ShadowMapTexture2D_2 (G8)
+[2017.01.02-10.27.39:570][726]LogTexture:Display: Building textures: ShadowMapTexture2D_20 (BGRA8)
+[2017.01.02-10.27.39:577][726]LogTexture:Display: Building textures: ShadowMapTexture2D_21 (G8)
+[2017.01.02-10.27.39:578][726]LogTexture:Display: Building textures: ShadowMapTexture2D_3 (G8)
+[2017.01.02-10.27.39:579][726]LogTexture:Display: Building textures: ShadowMapTexture2D_4 (G8)
+[2017.01.02-10.27.39:581][726]LogTexture:Display: Building textures: ShadowMapTexture2D_5 (BGRA8)
+[2017.01.02-10.27.39:583][726]LogTexture:Display: Building textures: ShadowMapTexture2D_6 (G8)
+[2017.01.02-10.27.39:584][726]LogTexture:Display: Building textures: ShadowMapTexture2D_7 (G8)
+[2017.01.02-10.27.39:585][726]LogTexture:Display: Building textures: ShadowMapTexture2D_8 (G8)
+[2017.01.02-10.27.39:586][726]LogTexture:Display: Building textures: ShadowMapTexture2D_9 (G8)
+[2017.01.02-10.27.39:634][726]LogMaterial: Missing cached shader map for material light, compiling. 
+[2017.01.02-10.27.40:466][726]LogTexture:Display: Building textures: T_Rock_Sandstone_N (BC5)
+[2017.01.02-10.27.41:725][726]LogTexture:Display: Building textures: T_Rock_Sandstone_D (AutoDXT)
+[2017.01.02-10.27.50:197][726]LogTexture:Display: Building textures: T_MacroVariation (AutoDXT)
+[2017.01.02-10.27.56:682][726]LogMaterial: Missing cached shader map for material M_Rock_Sandstone, compiling. 
+[2017.01.02-10.27.57:504][726]LogMaterial: Missing cached shader map for material M_Rock_Sandstone, compiling. 
+[2017.01.02-10.27.57:610][726]LogAIModule: Creating AISystem for world Entrance
+[2017.01.02-10.27.58:005][726]Cmd: MAP LOAD FILE="E:/ProjetGit/RescaleUnreal/Content/_Rescale/Entrance.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.01.02-10.27.58:006][726]LightingResults: New page: Lighting Build
+[2017.01.02-10.27.58:007][726]LoadErrors: New page: Loading map: Entrance.umap
+[2017.01.02-10.27.58:029][726]MapCheck: New page: Map Check
+[2017.01.02-10.27.58:029][726]LightingResults: New page: Lighting Build
+[2017.01.02-10.27.58:484][726]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.01.02-10.27.58:539][726]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.01.02-10.27.58:600][726]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 61.011ms to complete.
+[2017.01.02-10.27.58:601][726]LogFileHelpers: Loading map 'Entrance' took 0.639
+[2017.01.02-10.28.03:469][974]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.02-10.28.03:615][974]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.02-10.28.03:718][974]PIE: New page: PIE session: Entrance (Jan 2, 2017, 12:28:03 PM)
+[2017.01.02-10.28.03:718][974]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_Entrance
+[2017.01.02-10.28.03:810][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.091437s)
+[2017.01.02-10.28.03:810][974]LogAIModule: Creating AISystem for world Entrance
+[2017.01.02-10.28.03:828][974]LogPlayLevel: PIE: World Init took: (0.018348s)
+[2017.01.02-10.28.03:838][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/Entrance.Entrance to /Game/_Rescale/UEDPIE_0_Entrance.Entrance (0.120195s)
+[2017.01.02-10.28.03:928][974]LogInit: XAudio2 using 'Haut-parleurs (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.02-10.28.03:952][974]LogInit: FAudioDevice initialized.
+[2017.01.02-10.28.04:244][974]LogLoad: Game class is 'BP_RescaleGamemode_C'
+[2017.01.02-10.28.04:380][974]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_Entrance.Entrance up for play (max tick rate 60) at 2017.01.02-11.28.04
+[2017.01.02-10.28.04:503][974]LogWorld: Bringing up level for play took: 0.121408
+[2017.01.02-10.28.04:924][974]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 11 classes and 0 folders.
+[2017.01.02-10.28.05:121][974]LogScriptCore:Warning: Script Msg: Divide by zero
 Script call stack:
 	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
 	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
 
-[2017.01.01-20.16.42:820][642]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_MapTest 2.691
-[2017.01.01-20.16.42:820][642]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.16.42:863][643]LogScriptCore:Warning: Script Msg: Divide by zero
+[2017.01.02-10.28.05:625][974]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_Entrance 2.965
+[2017.01.02-10.28.24:745][958]LogNet: Browse: /Game/_Rescale/Inside
+[2017.01.02-10.28.24:757][958]LogLoad: LoadMap: /Game/_Rescale/Inside
+[2017.01.02-10.28.24:783][958]LogScriptCore:Warning: Script Msg: Divide by zero
 Script call stack:
 	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
 	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
 
-[2017.01.01-20.16.51:863][149]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.16.52:419][149]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.17.51:525][251]LogSavePackage: Save=109.40ms
-[2017.01.01-20.17.51:525][251]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/ScalableGeometry4BE7E4FA4A20C609BFACA5B706EE9F32.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/_Blueprints/ScalableGeometry.uasset'
-[2017.01.01-20.17.51:530][251]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/_Blueprints/ScalableGeometry.uasset
-[2017.01.01-20.17.52:218][290]BlueprintLog: New page: Compile ScalableGeometry
-[2017.01.01-20.17.55:810][456]LogTemp: Repeting last play command: Selected Viewport
-[2017.01.01-20.17.55:826][456]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.17.55:826][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.01.01-20.17.55:826][456]PIE: New page: PIE session: MapTest (Jan 1, 2017, 10:17:55 PM)
-[2017.01.01-20.17.55:827][456]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_MapTest
-[2017.01.01-20.17.55:830][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003344s)
-[2017.01.01-20.17.55:831][456]LogAIModule: Creating AISystem for world MapTest
-[2017.01.01-20.17.55:831][456]LogPlayLevel: PIE: World Init took: (0.000896s)
-[2017.01.01-20.17.55:831][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/MapTest.MapTest to /Game/_Rescale/UEDPIE_0_MapTest.MapTest (0.004495s)
-[2017.01.01-20.17.55:848][456]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.01.01-20.17.55:855][456]LogInit: FAudioDevice initialized.
-[2017.01.01-20.17.55:883][456]LogLoad: Game class is 'BP_RescaleGamemode_C'
-[2017.01.01-20.17.55:885][456]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_MapTest.MapTest up for play (max tick rate 60) at 2017.01.01-21.17.55
-[2017.01.01-20.17.55:886][456]LogWorld: Bringing up level for play took: 0.001229
-[2017.01.01-20.17.55:886][456]LogScriptCore:Warning: Script Msg: Divide by zero
+[2017.01.02-10.28.24:860][958]Cmd: MEM
+[2017.01.02-10.28.25:049][958]LogMemory: Platform Memory Stats for Windows
+[2017.01.02-10.28.25:049][958]LogMemory: Process Physical Memory: 1275.20 MB used, 1358.71 MB peak
+[2017.01.02-10.28.25:049][958]LogMemory: Process Virtual Memory: 1679.30 MB used, 1711.57 MB peak
+[2017.01.02-10.28.25:049][958]LogMemory: Physical Memory: 4810.86 MB used,  1222.13 MB free, 6033.00 MB total
+[2017.01.02-10.28.25:049][958]LogMemory: Virtual Memory: 2471.39 MB used,  1222.13 MB free, 134217728.00 MB total
+[2017.01.02-10.28.25:049][958]LogMemory: 
+[2017.01.02-10.28.25:049][958]Allocator Stats for TBB: (not implemented)
+[2017.01.02-10.28.25:279][958]LogMaterial: Missing cached shader map for material light2, compiling. 
+[2017.01.02-10.28.25:326][958]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2017.01.02-10.28.25:569][958]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2017.01.02-10.28.27:461][958]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT)
+[2017.01.02-10.28.28:989][958]LogTexture:Display: Building textures: HQ_Lightmap0_5 (AutoDXT)
+[2017.01.02-10.28.30:295][958]LogTexture:Display: Building textures: HQ_Lightmap0_6 (AutoDXT)
+[2017.01.02-10.28.30:531][958]LogTexture:Display: Building textures: HQ_Lightmap1_4 (AutoDXT)
+[2017.01.02-10.28.32:093][958]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2017.01.02-10.28.32:221][958]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2017.01.02-10.28.33:184][958]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1)
+[2017.01.02-10.28.33:924][958]LogTexture:Display: Building textures: LQ_Lightmap_0_5 (DXT1)
+[2017.01.02-10.28.34:403][958]LogTexture:Display: Building textures: LQ_Lightmap_0_6 (DXT1)
+[2017.01.02-10.28.34:535][958]LogTexture:Display: Building textures: LQ_Lightmap_1_4 (DXT1)
+[2017.01.02-10.28.35:200][958]LogTexture:Display: Building textures: ShadowMapTexture2D_32 (BGRA8)
+[2017.01.02-10.28.35:267][958]LogTexture:Display: Building textures: ShadowMapTexture2D_33 (BGRA8)
+[2017.01.02-10.28.35:490][958]LogTexture:Display: Building textures: ShadowMapTexture2D_34 (BGRA8)
+[2017.01.02-10.28.35:608][958]LogTexture:Display: Building textures: ShadowMapTexture2D_35 (BGRA8)
+[2017.01.02-10.28.39:626][958]LogAIModule: Creating AISystem for world Inside
+[2017.01.02-10.28.39:720][958]LogLoad: Game class is 'BP_RescaleGamemode_C'
+[2017.01.02-10.28.39:794][958]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_Inside.Inside up for play (max tick rate 60) at 2017.01.02-11.28.39
+[2017.01.02-10.28.39:794][958]LogWorld: Bringing up level for play took: 0.037221
+[2017.01.02-10.28.39:795][958]LogScriptCore:Warning: Script Msg: Divide by zero
 Script call stack:
 	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
 	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
 
-[2017.01.01-20.17.55:888][456]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_MapTest -0.24
-[2017.01.01-20.17.55:889][456]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.18.03:593][918]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.18.04:151][918]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.18.05:038][960]LogEditorViewport: Clicking on Actor (LMB): ScalableGeometry_C (ScalableGeometry4)
-[2017.01.01-20.18.10:358][278]LogEditorViewport: Clicking on Actor (LMB): ScalableGeometry_C (ScalableGeometry5)
-[2017.01.01-20.18.11:660][355]LogEditorViewport: Clicking on Actor (LMB): ScalableGeometry_C (ScalableGeometry6)
-[2017.01.01-20.18.12:613][411]LogTemp: Repeting last play command: Selected Viewport
-[2017.01.01-20.18.12:627][411]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.18.12:627][411]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.01.01-20.18.12:628][411]PIE: New page: PIE session: MapTest (Jan 1, 2017, 10:18:12 PM)
-[2017.01.01-20.18.12:628][411]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_MapTest
-[2017.01.01-20.18.12:631][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003487s)
-[2017.01.01-20.18.12:632][411]LogAIModule: Creating AISystem for world MapTest
-[2017.01.01-20.18.12:632][411]LogPlayLevel: PIE: World Init took: (0.000653s)
-[2017.01.01-20.18.12:632][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/MapTest.MapTest to /Game/_Rescale/UEDPIE_0_MapTest.MapTest (0.004394s)
-[2017.01.01-20.18.12:649][411]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.01.01-20.18.12:657][411]LogInit: FAudioDevice initialized.
-[2017.01.01-20.18.12:689][411]LogLoad: Game class is 'BP_RescaleGamemode_C'
-[2017.01.01-20.18.12:691][411]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_MapTest.MapTest up for play (max tick rate 60) at 2017.01.01-21.18.12
-[2017.01.01-20.18.12:691][411]LogWorld: Bringing up level for play took: 0.001238
-[2017.01.01-20.18.12:692][411]LogScriptCore:Warning: Script Msg: Divide by zero
+[2017.01.02-10.28.39:811][958]LogLoad: Took 15.054632 seconds to LoadMap(/Game/_Rescale/Inside)
+[2017.01.02-10.29.43:387][672]LogScriptCore:Warning: Script Msg: Divide by zero
 Script call stack:
 	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
 	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
 
-[2017.01.01-20.18.12:694][411]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_MapTest 0.566
-[2017.01.01-20.18.12:694][411]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.18.18:965][787]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.18.19:477][787]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.19.31:098][  8]LogSavePackage: Save=104.81ms
-[2017.01.01-20.19.31:098][  8]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/ScalableGeometry4CF72C5043D2AF93EF7C45B2200CFC05.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/_Blueprints/ScalableGeometry.uasset'
-[2017.01.01-20.19.31:102][  8]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/_Blueprints/ScalableGeometry.uasset
-[2017.01.01-20.19.31:597][ 37]BlueprintLog: New page: Compile ScalableGeometry
-[2017.01.01-20.19.33:919][128]LogTemp: Repeting last play command: Selected Viewport
-[2017.01.01-20.19.33:932][128]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.19.33:932][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.01.01-20.19.33:932][128]PIE: New page: PIE session: MapTest (Jan 1, 2017, 10:19:33 PM)
-[2017.01.01-20.19.33:932][128]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_MapTest
-[2017.01.01-20.19.33:936][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004057s)
-[2017.01.01-20.19.33:937][128]LogAIModule: Creating AISystem for world MapTest
-[2017.01.01-20.19.33:937][128]LogPlayLevel: PIE: World Init took: (0.000930s)
-[2017.01.01-20.19.33:937][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/MapTest.MapTest to /Game/_Rescale/UEDPIE_0_MapTest.MapTest (0.005233s)
-[2017.01.01-20.19.33:956][128]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.01.01-20.19.33:965][128]LogInit: FAudioDevice initialized.
-[2017.01.01-20.19.33:994][128]LogLoad: Game class is 'BP_RescaleGamemode_C'
-[2017.01.01-20.19.33:997][128]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_MapTest.MapTest up for play (max tick rate 60) at 2017.01.01-21.19.33
-[2017.01.01-20.19.33:997][128]LogWorld: Bringing up level for play took: 0.001240
-[2017.01.01-20.19.33:998][128]LogScriptCore:Warning: Script Msg: Divide by zero
+[2017.01.02-10.29.54:083][304]LogScriptCore:Warning: Script Msg: Divide by zero
 Script call stack:
 	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
 	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
 
-[2017.01.01-20.19.34:000][128]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_MapTest -0.129
-[2017.01.01-20.19.34:000][128]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.20.09:989][287]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.20.10:528][287]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.21.51:633][302]LogEditorTransaction: Undo Delete current selection
-[2017.01.01-20.22.00:082][791]LogSavePackage: Save=104.60ms
-[2017.01.01-20.22.00:082][791]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/ScalableGeometryFD8E05C8477448AD05906F9AC654EE57.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/_Blueprints/ScalableGeometry.uasset'
-[2017.01.01-20.22.00:086][791]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/_Blueprints/ScalableGeometry.uasset
-[2017.01.01-20.22.01:048][848]BlueprintLog: New page: Compile ScalableGeometry
-[2017.01.01-20.22.03:317][929]LogTemp: Repeting last play command: Selected Viewport
-[2017.01.01-20.22.03:330][929]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.22.03:330][929]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.01.01-20.22.03:331][929]PIE: New page: PIE session: MapTest (Jan 1, 2017, 10:22:03 PM)
-[2017.01.01-20.22.03:331][929]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_MapTest
-[2017.01.01-20.22.03:335][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004027s)
-[2017.01.01-20.22.03:335][929]LogAIModule: Creating AISystem for world MapTest
-[2017.01.01-20.22.03:336][929]LogPlayLevel: PIE: World Init took: (0.000761s)
-[2017.01.01-20.22.03:336][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/MapTest.MapTest to /Game/_Rescale/UEDPIE_0_MapTest.MapTest (0.005013s)
-[2017.01.01-20.22.03:353][929]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.01.01-20.22.03:360][929]LogInit: FAudioDevice initialized.
-[2017.01.01-20.22.03:393][929]LogLoad: Game class is 'BP_RescaleGamemode_C'
-[2017.01.01-20.22.03:395][929]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_MapTest.MapTest up for play (max tick rate 60) at 2017.01.01-21.22.03
-[2017.01.01-20.22.03:396][929]LogWorld: Bringing up level for play took: 0.001225
-[2017.01.01-20.22.03:396][929]LogScriptCore:Warning: Script Msg: Divide by zero
+[2017.01.02-10.30.03:934][873]LogScriptCore:Warning: Script Msg: Divide by zero
 Script call stack:
 	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
 	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
 
-[2017.01.01-20.22.03:398][929]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_MapTest -0.73
-[2017.01.01-20.22.03:398][929]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.22.08:802][253]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.22.09:353][253]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.22.38:432][954]LogSavePackage: Save=105.26ms
-[2017.01.01-20.22.38:432][954]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/ScalableGeometry8A426DCC4660D67D493F4DA9BD94E95E.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/_Blueprints/ScalableGeometry.uasset'
-[2017.01.01-20.22.38:436][954]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/_Blueprints/ScalableGeometry.uasset
-[2017.01.01-20.22.39:017][988]BlueprintLog: New page: Compile ScalableGeometry
-[2017.01.01-20.22.39:101][988]LogBlueprint:Error: [Compiler ScalableGeometry] Error This blueprint (self) is not a SceneComponent, therefore ' self ' must have a connection.
-[2017.01.01-20.22.40:274][988]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a SceneComponent, therefore ' self ' must have a connection.
-[2017.01.01-20.22.40:275][988]LogBlueprint:Warning: [Compiler ScalableGeometry] Warning [2092.33] Compile of ScalableGeometry failed. 1 Fatal Issue(s) 0 Warning(s) [in 1,258 ms] (/Game/_Rescale/_Blueprints/ScalableGeometry.ScalableGeometry)
-[2017.01.01-20.22.42:204][ 96]LogTemp: Repeting last play command: Selected Viewport
-[2017.01.01-20.22.42:221][ 96]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.22.42:222][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.01.01-20.23.23:117][403]LogSavePackage: Save=100.42ms
-[2017.01.01-20.23.23:117][403]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/ScalableGeometry65FE17F842547E99F719F8AEB4588432.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/_Blueprints/ScalableGeometry.uasset'
-[2017.01.01-20.23.23:120][403]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/_Blueprints/ScalableGeometry.uasset
-[2017.01.01-20.23.25:586][550]BlueprintLog: New page: Compile ScalableGeometry
-[2017.01.01-20.23.27:913][644]LogTemp: Repeting last play command: Selected Viewport
-[2017.01.01-20.23.27:927][644]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.23.27:927][644]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.01.01-20.23.27:927][644]PIE: New page: PIE session: MapTest (Jan 1, 2017, 10:23:27 PM)
-[2017.01.01-20.23.27:927][644]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_MapTest
-[2017.01.01-20.23.27:930][644]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002603s)
-[2017.01.01-20.23.27:930][644]LogAIModule: Creating AISystem for world MapTest
-[2017.01.01-20.23.27:931][644]LogPlayLevel: PIE: World Init took: (0.000781s)
-[2017.01.01-20.23.27:931][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/MapTest.MapTest to /Game/_Rescale/UEDPIE_0_MapTest.MapTest (0.003620s)
-[2017.01.01-20.23.27:947][644]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.01.01-20.23.27:955][644]LogInit: FAudioDevice initialized.
-[2017.01.01-20.23.27:987][644]LogLoad: Game class is 'BP_RescaleGamemode_C'
-[2017.01.01-20.23.27:989][644]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_MapTest.MapTest up for play (max tick rate 60) at 2017.01.01-21.23.27
-[2017.01.01-20.23.27:989][644]LogWorld: Bringing up level for play took: 0.001117
-[2017.01.01-20.23.27:990][644]LogScriptCore:Warning: Script Msg: Divide by zero
+[2017.01.02-10.30.18:764][754]LogScriptCore:Warning: Script Msg: Divide by zero
 Script call stack:
 	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
 	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
 
-[2017.01.01-20.23.27:992][644]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_MapTest -0.136
-[2017.01.01-20.23.27:993][644]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.23.48:611][881]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.23.49:154][881]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.24.10:906][158]LogSavePackage: Save=106.15ms
-[2017.01.01-20.24.10:906][158]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/ScalableGeometryBBAA838440F251413309659EA4A7BE68.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/_Blueprints/ScalableGeometry.uasset'
-[2017.01.01-20.24.10:908][158]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/_Blueprints/ScalableGeometry.uasset
-[2017.01.01-20.24.11:802][211]BlueprintLog: New page: Compile ScalableGeometry
-[2017.01.01-20.24.14:646][329]LogTemp: Repeting last play command: Selected Viewport
-[2017.01.01-20.24.14:661][329]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.24.14:661][329]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.01.01-20.24.14:661][329]PIE: New page: PIE session: MapTest (Jan 1, 2017, 10:24:14 PM)
-[2017.01.01-20.24.14:661][329]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_MapTest
-[2017.01.01-20.24.14:664][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002665s)
-[2017.01.01-20.24.14:664][329]LogAIModule: Creating AISystem for world MapTest
-[2017.01.01-20.24.14:665][329]LogPlayLevel: PIE: World Init took: (0.000663s)
-[2017.01.01-20.24.14:665][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/MapTest.MapTest to /Game/_Rescale/UEDPIE_0_MapTest.MapTest (0.003560s)
-[2017.01.01-20.24.14:685][329]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.01.01-20.24.14:693][329]LogInit: FAudioDevice initialized.
-[2017.01.01-20.24.14:725][329]LogLoad: Game class is 'BP_RescaleGamemode_C'
-[2017.01.01-20.24.14:728][329]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_MapTest.MapTest up for play (max tick rate 60) at 2017.01.01-21.24.14
-[2017.01.01-20.24.14:728][329]LogWorld: Bringing up level for play took: 0.001380
-[2017.01.01-20.24.14:729][329]LogScriptCore:Warning: Script Msg: Divide by zero
-Script call stack:
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2017.01.02-10.38.39:623][803]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.01.02-10.38.39:940][804]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Rescale
 
-[2017.01.01-20.24.14:731][329]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_MapTest 0.602
-[2017.01.01-20.24.14:731][329]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.24.27:719][108]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.24.28:265][108]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.24.33:937][435]LogEditorViewport: Clicking on Actor (LMB): ScalableGeometry_C (ScalableGeometry5)
-[2017.01.01-20.24.58:169][878]LogSavePackage: Save=105.56ms
-[2017.01.01-20.24.58:169][878]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/MapTest_Auto30BBBBC11456E8C4054D6A3AB91FC4DC9.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Autosaves/Game/_Rescale/MapTest_Auto3.umap'
-[2017.01.01-20.24.58:171][878]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Autosaves/Game/_Rescale/MapTest_Auto3.umap
-[2017.01.01-20.24.58:172][878]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/_Rescale/MapTest' took 0.135
-[2017.01.01-20.24.58:172][878]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.135
-[2017.01.01-20.24.58:753][913]LogEditorViewport: Clicking on Actor (LMB): ScalableGeometry_C (ScalableGeometry5)
-[2017.01.01-20.25.08:245][479]LogTemp: Repeting last play command: Selected Viewport
-[2017.01.01-20.25.08:260][479]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.25.08:260][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.01.01-20.25.08:260][479]PIE: New page: PIE session: MapTest (Jan 1, 2017, 10:25:08 PM)
-[2017.01.01-20.25.08:260][479]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_MapTest
-[2017.01.01-20.25.08:262][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002682s)
-[2017.01.01-20.25.08:263][479]LogAIModule: Creating AISystem for world MapTest
-[2017.01.01-20.25.08:263][479]LogPlayLevel: PIE: World Init took: (0.000922s)
-[2017.01.01-20.25.08:263][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/MapTest.MapTest to /Game/_Rescale/UEDPIE_0_MapTest.MapTest (0.003826s)
-[2017.01.01-20.25.08:279][479]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.01.01-20.25.08:287][479]LogInit: FAudioDevice initialized.
-[2017.01.01-20.25.08:319][479]LogLoad: Game class is 'BP_RescaleGamemode_C'
-[2017.01.01-20.25.08:321][479]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_MapTest.MapTest up for play (max tick rate 60) at 2017.01.01-21.25.08
-[2017.01.01-20.25.08:321][479]LogWorld: Bringing up level for play took: 0.001300
-[2017.01.01-20.25.08:322][479]LogScriptCore:Warning: Script Msg: Divide by zero
-Script call stack:
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2017.01.02-10.38.39:940][804]LogTemp:Display: CWD: D:\Epic Games\4.14\Engine\Binaries\DotNet\IOS
 
-[2017.01.01-20.25.08:324][479]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_MapTest 0.195
-[2017.01.01-20.25.08:324][479]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.25.16:628][977]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.25.17:145][977]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.27.18:973][198]LogSavePackage: Save=117.13ms
-[2017.01.01-20.27.18:973][198]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/ScalableGeometryEAB1D54E456882578B6DA1AB54471EBF.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/_Blueprints/ScalableGeometry.uasset'
-[2017.01.01-20.27.18:976][198]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/_Blueprints/ScalableGeometry.uasset
-[2017.01.01-20.27.19:855][249]BlueprintLog: New page: Compile ScalableGeometry
-[2017.01.01-20.27.21:247][282]LogRenderer: Reallocating scene render targets to support 1196x600 NumSamples 1 (Frame:14664).
-[2017.01.01-20.27.22:334][345]LogTemp: Repeting last play command: Selected Viewport
-[2017.01.01-20.27.22:347][345]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.27.22:347][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.01.01-20.27.22:347][345]PIE: New page: PIE session: MapTest (Jan 1, 2017, 10:27:22 PM)
-[2017.01.01-20.27.22:348][345]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_MapTest
-[2017.01.01-20.27.22:350][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002617s)
-[2017.01.01-20.27.22:351][345]LogAIModule: Creating AISystem for world MapTest
-[2017.01.01-20.27.22:351][345]LogPlayLevel: PIE: World Init took: (0.000769s)
-[2017.01.01-20.27.22:351][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/MapTest.MapTest to /Game/_Rescale/UEDPIE_0_MapTest.MapTest (0.003692s)
-[2017.01.01-20.27.22:375][345]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.01.01-20.27.22:382][345]LogInit: FAudioDevice initialized.
-[2017.01.01-20.27.22:415][345]LogLoad: Game class is 'BP_RescaleGamemode_C'
-[2017.01.01-20.27.22:417][345]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_MapTest.MapTest up for play (max tick rate 60) at 2017.01.01-21.27.22
-[2017.01.01-20.27.22:418][345]LogWorld: Bringing up level for play took: 0.001170
-[2017.01.01-20.27.22:418][345]LogScriptCore:Warning: Script Msg: Divide by zero
-Script call stack:
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2017.01.02-10.38.39:940][804]LogTemp:Display: Initial Dir: D:\Epic Games\4.14
 
-[2017.01.01-20.27.22:420][345]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_MapTest 0.291
-[2017.01.01-20.27.22:420][345]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.27.37:396][243]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.27.37:971][243]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.27.43:545][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Rescale/MapTest" FILE="../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/MapTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2017.01.01-20.27.43:666][479]LogSavePackage: Save=102.19ms
-[2017.01.01-20.27.43:666][479]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/MapTestB961455847BA03F7D7F2F2B0308A9A12.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/MapTest.umap'
-[2017.01.01-20.27.43:671][479]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/MapTest.umap
-[2017.01.01-20.27.43:696][479]LogFileHelpers: Saving map 'MapTest' took 1.569
-[2017.01.01-20.28.32:217][309]LogTemp: Repeting last play command: Selected Viewport
-[2017.01.01-20.28.32:230][309]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.28.32:230][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.01.01-20.28.32:230][309]PIE: New page: PIE session: MapTest (Jan 1, 2017, 10:28:32 PM)
-[2017.01.01-20.28.32:230][309]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_MapTest
-[2017.01.01-20.28.32:235][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004728s)
-[2017.01.01-20.28.32:235][309]LogAIModule: Creating AISystem for world MapTest
-[2017.01.01-20.28.32:236][309]LogPlayLevel: PIE: World Init took: (0.000788s)
-[2017.01.01-20.28.32:236][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/MapTest.MapTest to /Game/_Rescale/UEDPIE_0_MapTest.MapTest (0.005731s)
-[2017.01.01-20.28.32:250][309]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.01.01-20.28.32:259][309]LogInit: FAudioDevice initialized.
-[2017.01.01-20.28.32:292][309]LogLoad: Game class is 'BP_RescaleGamemode_C'
-[2017.01.01-20.28.32:294][309]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_MapTest.MapTest up for play (max tick rate 60) at 2017.01.01-21.28.32
-[2017.01.01-20.28.32:295][309]LogWorld: Bringing up level for play took: 0.001239
-[2017.01.01-20.28.32:296][309]LogScriptCore:Warning: Script Msg: Divide by zero
-Script call stack:
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2017.01.02-10.38.39:940][804]LogTemp:Display: Env CWD: D:\Epic Games\4.14\Engine\Binaries\DotNet\IOS
 
-[2017.01.01-20.28.32:297][309]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_MapTest 0.169
-[2017.01.01-20.28.32:298][309]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.29.20:271][187]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.29.20:781][187]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Rescale/MapTest.MapTest:PersistentLevel' has LevelScriptBlueprint '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest' with GeneratedClass '/Game/_Rescale/MapTest.MapTest_C' with ClassGeneratedBy '/Game/_Rescale/MapTest.MapTest:PersistentLevel.MapTest'
-[2017.01.01-20.29.30:426][728]LogAIModule: Creating AISystem for world Inside
-[2017.01.01-20.29.30:456][728]Cmd: MAP LOAD FILE="../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2017.01.01-20.29.30:456][728]LightingResults: New page: Lighting Build
-[2017.01.01-20.29.30:457][728]LoadErrors: New page: Loading map: Inside.umap
-[2017.01.01-20.29.30:458][728]MapCheck: New page: Map Check
-[2017.01.01-20.29.30:458][728]LightingResults: New page: Lighting Build
-[2017.01.01-20.29.30:540][728]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2017.01.01-20.29.30:563][728]Cmd: MAP CHECKDEP NOCLEARLOG
-[2017.01.01-20.29.30:616][728]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 52.882ms to complete.
-[2017.01.01-20.29.30:616][728]LogFileHelpers: Loading map 'Inside' took 0.164
-[2017.01.01-20.29.33:015][855]LogTemp: Repeting last play command: Selected Viewport
-[2017.01.01-20.29.33:035][855]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.01.01-20.29.33:035][855]PIE: New page: PIE session: Inside (Jan 1, 2017, 10:29:33 PM)
-[2017.01.01-20.29.33:035][855]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_Inside
-[2017.01.01-20.29.33:047][855]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012068s)
-[2017.01.01-20.29.33:048][855]LogAIModule: Creating AISystem for world Inside
-[2017.01.01-20.29.33:048][855]LogPlayLevel: PIE: World Init took: (0.000576s)
-[2017.01.01-20.29.33:048][855]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/Inside.Inside to /Game/_Rescale/UEDPIE_0_Inside.Inside (0.012892s)
-[2017.01.01-20.29.33:062][855]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.01.01-20.29.33:071][855]LogInit: FAudioDevice initialized.
-[2017.01.01-20.29.33:102][855]LogLoad: Game class is 'BP_RescaleGamemode_C'
-[2017.01.01-20.29.33:107][855]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_Inside.Inside up for play (max tick rate 60) at 2017.01.01-21.29.33
-[2017.01.01-20.29.33:107][855]LogWorld: Bringing up level for play took: 0.004308
-[2017.01.01-20.29.33:108][855]LogScriptCore:Warning: Script Msg: Divide by zero
-Script call stack:
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2017.01.02-10.38.39:940][804]LogTemp:Display: BranchPath = DESKTOP-FMK961L/D/Epic Games/4.14/Engine/Binaries --- GameBranchPath = DESKTOP-FMK961L/D/Epic Games/4.14/Engine/Binaries
 
-[2017.01.01-20.29.33:110][855]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_Inside 0.981
-[2017.01.01-20.29.35:965][ 24]Cmd: LevelEditor.ToggleImmersive
-[2017.01.01-20.29.36:131][ 25]LogRenderer: Reallocating scene render targets to support 1568x848 NumSamples 1 (Frame:20682).
-[2017.01.01-20.29.36:188][ 26]LogRenderer: Reallocating scene render targets to support 1920x1080 NumSamples 1 (Frame:20684).
-[2017.01.01-20.29.53:416][780]LogEditorViewport: Clicking on Actor (LMB): ScalableGeometry_C (ScalableGeometry)
-[2017.01.01-20.30.02:484][271]LogTemp: Repeting last play command: Selected Viewport
-[2017.01.01-20.30.02:510][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.01.01-20.30.02:511][271]PIE: New page: PIE session: Inside (Jan 1, 2017, 10:30:02 PM)
-[2017.01.01-20.30.02:511][271]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_Inside
-[2017.01.01-20.30.02:541][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029812s)
-[2017.01.01-20.30.02:541][271]LogAIModule: Creating AISystem for world Inside
-[2017.01.01-20.30.02:542][271]LogPlayLevel: PIE: World Init took: (0.001010s)
-[2017.01.01-20.30.02:542][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/Inside.Inside to /Game/_Rescale/UEDPIE_0_Inside.Inside (0.031211s)
-[2017.01.01-20.30.02:572][271]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.01.01-20.30.02:594][271]LogInit: FAudioDevice initialized.
-[2017.01.01-20.30.02:628][271]LogLoad: Game class is 'BP_RescaleGamemode_C'
-[2017.01.01-20.30.02:637][271]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_Inside.Inside up for play (max tick rate 60) at 2017.01.01-21.30.02
-[2017.01.01-20.30.02:638][271]LogWorld: Bringing up level for play took: 0.007519
-[2017.01.01-20.30.02:639][271]LogScriptCore:Warning: Script Msg: Divide by zero
-Script call stack:
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
-
-[2017.01.01-20.30.02:643][271]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_Inside 0.514
-[2017.01.01-20.30.06:582][506]Cmd: LevelEditor.ToggleImmersive
-[2017.01.01-20.30.47:415][582]LogEditorViewport: Clicking on Actor (LMB): ScalableGeometry_C (ScalableGeometry7)
-[2017.01.01-20.30.52:663][893]LogTemp: Repeting last play command: Selected Viewport
-[2017.01.01-20.30.52:676][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.01.01-20.30.52:677][893]PIE: New page: PIE session: Inside (Jan 1, 2017, 10:30:52 PM)
-[2017.01.01-20.30.52:677][893]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_Inside
-[2017.01.01-20.30.52:689][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012304s)
-[2017.01.01-20.30.52:689][893]LogAIModule: Creating AISystem for world Inside
-[2017.01.01-20.30.52:689][893]LogPlayLevel: PIE: World Init took: (0.000519s)
-[2017.01.01-20.30.52:690][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/Inside.Inside to /Game/_Rescale/UEDPIE_0_Inside.Inside (0.013096s)
-[2017.01.01-20.30.52:706][893]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.01.01-20.30.52:715][893]LogInit: FAudioDevice initialized.
-[2017.01.01-20.30.52:746][893]LogLoad: Game class is 'BP_RescaleGamemode_C'
-[2017.01.01-20.30.52:752][893]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_Inside.Inside up for play (max tick rate 60) at 2017.01.01-21.30.52
-[2017.01.01-20.30.52:752][893]LogWorld: Bringing up level for play took: 0.004308
-[2017.01.01-20.30.52:753][893]LogScriptCore:Warning: Script Msg: Divide by zero
-Script call stack:
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
-
-[2017.01.01-20.30.52:755][893]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_Inside 0.626
-[2017.01.01-20.31.58:803][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v162)
-[2017.01.01-20.32.06:875][197]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
-[2017.01.01-20.33.21:442][606]MapCheck: New page: Map Check
-[2017.01.01-20.33.21:496][606]Cmd: MAP REBUILD ALLVISIBLE
-[2017.01.01-20.33.21:497][606]LogEditorServer: Rebuildmap Clear paths rebuilt
-[2017.01.01-20.33.23:636][606]LightingResults: New page: Lighting Build - Jan 1, 2017, 10:33:23 PM
-[2017.01.01-20.33.24:872][606]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
-[2017.01.01-20.33.26:174][606]LogSwarmInterface: [OpenConnection] Connecting to agent ...
-[2017.01.01-20.33.26:306][606]LogSwarmInterface: [TryOpenConnection] Testing the Agent
-[2017.01.01-20.33.28:413][606]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
-[2017.01.01-20.33.28:413][606]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10016
-[2017.01.01-20.33.32:322][606]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
-[2017.01.01-20.33.32:322][606]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
-[2017.01.01-20.33.32:322][606]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
-[2017.01.01-20.33.32:322][606]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
-[2017.01.01-20.33.32:322][606]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
-[2017.01.01-20.33.33:355][606]Cmd: MAP CHECK DONTDISPLAYDIALOG
-[2017.01.01-20.33.33:355][606]MapCheck: New page: Inside - Jan 1, 2017, 10:33:33 PM
-[2017.01.01-20.33.33:369][606]MapCheck:Error: Error WorldSettings Maps need lighting rebuilt 
-[2017.01.01-20.33.33:459][606]MapCheck: Info Map check complete: 1 Error(s), 0 Warning(s), took 103.945ms to complete.
-[2017.01.01-20.33.33:481][606]LogEditorBuildUtils: Build time 0:12
-[2017.01.01-20.35.09:350][978]Job is a success!
-[2017.01.01-20.35.11:824][979]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
-[2017.01.01-20.35.11:824][979]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
-[2017.01.01-20.35.11:824][979]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
-[2017.01.01-20.35.11:824][979]LogTexture:Display: Building textures: HQ_Lightmap1_3 (AutoDXT)
-[2017.01.01-20.35.11:824][979]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
-[2017.01.01-20.35.11:824][979]LogTexture:Display: Building textures: LQ_Lightmap_1_3 (DXT1)
-[2017.01.01-20.35.12:405][979]LogTexture:Display: Building textures: ShadowMapTexture2D_1 (BGRA8)
-[2017.01.01-20.35.12:754][979]Lightmass on MANUPC: 1:36 min total, 179 ms importing, 364 ms setup, 12.2 sec photons, 1:23 min processing, 0 ms extra exporting [185/185 mappings]. Threads: 9:42 min total, 7:56 min processing.
-[2017.01.01-20.35.12:794][979]LogStaticLightingSystem: Illumination: 1:49 min (2.00 sec encoding lightmaps, 572 ms encoding shadowmaps)
-[2017.01.01-20.35.12:794][979]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (4.0 MB streaming, 2.0 MB non-streaming), 6 textures
-[2017.01.01-20.35.12:794][979]LogStaticLightingSystem: Shadowmap texture memory: 10.7 MB (10.7 MB streaming, 0.0 MB non-streaming), 1 textures
-[2017.01.01-20.35.13:334][979]DumpUnbuiltLightIteractions
-[2017.01.01-20.35.13:334][979]Lights with unbuilt interactions: 0
-[2017.01.01-20.35.13:334][979]
-[2017.01.01-20.35.13:334][979]Primitives with unbuilt interactions: 0
-[2017.01.01-20.35.13:352][980]Cmd: MAP CHECK NOTIFYRESULTS
-[2017.01.01-20.35.13:352][980]MapCheck: New page: Inside - Jan 1, 2017, 10:35:13 PM
-[2017.01.01-20.35.13:425][980]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 73.105ms to complete.
-[2017.01.01-20.36.24:068][ 91]LogTemp: Repeting last play command: Selected Viewport
-[2017.01.01-20.36.24:171][ 91]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.01.01-20.36.24:171][ 91]PIE: New page: PIE session: Inside (Jan 1, 2017, 10:36:24 PM)
-[2017.01.01-20.36.24:172][ 91]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_Inside
-[2017.01.01-20.36.24:215][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035181s)
-[2017.01.01-20.36.24:216][ 91]LogAIModule: Creating AISystem for world Inside
-[2017.01.01-20.36.24:216][ 91]LogPlayLevel: PIE: World Init took: (0.000780s)
-[2017.01.01-20.36.24:216][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/Inside.Inside to /Game/_Rescale/UEDPIE_0_Inside.Inside (0.044417s)
-[2017.01.01-20.36.24:240][ 91]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.01.01-20.36.24:271][ 91]LogInit: FAudioDevice initialized.
-[2017.01.01-20.36.24:312][ 91]LogLoad: Game class is 'BP_RescaleGamemode_C'
-[2017.01.01-20.36.24:330][ 91]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_Inside.Inside up for play (max tick rate 60) at 2017.01.01-21.36.24
-[2017.01.01-20.36.24:331][ 91]LogWorld: Bringing up level for play took: 0.014619
-[2017.01.01-20.36.24:333][ 91]LogScriptCore:Warning: Script Msg: Divide by zero
-Script call stack:
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
-
-[2017.01.01-20.36.24:337][ 91]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_Inside 0.209
-[2017.01.01-20.36.28:076][304]Cmd: LevelEditor.ToggleImmersive
-[2017.01.01-20.37.31:408][745]LogTemp: Repeting last play command: Selected Viewport
-[2017.01.01-20.37.31:424][745]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.01.01-20.37.31:424][745]PIE: New page: PIE session: Inside (Jan 1, 2017, 10:37:31 PM)
-[2017.01.01-20.37.31:424][745]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_Inside
-[2017.01.01-20.37.31:438][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014106s)
-[2017.01.01-20.37.31:439][745]LogAIModule: Creating AISystem for world Inside
-[2017.01.01-20.37.31:439][745]LogPlayLevel: PIE: World Init took: (0.000564s)
-[2017.01.01-20.37.31:439][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/Inside.Inside to /Game/_Rescale/UEDPIE_0_Inside.Inside (0.014935s)
-[2017.01.01-20.37.31:454][745]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.01.01-20.37.31:462][745]LogInit: FAudioDevice initialized.
-[2017.01.01-20.37.31:492][745]LogLoad: Game class is 'BP_RescaleGamemode_C'
-[2017.01.01-20.37.31:498][745]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_Inside.Inside up for play (max tick rate 60) at 2017.01.01-21.37.31
-[2017.01.01-20.37.31:498][745]LogWorld: Bringing up level for play took: 0.004175
-[2017.01.01-20.37.31:499][745]LogScriptCore:Warning: Script Msg: Divide by zero
-Script call stack:
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
-
-[2017.01.01-20.37.31:501][745]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_Inside -0.628
-[2017.01.01-20.37.33:424][860]Cmd: LevelEditor.ToggleImmersive
-[2017.01.01-20.37.40:533][132]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Column3x3x9_WIP9)
-[2017.01.01-20.38.03:594][453]LogTemp: Repeting last play command: Selected Viewport
-[2017.01.01-20.38.03:612][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.01.01-20.38.03:612][453]PIE: New page: PIE session: Inside (Jan 1, 2017, 10:38:03 PM)
-[2017.01.01-20.38.03:612][453]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_Inside
-[2017.01.01-20.38.03:627][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014925s)
-[2017.01.01-20.38.03:628][453]LogAIModule: Creating AISystem for world Inside
-[2017.01.01-20.38.03:644][453]LogPlayLevel: PIE: World Init took: (0.016626s)
-[2017.01.01-20.38.03:644][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/Inside.Inside to /Game/_Rescale/UEDPIE_0_Inside.Inside (0.031823s)
-[2017.01.01-20.38.03:661][453]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.01.01-20.38.03:671][453]LogInit: FAudioDevice initialized.
-[2017.01.01-20.38.03:703][453]LogLoad: Game class is 'BP_RescaleGamemode_C'
-[2017.01.01-20.38.03:708][453]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_Inside.Inside up for play (max tick rate 60) at 2017.01.01-21.38.03
-[2017.01.01-20.38.03:709][453]LogWorld: Bringing up level for play took: 0.005060
-[2017.01.01-20.38.03:710][453]LogScriptCore:Warning: Script Msg: Divide by zero
-Script call stack:
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
-
-[2017.01.01-20.38.03:713][453]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_Inside -0.416
-[2017.01.01-20.38.08:986][769]Cmd: LevelEditor.ToggleImmersive
-[2017.01.01-20.38.50:875][774]LogBlueprintUserMessages: [BP_Character_C_0] Dead
-[2017.01.01-20.38.55:855][  9]LogScriptCore:Warning: Script Msg: Divide by zero
-Script call stack:
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
-
-[2017.01.01-20.39.19:138][186]LogScriptCore:Warning: Script Msg: Divide by zero
-Script call stack:
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
-
-[2017.01.01-20.39.57:685][238]LogScriptCore:Warning: Script Msg: Divide by zero
-Script call stack:
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
-
-[2017.01.01-20.40.25:285][697]LogScriptCore:Warning: Script Msg: Divide by zero
-Script call stack:
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
-
-[2017.01.01-20.40.34:846][172]LogCharacterMovement: BP_Character_C_4 is stuck and failed to move! Velocity: X=1217.84 Y=80.06 Z=0.00 Location: X=32889.90 Y=5081.64 Z=-1296.92 Normal: X=0.00 Y=0.00 Z=-1.00 PenetrationDepth:9.002 Actor:ScalableGeometry8 Component:NODE_AddStaticMeshComponent-0_10 BoneName:None (0 other events since notify)
-[2017.01.01-20.40.35:873][222]LogCharacterMovement: BP_Character_C_4 is stuck and failed to move! Velocity: X=513.25 Y=1040.08 Z=0.00 Location: X=33038.64 Y=4872.57 Z=-1184.68 Normal: X=-0.31 Y=-0.94 Z=-0.16 PenetrationDepth:72.425 Actor:Cube3x3x3_Archi_v197 Component:StaticMeshComponent0 BoneName:None (20 other events since notify)
-[2017.01.01-20.40.40:143][477]LogScriptCore:Warning: Script Msg: Divide by zero
-Script call stack:
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
-
-[2017.01.01-20.41.41:489][262]LogBlueprintUserMessages: [BP_Character_C_5] Dead
-[2017.01.01-20.41.46:479][499]LogScriptCore:Warning: Script Msg: Divide by zero
-Script call stack:
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
-
-[2017.01.01-20.42.24:817][367]Cmd: SELECT NONE
-[2017.01.01-20.42.39:738][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Rescale/Inside" FILE="../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2017.01.01-20.42.39:936][172]LogSavePackage: Save=154.01ms
-[2017.01.01-20.42.39:936][172]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/InsideFBDC250E454EF015E2C250A11ACD5C0A.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside.umap'
-[2017.01.01-20.42.39:939][172]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside.umap
-[2017.01.01-20.42.39:964][172]LogFileHelpers: Saving map 'Inside' took 0.311
-[2017.01.01-20.42.39:966][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Rescale/Inside_BuiltData" FILE="../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside_BuiltData.uasset" SILENT=true
-[2017.01.01-20.42.40:563][172]LogSavePackage: Save=521.00ms
-[2017.01.01-20.42.40:563][172]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Inside_BuiltData8B71718D458D083943BB3D887BF07C71.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside_BuiltData.uasset'
-[2017.01.01-20.42.40:569][172]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside_BuiltData.uasset
-[2017.01.01-20.42.43:098][270]LogAIModule: Creating AISystem for world Entrance
-[2017.01.01-20.42.43:131][270]Cmd: MAP LOAD FILE="../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Entrance.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2017.01.01-20.42.43:131][270]LightingResults: New page: Lighting Build
-[2017.01.01-20.42.43:132][270]LoadErrors: New page: Loading map: Entrance.umap
-[2017.01.01-20.42.43:134][270]MapCheck: New page: Map Check
-[2017.01.01-20.42.43:134][270]LightingResults: New page: Lighting Build
-[2017.01.01-20.42.43:959][270]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2017.01.01-20.42.43:982][270]Cmd: MAP CHECKDEP NOCLEARLOG
-[2017.01.01-20.42.44:044][270]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 61.536ms to complete.
-[2017.01.01-20.42.44:044][270]LogFileHelpers: Loading map 'Entrance' took 0.914
-[2017.01.01-20.42.46:756][398]LogTemp: Repeting last play command: Selected Viewport
-[2017.01.01-20.42.46:778][398]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.01.01-20.42.46:779][398]PIE: New page: PIE session: Entrance (Jan 1, 2017, 10:42:46 PM)
-[2017.01.01-20.42.46:779][398]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_Entrance
-[2017.01.01-20.42.46:808][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029186s)
-[2017.01.01-20.42.46:808][398]LogAIModule: Creating AISystem for world Entrance
-[2017.01.01-20.42.46:808][398]LogPlayLevel: PIE: World Init took: (0.000581s)
-[2017.01.01-20.42.46:809][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/Entrance.Entrance to /Game/_Rescale/UEDPIE_0_Entrance.Entrance (0.030045s)
-[2017.01.01-20.42.46:828][398]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.01.01-20.42.46:836][398]LogInit: FAudioDevice initialized.
-[2017.01.01-20.42.46:867][398]LogLoad: Game class is 'BP_RescaleGamemode_C'
-[2017.01.01-20.42.46:874][398]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_Entrance.Entrance up for play (max tick rate 60) at 2017.01.01-21.42.46
-[2017.01.01-20.42.46:882][398]LogWorld: Bringing up level for play took: 0.013802
-[2017.01.01-20.42.46:884][398]LogScriptCore:Warning: Script Msg: Divide by zero
-Script call stack:
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
-
-[2017.01.01-20.42.46:888][398]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_Entrance 0.759
-[2017.01.01-20.42.57:368][ 20]LogNet: Browse: /Game/_Rescale/Inside
-[2017.01.01-20.42.57:369][ 20]LogLoad: LoadMap: /Game/_Rescale/Inside
-[2017.01.01-20.42.57:370][ 20]LogScriptCore:Warning: Script Msg: Divide by zero
-Script call stack:
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
-
-[2017.01.01-20.42.57:395][ 20]Cmd: MEM
-[2017.01.01-20.42.57:422][ 20]LogMemory: Platform Memory Stats for Windows
-[2017.01.01-20.42.57:422][ 20]LogMemory: Process Physical Memory: 6206.11 MB used, 6292.65 MB peak
-[2017.01.01-20.42.57:422][ 20]LogMemory: Process Virtual Memory: 7920.29 MB used, 8008.73 MB peak
-[2017.01.01-20.42.57:422][ 20]LogMemory: Physical Memory: 7808.24 MB used,  307.03 MB free, 8115.27 MB total
-[2017.01.01-20.42.57:422][ 20]LogMemory: Virtual Memory: 9495.18 MB used,  307.03 MB free, 134217728.00 MB total
-[2017.01.01-20.42.57:422][ 20]LogMemory: 
-[2017.01.01-20.42.57:422][ 20]Allocator Stats for TBB: (not implemented)
-[2017.01.01-20.43.07:204][ 20]LogAIModule: Creating AISystem for world Inside
-[2017.01.01-20.43.08:136][ 20]LogLoad: Game class is 'BP_RescaleGamemode_C'
-[2017.01.01-20.43.08:162][ 20]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_Inside.Inside up for play (max tick rate 60) at 2017.01.01-21.43.08
-[2017.01.01-20.43.08:163][ 20]LogWorld: Bringing up level for play took: 0.024341
-[2017.01.01-20.43.08:163][ 20]LogScriptCore:Warning: Script Msg: Divide by zero
-Script call stack:
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
-
-[2017.01.01-20.43.08:191][ 20]LogLoad: Took 10.822292 seconds to LoadMap(/Game/_Rescale/Inside)
-[2017.01.01-20.44.23:532][358]LogAIModule: Creating AISystem for world Inside
-[2017.01.01-20.44.23:558][358]Cmd: MAP LOAD FILE="../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2017.01.01-20.44.23:558][358]LightingResults: New page: Lighting Build
-[2017.01.01-20.44.23:559][358]LoadErrors: New page: Loading map: Inside.umap
-[2017.01.01-20.44.23:561][358]MapCheck: New page: Map Check
-[2017.01.01-20.44.23:561][358]LightingResults: New page: Lighting Build
-[2017.01.01-20.44.23:980][358]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2017.01.01-20.44.24:043][358]Cmd: MAP CHECKDEP NOCLEARLOG
-[2017.01.01-20.44.28:023][358]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 3,980.53ms to complete.
-[2017.01.01-20.44.28:058][358]LogFileHelpers: Loading map 'Inside' took 4.501
-[2017.01.01-20.44.46:111][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v188)
-[2017.01.01-20.44.48:042][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v166)
-[2017.01.01-20.45.51:793][ 83]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v188)
-[2017.01.01-20.45.53:195][159]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v166)
-[2017.01.01-20.46.28:073][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v188)
-[2017.01.01-20.46.29:276][307]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v166)
-[2017.01.01-20.46.49:303][501]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v198)
-[2017.01.01-20.46.57:158][965]MapCheck: New page: Map Check
-[2017.01.01-20.46.57:246][965]Cmd: MAP REBUILD ALLVISIBLE
-[2017.01.01-20.46.57:247][965]LogEditorServer: Rebuildmap Clear paths rebuilt
-[2017.01.01-20.46.57:449][965]LightingResults: New page: Lighting Build - Jan 1, 2017, 10:46:57 PM
-[2017.01.01-20.46.57:463][965]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
-[2017.01.01-20.46.57:464][965]LogSwarmInterface: [OpenConnection] Connecting to agent ...
-[2017.01.01-20.46.57:464][965]LogSwarmInterface: [TryOpenConnection] Testing the Agent
-[2017.01.01-20.46.57:465][965]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
-[2017.01.01-20.46.57:465][965]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10016
-[2017.01.01-20.47.02:094][965]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
-[2017.01.01-20.47.02:094][965]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
-[2017.01.01-20.47.02:094][965]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
-[2017.01.01-20.47.02:094][965]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
-[2017.01.01-20.47.02:094][965]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
-[2017.01.01-20.47.02:708][965]Cmd: MAP CHECK DONTDISPLAYDIALOG
-[2017.01.01-20.47.02:708][965]MapCheck: New page: Inside - Jan 1, 2017, 10:47:02 PM
-[2017.01.01-20.47.02:709][965]MapCheck:Error: Error WorldSettings Maps need lighting rebuilt 
-[2017.01.01-20.47.02:860][965]MapCheck: Info Map check complete: 1 Error(s), 0 Warning(s), took 151.747ms to complete.
-[2017.01.01-20.47.02:882][965]LogEditorBuildUtils: Build time 0:05
-[2017.01.01-20.48.31:138][ 24]Job is a success!
-[2017.01.01-20.48.33:304][ 25]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
-[2017.01.01-20.48.33:304][ 25]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
-[2017.01.01-20.48.33:304][ 25]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
-[2017.01.01-20.48.33:304][ 25]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
-[2017.01.01-20.48.33:304][ 25]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT)
-[2017.01.01-20.48.33:304][ 25]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1)
-[2017.01.01-20.48.33:965][ 25]LogTexture:Display: Building textures: ShadowMapTexture2D_2 (BGRA8)
-[2017.01.01-20.48.34:003][ 25]Lightmass on MANUPC: 1:28 min total, 275 ms importing, 361 ms setup, 11.3 sec photons, 1:16 min processing, 0 ms extra exporting [185/185 mappings]. Threads: 8:56 min total, 7:18 min processing.
-[2017.01.01-20.48.34:139][ 25]LogStaticLightingSystem: Illumination: 1:36 min (1.75 sec encoding lightmaps, 656 ms encoding shadowmaps)
-[2017.01.01-20.48.34:139][ 25]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (4.0 MB streaming, 2.0 MB non-streaming), 6 textures
-[2017.01.01-20.48.34:139][ 25]LogStaticLightingSystem: Shadowmap texture memory: 10.7 MB (10.7 MB streaming, 0.0 MB non-streaming), 1 textures
-[2017.01.01-20.48.35:123][ 25]DumpUnbuiltLightIteractions
-[2017.01.01-20.48.35:123][ 25]Lights with unbuilt interactions: 0
-[2017.01.01-20.48.35:123][ 25]
-[2017.01.01-20.48.35:123][ 25]Primitives with unbuilt interactions: 0
-[2017.01.01-20.48.35:144][ 26]Cmd: MAP CHECK NOTIFYRESULTS
-[2017.01.01-20.48.35:144][ 26]MapCheck: New page: Inside - Jan 1, 2017, 10:48:35 PM
-[2017.01.01-20.48.36:602][ 26]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 1,458.514ms to complete.
-[2017.01.01-20.49.52:694][560]LogTemp: Repeting last play command: Selected Viewport
-[2017.01.01-20.49.52:715][560]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.01.01-20.49.52:716][560]PIE: New page: PIE session: Inside (Jan 1, 2017, 10:49:52 PM)
-[2017.01.01-20.49.52:716][560]LogPlayLevel: Creating play world package: /Game/_Rescale/UEDPIE_0_Inside
-[2017.01.01-20.49.52:735][560]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014655s)
-[2017.01.01-20.49.52:736][560]LogAIModule: Creating AISystem for world Inside
-[2017.01.01-20.49.52:736][560]LogPlayLevel: PIE: World Init took: (0.000649s)
-[2017.01.01-20.49.52:736][560]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Rescale/Inside.Inside to /Game/_Rescale/UEDPIE_0_Inside.Inside (0.020558s)
-[2017.01.01-20.49.52:766][560]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.01.01-20.49.52:926][560]LogInit: FAudioDevice initialized.
-[2017.01.01-20.49.52:976][560]LogLoad: Game class is 'BP_RescaleGamemode_C'
-[2017.01.01-20.49.52:982][560]LogWorld: Bringing World /Game/_Rescale/UEDPIE_0_Inside.Inside up for play (max tick rate 60) at 2017.01.01-21.49.52
-[2017.01.01-20.49.52:982][560]LogWorld: Bringing up level for play took: 0.004976
-[2017.01.01-20.49.52:983][560]LogScriptCore:Warning: Script Msg: Divide by zero
-Script call stack:
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation
-	Function /Game/_Rescale/Meshes/Mannequins/ThirdPerson/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
-
-[2017.01.01-20.49.52:986][560]PIE: Info Play in editor start time for /Game/_Rescale/UEDPIE_0_Inside 0.857
-[2017.01.01-20.51.30:227][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3x3x3_Archi_v198)
-[2017.01.01-20.51.47:536][246]MapCheck: New page: Map Check
-[2017.01.01-20.51.47:600][246]Cmd: MAP REBUILD ALLVISIBLE
-[2017.01.01-20.51.47:600][246]LogEditorServer: Rebuildmap Clear paths rebuilt
-[2017.01.01-20.51.47:821][246]LightingResults: New page: Lighting Build - Jan 1, 2017, 10:51:47 PM
-[2017.01.01-20.51.47:834][246]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
-[2017.01.01-20.51.47:835][246]LogSwarmInterface: [OpenConnection] Connecting to agent ...
-[2017.01.01-20.51.47:835][246]LogSwarmInterface: [TryOpenConnection] Testing the Agent
-[2017.01.01-20.51.47:836][246]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
-[2017.01.01-20.51.47:836][246]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10016
-[2017.01.01-20.51.52:350][246]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
-[2017.01.01-20.51.52:351][246]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
-[2017.01.01-20.51.52:351][246]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
-[2017.01.01-20.51.52:351][246]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
-[2017.01.01-20.51.52:351][246]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
-[2017.01.01-20.51.52:784][246]Cmd: MAP CHECK DONTDISPLAYDIALOG
-[2017.01.01-20.51.52:784][246]MapCheck: New page: Inside - Jan 1, 2017, 10:51:52 PM
-[2017.01.01-20.51.52:785][246]MapCheck:Error: Error WorldSettings Maps need lighting rebuilt 
-[2017.01.01-20.51.52:907][246]MapCheck: Info Map check complete: 1 Error(s), 0 Warning(s), took 122.958ms to complete.
-[2017.01.01-20.51.52:929][246]LogEditorBuildUtils: Build time 0:05
-[2017.01.01-20.53.20:074][305]Job is a success!
-[2017.01.01-20.53.21:869][306]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
-[2017.01.01-20.53.21:869][306]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
-[2017.01.01-20.53.21:869][306]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
-[2017.01.01-20.53.21:869][306]LogTexture:Display: Building textures: HQ_Lightmap1_3 (AutoDXT)
-[2017.01.01-20.53.21:869][306]LogTexture:Display: Building textures: LQ_Lightmap_1_3 (DXT1)
-[2017.01.01-20.53.21:869][306]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
-[2017.01.01-20.53.22:436][306]LogTexture:Display: Building textures: ShadowMapTexture2D_3 (BGRA8)
-[2017.01.01-20.53.22:478][306]Lightmass on MANUPC: 1:28 min total, 204 ms importing, 318 ms setup, 11.4 sec photons, 1:16 min processing, 0 ms extra exporting [185/185 mappings]. Threads: 8:52 min total, 7:18 min processing.
-[2017.01.01-20.53.22:494][306]LogStaticLightingSystem: Illumination: 1:34 min (1.43 sec encoding lightmaps, 581 ms encoding shadowmaps)
-[2017.01.01-20.53.22:494][306]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (4.0 MB streaming, 2.0 MB non-streaming), 6 textures
-[2017.01.01-20.53.22:494][306]LogStaticLightingSystem: Shadowmap texture memory: 10.7 MB (10.7 MB streaming, 0.0 MB non-streaming), 1 textures
-[2017.01.01-20.53.23:380][306]DumpUnbuiltLightIteractions
-[2017.01.01-20.53.23:380][306]Lights with unbuilt interactions: 0
-[2017.01.01-20.53.23:380][306]
-[2017.01.01-20.53.23:380][306]Primitives with unbuilt interactions: 0
-[2017.01.01-20.53.23:402][307]Cmd: MAP CHECK NOTIFYRESULTS
-[2017.01.01-20.53.23:403][307]MapCheck: New page: Inside - Jan 1, 2017, 10:53:23 PM
-[2017.01.01-20.53.23:558][307]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 156.187ms to complete.
-[2017.01.01-20.54.59:801][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Rescale/Inside" FILE="../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2017.01.01-20.54.59:975][834]LogSavePackage: Save=119.83ms
-[2017.01.01-20.54.59:975][834]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Inside334003784E28CBFC0928CA9DAA5804A8.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside.umap'
-[2017.01.01-20.54.59:995][834]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside.umap
-[2017.01.01-20.55.00:036][834]LogFileHelpers: Saving map 'Inside' took 0.338
-[2017.01.01-20.55.00:039][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Rescale/Inside_BuiltData" FILE="../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside_BuiltData.uasset" SILENT=true
-[2017.01.01-20.55.00:585][834]LogSavePackage: Save=481.46ms
-[2017.01.01-20.55.00:585][834]LogSavePackage: Moving '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Inside_BuiltData08E4606B420279AC34B426B3ADC00706.tmp' to '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside_BuiltData.uasset'
-[2017.01.01-20.55.00:592][834]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/_Rescale/Inside_BuiltData.uasset
-[2017.01.01-20.55.07:384][992]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
-[2017.01.01-20.56.45:391][993]Cmd: QUIT_EDITOR
-[2017.01.01-20.56.47:782][993]LogExit: Preparing to exit.
-[2017.01.01-20.56.50:824][993]LogDirectoryWatcher: A directory notification for 'C:/Users/Manu/Documents/Unreal Projects/RescaleE/Content/' was aborted.
-[2017.01.01-20.56.55:552][993]LogExit: Editor shut down
-[2017.01.01-20.56.55:795][993]LogExit: Transaction tracking system shut down
-[2017.01.01-20.57.06:601][993]LogObj: Freed 0b from 0 cluster array pools.
-[2017.01.01-20.57.06:602][993]LogExit: Object subsystem successfully closed.
-[2017.01.01-20.57.09:195][993]LogD3D11RHI: Shutdown
-[2017.01.01-20.57.09:196][993]LogD3D11RHI: CleanupD3DDevice
-[2017.01.01-20.57.17:607][993]LogD3D11RHI: ~FD3D11DynamicRHI
-[2017.01.01-20.57.18:216][993]LogHttp:Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
-[2017.01.01-20.57.18:216][993]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B17E8EBB4-40FA-11D5-B437-58834F4579BD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.1-3224400%2B%2B%2BUE4%2BRelease-4.14&UserID=bfaa3a4f404181b542fa71861563d13b%7C2f077aada51d4e47af0f7dc5927b56f4%7Cb3c26870-df9c-4f47-93ba-0b2c15a5d9e7&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
-[2017.01.01-20.57.18:216][993]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B17E8EBB4-40FA-11D5-B437-58834F4579BD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.1-3224400%2B%2B%2BUE4%2BRelease-4.14&UserID=bfaa3a4f404181b542fa71861563d13b%7C2f077aada51d4e47af0f7dc5927b56f4%7Cb3c26870-df9c-4f47-93ba-0b2c15a5d9e7&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
-[2017.01.01-20.57.18:292][993]LogModuleManager: Shutting down and abandoning module CurveAssetEditor (249)
-[2017.01.01-20.57.18:292][993]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (248)
-[2017.01.01-20.57.18:292][993]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (247)
-[2017.01.01-20.57.18:292][993]LogModuleManager: Shutting down and abandoning module BlueprintGraph (246)
-[2017.01.01-20.57.18:293][993]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (245)
-[2017.01.01-20.57.18:295][993]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (244)
-[2017.01.01-20.57.18:295][993]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (243)
-[2017.01.01-20.57.18:295][993]LogModuleManager: Shutting down and abandoning module CrashTracker (242)
-[2017.01.01-20.57.18:309][993]LogModuleManager: Shutting down and abandoning module SceneOutliner (241)
-[2017.01.01-20.57.18:309][993]LogModuleManager: Shutting down and abandoning module WidgetCarousel (240)
-[2017.01.01-20.57.18:309][993]LogModuleManager: Shutting down and abandoning module AddContentDialog (239)
-[2017.01.01-20.57.18:324][993]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.14/FeaturePacks/' was aborted.
-[2017.01.01-20.57.18:710][993]LogModuleManager: Shutting down and abandoning module GameplayTags (238)
-[2017.01.01-20.57.18:710][993]LogModuleManager: Shutting down and abandoning module EditorWidgets (237)
-[2017.01.01-20.57.18:710][993]LogModuleManager: Shutting down and abandoning module CollectionManager (236)
-[2017.01.01-20.57.18:723][993]LogDirectoryWatcher: A directory notification for 'C:/Users/Manu/Documents/Unreal Projects/RescaleE/Content/Collections/' was aborted.
-[2017.01.01-20.57.18:723][993]LogDirectoryWatcher: A directory notification for 'C:/Users/Manu/Documents/Unreal Projects/RescaleE/Content/Developers/Manu/Collections/' was aborted.
-[2017.01.01-20.57.18:735][993]LogDirectoryWatcher: A directory notification for 'C:/Users/Manu/Documents/Unreal Projects/RescaleE/Saved/Collections/' was aborted.
-[2017.01.01-20.57.18:735][993]LogModuleManager: Shutting down and abandoning module StatsViewer (235)
-[2017.01.01-20.57.18:736][993]LogModuleManager: Shutting down and abandoning module FoliageEdit (234)
-[2017.01.01-20.57.18:736][993]LogModuleManager: Shutting down and abandoning module LandscapeEditor (233)
-[2017.01.01-20.57.18:756][993]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (232)
-[2017.01.01-20.57.18:756][993]LogModuleManager: Shutting down and abandoning module ActorPickerMode (231)
-[2017.01.01-20.57.18:756][993]LogModuleManager: Shutting down and abandoning module GeometryMode (230)
-[2017.01.01-20.57.18:757][993]LogModuleManager: Shutting down and abandoning module TextureAlignMode (229)
-[2017.01.01-20.57.18:757][993]LogModuleManager: Shutting down and abandoning module BspMode (228)
-[2017.01.01-20.57.18:757][993]LogModuleManager: Shutting down and abandoning module HardwareSurvey (227)
-[2017.01.01-20.57.18:757][993]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (226)
-[2017.01.01-20.57.18:758][993]LogModuleManager: Shutting down and abandoning module AutomationWorker (225)
-[2017.01.01-20.57.18:758][993]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (224)
-[2017.01.01-20.57.18:760][993]LogModuleManager: Shutting down and abandoning module PlacementMode (223)
-[2017.01.01-20.57.18:762][993]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (222)
-[2017.01.01-20.57.18:766][993]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (221)
-[2017.01.01-20.57.18:766][993]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (220)
-[2017.01.01-20.57.18:766][993]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (219)
-[2017.01.01-20.57.18:767][993]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (218)
-[2017.01.01-20.57.18:767][993]LogModuleManager: Shutting down and abandoning module Media (217)
-[2017.01.01-20.57.18:767][993]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (216)
-[2017.01.01-20.57.18:767][993]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (215)
-[2017.01.01-20.57.18:767][993]LogModuleManager: Shutting down and abandoning module CharacterAI (214)
-[2017.01.01-20.57.18:767][993]LogModuleManager: Shutting down and abandoning module SequenceRecorder (213)
-[2017.01.01-20.57.18:770][993]LogModuleManager: Shutting down and abandoning module AudioCapture (212)
-[2017.01.01-20.57.18:770][993]LogModuleManager: Shutting down and abandoning module SmartSnapping (211)
-[2017.01.01-20.57.18:770][993]LogModuleManager: Shutting down and abandoning module SessionServices (210)
-[2017.01.01-20.57.18:770][993]LogModuleManager: Shutting down and abandoning module ViewportSnapping (209)
-[2017.01.01-20.57.18:771][993]LogModuleManager: Shutting down and abandoning module ViewportInteraction (208)
-[2017.01.01-20.57.18:771][993]LogModuleManager: Shutting down and abandoning module LogVisualizer (207)
-[2017.01.01-20.57.18:816][993]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (206)
-[2017.01.01-20.57.18:819][993]LogModuleManager: Shutting down and abandoning module IntroTutorials (205)
-[2017.01.01-20.57.18:820][993]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (204)
-[2017.01.01-20.57.18:821][993]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (203)
-[2017.01.01-20.57.18:821][993]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (202)
-[2017.01.01-20.57.18:821][993]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (201)
-[2017.01.01-20.57.18:930][993]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (200)
-[2017.01.01-20.57.18:930][993]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (199)
-[2017.01.01-20.57.18:930][993]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (198)
-[2017.01.01-20.57.18:930][993]LogModuleManager: Shutting down and abandoning module InputBindingEditor (197)
-[2017.01.01-20.57.18:930][993]LogModuleManager: Shutting down and abandoning module NiagaraEditor (196)
-[2017.01.01-20.57.18:934][993]LogModuleManager: Shutting down and abandoning module MergeActors (195)
-[2017.01.01-20.57.18:934][993]LogModuleManager: Shutting down and abandoning module SizeMap (194)
-[2017.01.01-20.57.18:935][993]LogModuleManager: Shutting down and abandoning module TreeMap (193)
-[2017.01.01-20.57.18:936][993]LogModuleManager: Shutting down and abandoning module ReferenceViewer (192)
-[2017.01.01-20.57.18:936][993]LogModuleManager: Shutting down and abandoning module LocalizationService (191)
-[2017.01.01-20.57.18:937][993]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (190)
-[2017.01.01-20.57.18:940][993]LogModuleManager: Shutting down and abandoning module HardwareTargeting (189)
-[2017.01.01-20.57.18:940][993]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (188)
-[2017.01.01-20.57.18:949][993]LogModuleManager: Shutting down and abandoning module UndoHistory (187)
-[2017.01.01-20.57.18:950][993]LogModuleManager: Shutting down and abandoning module UserFeedback (186)
-[2017.01.01-20.57.18:950][993]LogModuleManager: Shutting down and abandoning module XmlParser (185)
-[2017.01.01-20.57.18:960][993]LogModuleManager: Shutting down and abandoning module Blutility (184)
-[2017.01.01-20.57.18:960][993]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (183)
-[2017.01.01-20.57.18:980][993]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (182)
-[2017.01.01-20.57.18:981][993]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (181)
-[2017.01.01-20.57.18:982][993]LogModuleManager: Shutting down and abandoning module SettingsEditor (180)
-[2017.01.01-20.57.18:983][993]LogModuleManager: Shutting down and abandoning module ProjectLauncher (179)
-[2017.01.01-20.57.18:986][993]LogModuleManager: Shutting down and abandoning module SessionFrontend (178)
-[2017.01.01-20.57.18:987][993]LogModuleManager: Shutting down and abandoning module ProfilerClient (177)
-[2017.01.01-20.57.18:987][993]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (176)
-[2017.01.01-20.57.18:987][993]LogModuleManager: Shutting down and abandoning module DeviceManager (175)
-[2017.01.01-20.57.19:080][993]LogModuleManager: Shutting down and abandoning module AutomationController (174)
-[2017.01.01-20.57.19:082][993]LogModuleManager: Shutting down and abandoning module AutomationWindow (173)
-[2017.01.01-20.57.19:084][993]LogModuleManager: Shutting down and abandoning module Layers (172)
-[2017.01.01-20.57.19:093][993]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (171)
-[2017.01.01-20.57.19:093][993]LogModuleManager: Shutting down and abandoning module DetailCustomizations (170)
-[2017.01.01-20.57.19:094][993]LogModuleManager: Shutting down and abandoning module PackagesDialog (169)
-[2017.01.01-20.57.19:094][993]LogModuleManager: Shutting down and abandoning module AnimGraph (168)
-[2017.01.01-20.57.19:094][993]LogModuleManager: Shutting down and abandoning module Persona (167)
-[2017.01.01-20.57.19:096][993]LogModuleManager: Shutting down and abandoning module Kismet (166)
-[2017.01.01-20.57.19:149][993]LogModuleManager: Shutting down and abandoning module GraphEditor (165)
-[2017.01.01-20.57.19:160][993]LogModuleManager: Shutting down and abandoning module ClassViewer (164)
-[2017.01.01-20.57.19:174][993]LogModuleManager: Shutting down and abandoning module Toolbox (163)
-[2017.01.01-20.57.19:176][993]LogModuleManager: Shutting down and abandoning module ModuleUI (162)
-[2017.01.01-20.57.19:176][993]LogModuleManager: Shutting down and abandoning module MovieSceneTools (161)
-[2017.01.01-20.57.19:181][993]LogModuleManager: Shutting down and abandoning module OutputLog (160)
-[2017.01.01-20.57.19:181][993]LogModuleManager: Shutting down and abandoning module GammaUI (159)
-[2017.01.01-20.57.19:182][993]LogModuleManager: Shutting down and abandoning module Documentation (158)
-[2017.01.01-20.57.19:184][993]LogModuleManager: Shutting down and abandoning module Niagara (157)
-[2017.01.01-20.57.19:184][993]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (156)
-[2017.01.01-20.57.19:185][993]LogModuleManager: Shutting down and abandoning module AnalyticsET (155)
-[2017.01.01-20.57.19:185][993]LogModuleManager: Shutting down and abandoning module PortalServices (154)
-[2017.01.01-20.57.19:185][993]LogModuleManager: Shutting down and abandoning module PortalRpc (153)
-[2017.01.01-20.57.19:185][993]LogModuleManager: Shutting down and abandoning module MessagingRpc (152)
-[2017.01.01-20.57.19:185][993]LogModuleManager: Shutting down and abandoning module GameplayDebugger (151)
-[2017.01.01-20.57.19:185][993]LogModuleManager: Shutting down and abandoning module AITestSuite (150)
-[2017.01.01-20.57.19:185][993]LogModuleManager: Shutting down and abandoning module AIModule (149)
-[2017.01.01-20.57.19:185][993]LogModuleManager: Shutting down and abandoning module ProfilerService (148)
-[2017.01.01-20.57.19:418][993]LogModuleManager: Shutting down and abandoning module TaskGraph (147)
-[2017.01.01-20.57.19:420][993]LogModuleManager: Shutting down and abandoning module SubstanceEditor (146)
-[2017.01.01-20.57.19:423][993]LogModuleManager: Shutting down and abandoning module SlateRemote (145)
-[2017.01.01-20.57.19:424][993]LogModuleManager: Shutting down and abandoning module SteamVRController (144)
-[2017.01.01-20.57.19:424][993]LogModuleManager: Shutting down and abandoning module SteamVR (143)
-[2017.01.01-20.57.19:424][993]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (142)
-[2017.01.01-20.57.19:425][993]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (141)
-[2017.01.01-20.57.19:425][993]LogModuleManager: Shutting down and abandoning module OculusLibrary (140)
-[2017.01.01-20.57.19:425][993]LogModuleManager: Shutting down and abandoning module OculusInput (139)
-[2017.01.01-20.57.19:425][993]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (138)
-[2017.01.01-20.57.19:425][993]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (137)
-[2017.01.01-20.57.19:426][993]LogModuleManager: Shutting down and abandoning module CableComponent (136)
-[2017.01.01-20.57.19:426][993]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (135)
-[2017.01.01-20.57.19:426][993]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (133)
-[2017.01.01-20.57.19:430][993]LogModuleManager: Shutting down and abandoning module HTML5Networking (132)
-[2017.01.01-20.57.19:430][993]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (131)
-[2017.01.01-20.57.19:430][993]LogModuleManager: Shutting down and abandoning module GeometryCache (130)
-[2017.01.01-20.57.19:430][993]LogModuleManager: Shutting down and abandoning module AlembicLibrary (129)
-[2017.01.01-20.57.19:431][993]LogModuleManager: Shutting down and abandoning module AlembicImporter (128)
-[2017.01.01-20.57.19:431][993]LogModuleManager: Shutting down and abandoning module SuperSearch (127)
-[2017.01.01-20.57.19:431][993]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (126)
-[2017.01.01-20.57.19:431][993]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (125)
-[2017.01.01-20.57.19:431][993]LogModuleManager: Shutting down and abandoning module PluginBrowser (124)
-[2017.01.01-20.57.19:433][993]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (123)
-[2017.01.01-20.57.19:435][993]LogModuleManager: Shutting down and abandoning module EpicSurvey (122)
-[2017.01.01-20.57.19:440][993]LogModuleManager: Shutting down and abandoning module DesktopPlatform (121)
-[2017.01.01-20.57.19:441][993]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (120)
-[2017.01.01-20.57.19:442][993]LogModuleManager: Shutting down and abandoning module UObjectPlugin (119)
-[2017.01.01-20.57.19:442][993]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (118)
-[2017.01.01-20.57.19:444][993]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (117)
-[2017.01.01-20.57.19:451][993]LogModuleManager: Shutting down and abandoning module SourceControl (116)
-[2017.01.01-20.57.19:453][993]LogModuleManager: Shutting down and abandoning module GitSourceControl (115)
-[2017.01.01-20.57.19:455][993]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (114)
-[2017.01.01-20.57.19:456][993]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (113)
-[2017.01.01-20.57.19:456][993]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (112)
-[2017.01.01-20.57.19:457][993]LogModuleManager: Shutting down and abandoning module MeshPaint (111)
-[2017.01.01-20.57.19:457][993]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (110)
-[2017.01.01-20.57.19:459][993]LogModuleManager: Shutting down and abandoning module HotReload (109)
-[2017.01.01-20.57.19:461][993]LogModuleManager: Shutting down and abandoning module MainFrame (108)
-[2017.01.01-20.57.19:461][993]LogModuleManager: Shutting down and abandoning module LevelEditor (107)
-[2017.01.01-20.57.19:519][993]LogModuleManager: Shutting down and abandoning module ContentBrowser (106)
-[2017.01.01-20.57.19:638][993]LogModuleManager: Shutting down and abandoning module Paper2DEditor (105)
-[2017.01.01-20.57.19:661][993]LogModuleManager: Shutting down and abandoning module UdpMessaging (104)
-[2017.01.01-20.57.19:762][993]LogModuleManager: Shutting down and abandoning module TcpMessaging (103)
-[2017.01.01-20.57.19:862][993]LogModuleManager: Shutting down and abandoning module SubstanceCore (102)
-[2017.01.01-20.57.19:866][993]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
-[2017.01.01-20.57.19:866][993]LogModuleManager: Shutting down and abandoning module Paper2D (100)
-[2017.01.01-20.57.19:867][993]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
-[2017.01.01-20.57.19:870][993]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
-[2017.01.01-20.57.19:902][993]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
-[2017.01.01-20.57.19:902][993]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
-[2017.01.01-20.57.19:903][993]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
-[2017.01.01-20.57.19:904][993]LogModuleManager: Shutting down and abandoning module VREditor (94)
-[2017.01.01-20.57.19:904][993]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
-[2017.01.01-20.57.19:904][993]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
-[2017.01.01-20.57.19:906][993]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
-[2017.01.01-20.57.19:907][993]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
-[2017.01.01-20.57.19:910][993]LogModuleManager: Shutting down and abandoning module Sequencer (89)
-[2017.01.01-20.57.19:922][993]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
-[2017.01.01-20.57.19:924][993]LogModuleManager: Shutting down and abandoning module MessageLog (87)
-[2017.01.01-20.57.19:924][993]LogModuleManager: Shutting down and abandoning module AssetTools (86)
-[2017.01.01-20.57.19:929][993]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
-[2017.01.01-20.57.19:931][993]LogModuleManager: Shutting down and abandoning module UMG (84)
-[2017.01.01-20.57.19:950][993]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
-[2017.01.01-20.57.19:954][993]LogModuleManager: Shutting down and abandoning module Slate (82)
-[2017.01.01-20.57.19:954][993]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
-[2017.01.01-20.57.20:198][993]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
-[2017.01.01-20.57.20:199][993]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
-[2017.01.01-20.57.20:199][993]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
-[2017.01.01-20.57.20:199][993]LogModuleManager: Shutting down and abandoning module Networking (76)
-[2017.01.01-20.57.20:211][993]LogModuleManager: Shutting down and abandoning module Core (75)
-[2017.01.01-20.57.20:211][993]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
-[2017.01.01-20.57.20:211][993]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
-[2017.01.01-20.57.20:252][993]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Manu/Documents/Unreal Projects/RescaleE/Content/' was aborted.
-[2017.01.01-20.57.20:300][993]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
-[2017.01.01-20.57.20:511][993]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
-[2017.01.01-20.57.22:543][993]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
-[2017.01.01-20.57.22:543][993]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
-[2017.01.01-20.57.22:553][993]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
-[2017.01.01-20.57.22:563][993]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
-[2017.01.01-20.57.22:565][993]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
-[2017.01.01-20.57.22:566][993]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
-[2017.01.01-20.57.22:578][993]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
-[2017.01.01-20.57.22:582][993]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
-[2017.01.01-20.57.22:596][993]LogDerivedDataCache: Shutdown
-[2017.01.01-20.57.22:596][993]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
-[2017.01.01-20.57.22:599][993]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
-[2017.01.01-20.57.22:601][993]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
-[2017.01.01-20.57.22:611][993]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
-[2017.01.01-20.57.22:612][993]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
-[2017.01.01-20.57.22:612][993]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
-[2017.01.01-20.57.22:612][993]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
-[2017.01.01-20.57.22:612][993]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
-[2017.01.01-20.57.22:632][993]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
-[2017.01.01-20.57.22:632][993]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
-[2017.01.01-20.57.22:632][993]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
-[2017.01.01-20.57.22:632][993]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
-[2017.01.01-20.57.22:633][993]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
-[2017.01.01-20.57.22:633][993]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
-[2017.01.01-20.57.22:634][993]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
-[2017.01.01-20.57.22:634][993]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
-[2017.01.01-20.57.22:635][993]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
-[2017.01.01-20.57.22:636][993]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
-[2017.01.01-20.57.22:636][993]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
-[2017.01.01-20.57.22:644][993]LogModuleManager: Shutting down and abandoning module Messaging (45)
-[2017.01.01-20.57.22:655][993]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
-[2017.01.01-20.57.22:659][993]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
-[2017.01.01-20.57.22:661][993]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
-[2017.01.01-20.57.22:664][993]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
-[2017.01.01-20.57.22:667][993]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
-[2017.01.01-20.57.22:678][993]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
-[2017.01.01-20.57.22:678][993]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
-[2017.01.01-20.57.22:679][993]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
-[2017.01.01-20.57.22:679][993]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
-[2017.01.01-20.57.22:680][993]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
-[2017.01.01-20.57.22:680][993]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
-[2017.01.01-20.57.22:680][993]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
-[2017.01.01-20.57.22:681][993]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
-[2017.01.01-20.57.22:683][993]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
-[2017.01.01-20.57.22:684][993]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
-[2017.01.01-20.57.22:684][993]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
-[2017.01.01-20.57.22:685][993]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
-[2017.01.01-20.57.22:686][993]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
-[2017.01.01-20.57.22:686][993]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
-[2017.01.01-20.57.22:687][993]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
-[2017.01.01-20.57.22:701][993]LogModuleManager: Shutting down and abandoning module InputCore (24)
-[2017.01.01-20.57.22:701][993]LogModuleManager: Shutting down and abandoning module Settings (23)
-[2017.01.01-20.57.22:702][993]LogModuleManager: Shutting down and abandoning module OculusRift (22)
-[2017.01.01-20.57.22:703][993]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
-[2017.01.01-20.57.22:718][993]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
-[2017.01.01-20.57.22:718][993]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
-[2017.01.01-20.57.22:719][993]LogOnline:Display: Unloading online subsystem: NULL
-[2017.01.01-20.57.22:728][993]LogModuleManager: Shutting down and abandoning module SSL (17)
-[2017.01.01-20.57.22:745][993]LogModuleManager: Shutting down and abandoning module HTTP (16)
-[2017.01.01-20.57.22:745][993]LogModuleManager: Shutting down and abandoning module XMPP (15)
-[2017.01.01-20.57.22:751][993]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
-[2017.01.01-20.57.22:751][993]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
-[2017.01.01-20.57.22:751][993]LogModuleManager: Shutting down and abandoning module Landscape (12)
-[2017.01.01-20.57.22:751][993]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
-[2017.01.01-20.57.23:037][993]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
-[2017.01.01-20.57.23:038][993]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
-[2017.01.01-20.57.23:038][993]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
-[2017.01.01-20.57.23:038][993]LogModuleManager: Shutting down and abandoning module Renderer (7)
-[2017.01.01-20.57.23:038][993]LogModuleManager: Shutting down and abandoning module Engine (6)
-[2017.01.01-20.57.23:038][993]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
-[2017.01.01-20.57.23:038][993]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
-[2017.01.01-20.57.23:039][993]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
-[2017.01.01-20.57.23:039][993]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
-[2017.01.01-20.57.23:040][993]LogModuleManager: Shutting down and abandoning module PakFile (1)
-[2017.01.01-20.57.23:085][993]LogExit: Exiting.
-[2017.01.01-20.57.23:405][993]Log file closed, 01/01/17 21:57:23
